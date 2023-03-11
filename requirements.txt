@@ -1,0 +1,6 @@
+torch
+nltk
+readability
+np
+gensim
+matplotlib
