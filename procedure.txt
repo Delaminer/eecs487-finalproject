@@ -1,4 +1,18 @@
 
 **BELOW DESCRIBE THE ROUGH PROCEDURE OF OUR APPLICATION"
 
-1) 
+1. Given a question, we first embed it using BERT embedding
+
+2. Then, we search K question embeddings (in our dataset) that is closest 
+   to this question embedding. The question embeddings will be returned as long
+   as the similarity is above a threshold P.
+
+2.1 If there's no question embeddings that is closest to the question embedding, we 
+    tell the user we cannot find anything
+
+3. Then, we return the top 1 answer. If the user is not satisfied, we give them another one.
+   If we ran out of similar question to give, we tell them we cannot find anything (same as 2.1)
+
+After these, we can make a nice user-interface on the web
+
+Optioanlly, we can use our own voices that makes the question-answering bot talk with our voices
