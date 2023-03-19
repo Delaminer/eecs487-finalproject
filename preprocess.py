@@ -63,8 +63,8 @@ tree = ElementTree()
 tree.parse("data/Posts.xtml")
 posts = list(tree.find("posts").iter("row"))
 
-questions = [
-]
+questions = []
+answers = []
 
 for post in posts:
       print(post)
