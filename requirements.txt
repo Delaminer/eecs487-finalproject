@@ -4,3 +4,4 @@ readability
 np
 gensim
 matplotlib
+annoy
