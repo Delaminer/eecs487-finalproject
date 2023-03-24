@@ -1,5 +1,6 @@
 import numpy as np
 import torch
+import tensorflow_hub as tfh
 from xml.etree.ElementTree import ElementTree
 
 DATA_PATH = "data\\Posts.xml"
@@ -66,8 +67,8 @@ tree.parse("data//Posts.xml")
 root = tree.getroot()
 posts = root.iter("row")
 
-questions = []
-answers = []
+questions = dict()
+answers = dict()
 
 for post in posts:
       # print(post)
@@ -88,7 +89,7 @@ for post in posts:
                         "body": post.attrib["Body"],
                         "accepted": post.attrib["AcceptedAnswerId"] if "AcceptedAnswerId" in post.attrib else -1  
                   }
-                  questions.append(this_question)
+                  questions[post.attrib["Id"]] = this_question
       elif int(post.attrib["PostTypeId"]) == 2:
             # answer
             this_answer = {
@@ -96,7 +97,7 @@ for post in posts:
                   "question_id": post.attrib["ParentId"],
                   "body": post.attrib["Body"],
             }
-            answers.append(this_answer)
+            answers[post.attrib["Id"]] = this_answer
 
 # print(questions)
 # print(answers)
