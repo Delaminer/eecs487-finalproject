@@ -1,0 +1,7 @@
+
+For body field:
+1) get rid of the tags and weird symbols in body
+2) Lowercase
+3) Remove stopwords (maybe)
+4) Remove punctuations (maybe)
+5) Lemmatize word
