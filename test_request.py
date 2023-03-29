@@ -14,11 +14,10 @@ r = requests.get(url = URL)
   
 # extracting data in json format
 data = r.json()
-  
+print(data)
 print("This question is a duplicate:", data["items"][0]["closed_reason"] == "Duplicate")
 print("This question is a duplicate:", data["items"][0]["closed_details"]["reason"] == "Duplicate")
 print(data["items"][0]["closed_details"]["original_questions"])
-
   
 # # extracting latitude, longitude and formatted address 
 # # of the first matching location
