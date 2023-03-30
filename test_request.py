@@ -1,5 +1,5 @@
 import requests
-
+import json
 # SOME EXAMPLEs
 # Duplicate: 28205 -> original post 17339
 # Duplicate: 33553 -> original post 17243
@@ -8,16 +8,22 @@ id = "28205"
 # api-endpoint
 # URL = "https://api.stackexchange.com/2.3/questions/1/linked?order=desc&sort=activity&site=stackoverflow"
 # URL = "https://api.stackexchange.com/2.3/questions/" + id + "/related?order=desc&sort=activity&site=stackoverflow"
-URL =  "https://api.stackexchange.com/2.3/questions/" + id + "?order=desc&sort=activity&site=linguistics&filter=!6Wfm_gTNExWJv"
+URL =  "https://api.stackexchange.com/2.3/questions?keys=cvEJpTXMv7JflXDQrmi7)Q((/" + id + "?order=desc&sort=activity&site=linguistics&filter=!6Wfm_gTNExWJv"
 # location given here
 r = requests.get(url = URL)
   
 # extracting data in json format
 data = r.json()
-print(data)
-print("This question is a duplicate:", data["items"][0]["closed_reason"] == "Duplicate")
-print("This question is a duplicate:", data["items"][0]["closed_details"]["reason"] == "Duplicate")
-print(data["items"][0]["closed_details"]["original_questions"])
+data = json.dumps(data, indent=4)
+
+with open("view_data.txt", "w") as f:
+    
+    f.write(data)
+# print(data)
+
+# print("This question is a duplicate:", data["items"][0]["closed_reason"] == "Duplicate")
+# print("This question is a duplicate:", data["items"][0]["closed_details"]["reason"] == "Duplicate")
+# print(data["items"][0]["closed_details"]["original_questions"])   
   
 # # extracting latitude, longitude and formatted address 
 # # of the first matching location

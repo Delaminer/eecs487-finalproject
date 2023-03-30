@@ -1,0 +1,1144 @@
+{
+    "items": [
+        {
+            "tags": [
+                "history",
+                "alphabets"
+            ],
+            "owner": {
+                "account_id": 28162182,
+                "reputation": 1,
+                "user_id": 41423,
+                "user_type": "unregistered",
+                "profile_image": "https://www.gravatar.com/avatar/96e47e9eb7de2fe7a0e17a35313fbcb2?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "Jenko",
+                "link": "https://linguistics.stackexchange.com/users/41423/jenko"
+            },
+            "is_answered": false,
+            "view_count": 32,
+            "answer_count": 0,
+            "score": -2,
+            "last_activity_date": 1680121769,
+            "creation_date": 1680121738,
+            "last_edit_date": 1680121769,
+            "question_id": 46403,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46403/can-uppercase-j-be-used-to-replace-uppercase-i-letter",
+            "title": "Can uppercase j be used to replace uppercase i letter?",
+            "body": "<p>I have seen it repeatedly on inscriptions. For example, a grave of a person called Ida having Jda on the grave inscription.</p>\n<p>Is this a linguistic phenomenon? Like writing V instead of U in Latin language historical inscriptions?</p>\n<p>Thank you.</p>\n"
+        },
+        {
+            "tags": [
+                "pronunciation",
+                "orthography",
+                "evolutionary-linguistics"
+            ],
+            "owner": {
+                "account_id": 26078003,
+                "reputation": 7,
+                "user_id": 41417,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/AHfxK.png?s=256&g=1",
+                "display_name": "blue_lama",
+                "link": "https://linguistics.stackexchange.com/users/41417/blue-lama"
+            },
+            "is_answered": true,
+            "view_count": 43,
+            "answer_count": 3,
+            "score": -2,
+            "last_activity_date": 1680106500,
+            "creation_date": 1680101022,
+            "question_id": 46398,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46398/in-english-whats-the-origin-of-pronouncing-the-e-as-i-or-e",
+            "title": "In english, what&#39;s the origin of pronouncing the `e` as /i/ or /e/?",
+            "body": "<p>As instance, the sentence <code>let it be</code> is pronounced /l\u025bt it bi:/ .<br />\nAnd in general, the <code>e</code> seems to me pronounced just arbitrarily.<br />\nDoes it come from Germanic languages? During language evolution, did different spellings converged to one single way to write?</p>\n"
+        },
+        {
+            "tags": [
+                "phonemes",
+                "writing-systems",
+                "allophones",
+                "phones",
+                "language-planning"
+            ],
+            "owner": {
+                "account_id": 25025931,
+                "reputation": 151,
+                "user_id": 41402,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/e0a9159257ed3e75575d4582717b6519?s=256&d=identicon&r=PG",
+                "display_name": "Sigfredo Olmedo",
+                "link": "https://linguistics.stackexchange.com/users/41402/sigfredo-olmedo"
+            },
+            "is_answered": true,
+            "view_count": 1075,
+            "answer_count": 6,
+            "score": 15,
+            "last_activity_date": 1680100200,
+            "creation_date": 1679892150,
+            "last_edit_date": 1679942356,
+            "question_id": 46377,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46377/should-orthographies-represent-phonemes-or-phones",
+            "title": "Should orthographies represent phonemes or phones?",
+            "body": "<p>I am currently working with Salvadoran Nawat, an endangered language that has never had a standardized orthography due to being primarily oral. As part of the revitalization process, we need to standardize an orthography for this language. However, we are not sure if we should represent phonemes or phones in the orthography. For instance, in cases where two consecutive /k/ phonemes occur as in /kk/, the pronunciation in Nawat actually entails aspiration of the first k, resulting in [hk]. Consequently, a word like /nutsakka/ is articulated as [nutsahka], should we write it as nutzakka or nutzahka? Similarly, when /n/ precedes /p/, as in /senpa/, the articulation in Nawat is [sempa]. Should we write senpa or sempa in such instances?</p>\n<p>In the context of revitalizing endangered languages that have primarily been oral, should orthographies represent phonemes or phones? How do we address the issue of phonemic vs. phonetic orthographical representation in cases where there are differences in pronunciation such as the example of /kk/ becoming [hk] in Salvadoran Nawat?</p>\n"
+        },
+        {
+            "tags": [
+                "phonetics"
+            ],
+            "owner": {
+                "account_id": 26973847,
+                "reputation": 11,
+                "user_id": 41420,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/939c8d9c31b125e0ac587f02c19dda86?s=256&d=identicon&r=PG",
+                "display_name": "culp",
+                "link": "https://linguistics.stackexchange.com/users/41420/culp"
+            },
+            "is_answered": false,
+            "view_count": 16,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1680098708,
+            "creation_date": 1680079978,
+            "question_id": 46391,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46391/larynx-anatomy-and-effect-of-configuration-of-larynx-on-f2-of-vowels",
+            "title": "Larynx anatomy and effect of configuration of larynx on F2 of vowels",
+            "body": "<p>In the bottom-left quadrant of the image below, an antinode (&quot;A&quot;) is shown for F2 at a certain point in the larynx. I think the structure just below and to the left of it is the epiglottis and the v-shaped structure above is the uvula, but is there a name for the area of the larynx at the level of the A itself, and to what extent is it possible to constrict or expand this area?</p>\n<p><a href=\"https://i.stack.imgur.com/umoTb.jpg\" rel=\"nofollow noreferrer\"><img src=\"https://i.stack.imgur.com/umoTb.jpg\" alt=\"image\" /></a></p>\n<p>Image adapted by Sidney Wood from Chiba, T., and Kajiyama, M., 1941, The Vowel, its Nature and Structure, Tokyo.</p>\n"
+        },
+        {
+            "tags": [
+                "phonology",
+                "phonetics",
+                "ipa",
+                "phonemes",
+                "phonetic-symbols"
+            ],
+            "closed_details": {
+                "by_users": [
+                    {
+                        "account_id": 9128648,
+                        "reputation": 4795,
+                        "user_id": 13977,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/8d14f475368256196f4db60b6e33daa1?s=256&d=identicon&r=PG&f=1",
+                        "display_name": "Nardog",
+                        "link": "https://linguistics.stackexchange.com/users/13977/nardog"
+                    },
+                    {
+                        "account_id": 16107587,
+                        "reputation": 5991,
+                        "user_id": 28236,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/3a099671ac70c94131c32c924f5873df?s=256&d=identicon&r=PG&f=1",
+                        "display_name": "Tristan",
+                        "link": "https://linguistics.stackexchange.com/users/28236/tristan"
+                    },
+                    {
+                        "account_id": 1019614,
+                        "reputation": 9828,
+                        "user_id": 482,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/5249dedc1b7654310b7715149499bd8c?s=256&d=identicon&r=PG",
+                        "display_name": "jlawler",
+                        "link": "https://linguistics.stackexchange.com/users/482/jlawler"
+                    },
+                    {
+                        "account_id": 2118122,
+                        "reputation": 16821,
+                        "user_id": 2689,
+                        "user_type": "registered",
+                        "profile_image": "https://i.stack.imgur.com/lBp5A.jpg?s=256&g=1",
+                        "display_name": "Yellow Sky",
+                        "link": "https://linguistics.stackexchange.com/users/2689/yellow-sky"
+                    },
+                    {
+                        "account_id": 992814,
+                        "reputation": 8543,
+                        "user_id": 445,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/52c92b7e2815c0ec8087ec7fa436bf00?s=256&d=identicon&r=PG&f=1",
+                        "display_name": "Alex B.",
+                        "link": "https://linguistics.stackexchange.com/users/445/alex-b"
+                    }
+                ],
+                "description": "<ul class=\"site-specific-close-reason-status-list\"><li>This question does not appear to be about linguistics within the scope defined in the <a href=\"https://linguistics.stackexchange.com/help/on-topic\">help center</a>.</li></ul>",
+                "reason": "Not suitable for this site"
+            },
+            "owner": {
+                "account_id": 18476194,
+                "reputation": 593,
+                "user_id": 28619,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/db706bab9719ff3ae2fe40e4d5f8620d?s=256&d=identicon&r=PG&f=1",
+                "display_name": "ronghe",
+                "link": "https://linguistics.stackexchange.com/users/28619/ronghe"
+            },
+            "is_answered": false,
+            "view_count": 29,
+            "closed_date": 1680139353,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1680093326,
+            "creation_date": 1680093326,
+            "question_id": 46395,
+            "link": "https://linguistics.stackexchange.com/questions/46395/what-are-these-consonants",
+            "closed_reason": "Not suitable for this site",
+            "title": "What are these consonants?",
+            "body": "<p>I've got a picture of four voiced consonants of English, but I'm not sure whether I am right. Are they [z] [d] [b] [\u0292] respectively? Is there anyone who can help me look at it? Thank you in advance!\n<a href=\"https://i.stack.imgur.com/6nOLN.jpg\" rel=\"nofollow noreferrer\"><img src=\"https://i.stack.imgur.com/6nOLN.jpg\" alt=\"enter image description here\" /></a></p>\n"
+        },
+        {
+            "tags": [
+                "terminology",
+                "cases",
+                "nouns",
+                "caucasian-languages"
+            ],
+            "owner": {
+                "account_id": 250783,
+                "reputation": 14405,
+                "user_id": 51,
+                "user_type": "registered",
+                "accept_rate": 48,
+                "profile_image": "https://i.stack.imgur.com/ExcaS.jpg?s=256&g=1",
+                "display_name": "hippietrail",
+                "link": "https://linguistics.stackexchange.com/users/51/hippietrail"
+            },
+            "is_answered": true,
+            "view_count": 152,
+            "answer_count": 1,
+            "score": 5,
+            "last_activity_date": 1680091278,
+            "creation_date": 1367738637,
+            "last_edit_date": 1680091278,
+            "question_id": 3638,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/3638/what-is-contacting-case",
+            "title": "What is &quot;contacting case&quot;?",
+            "body": "<p><a href=\"http://en.wikipedia.org/wiki/Bats_language\" rel=\"nofollow\">According to Wikipedia</a>, the Bats language of Eastern Georgia has a case called \"contacting\", but no description is offered as to its function.</p>\n\n<p>I checked the Russian and Georgian versions of the page and I checked the pages for the languages it's related to, <a href=\"http://en.wikipedia.org/wiki/Chechen_language\" rel=\"nofollow\">Chechen</a> and <a href=\"http://en.wikipedia.org/wiki/Ingush_language#Case\" rel=\"nofollow\">Ingush</a>, and found no further mention of this case.</p>\n\n<p>Is Contacting Case present in any other language or might it just be an unusual name for one of the more usual cases?</p>\n"
+        },
+        {
+            "tags": [
+                "grammar",
+                "resource-request",
+                "caucasian-languages"
+            ],
+            "owner": {
+                "account_id": 250783,
+                "reputation": 14405,
+                "user_id": 51,
+                "user_type": "registered",
+                "accept_rate": 48,
+                "profile_image": "https://i.stack.imgur.com/ExcaS.jpg?s=256&g=1",
+                "display_name": "hippietrail",
+                "link": "https://linguistics.stackexchange.com/users/51/hippietrail"
+            },
+            "is_answered": true,
+            "view_count": 851,
+            "accepted_answer_id": 3797,
+            "answer_count": 4,
+            "score": 6,
+            "last_activity_date": 1680091029,
+            "creation_date": 1370138953,
+            "last_edit_date": 1680091029,
+            "question_id": 3794,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/3794/seeking-free-grammar-or-detailed-description-of-avar",
+            "title": "Seeking free grammar or detailed description of Avar",
+            "body": "<p>The more I learn about the Georgian language the more eager I am to compare it with nearby Caucasian languages, to which it is not related but shares a common Sprachbund with.</p>\n\n<p>Although I'm also interested in Abkhaz and Chechen, I've become mostly interested in Avar because of the Caucasian languages spoken in Dagestan it has the most speakers, it's flourishing, it's taught in schools, and is used as a local lingua franca.</p>\n\n<p>Yet despite this there is an amazing paucity of information about Avar available on the internet. At least in English.</p>\n\n<p>I am seeking either a grammar of Avar or a pretty detailed description. A dictionary would also be OK. I can't really pay for one and I don't have access to journals for professional linguists. Where might I be able to find something?</p>\n"
+        },
+        {
+            "tags": [
+                "armenian",
+                "caucasian-languages"
+            ],
+            "owner": {
+                "account_id": 16422556,
+                "reputation": 11,
+                "user_id": 40401,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/55eb15beca67542d9561a8685dad796c?s=256&d=identicon&r=PG&f=1",
+                "display_name": "HungarianMan",
+                "link": "https://linguistics.stackexchange.com/users/40401/hungarianman"
+            },
+            "is_answered": false,
+            "view_count": 34,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1680087308,
+            "creation_date": 1680080120,
+            "last_edit_date": 1680087308,
+            "question_id": 46392,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46392/are-chechen-%d0%bc%d1%83%d0%ba%d0%b0%d0%b4%d0%b0%d1%85%d0%ba%d0%b0-mukdahka-rat-and-armenian-%d5%b4%d5%b8%d6%82%d5%af-muk-cognate",
+            "title": "Are Chechen \u043c\u0443\u043a\u0430\u0434\u0430\u0445\u043a\u0430 /mukdahka/ &quot;rat&quot; and Armenian \u0574\u0578\u0582\u056f /muk/ cognate?",
+            "body": "<ol>\n<li>Are Chechen \u043c\u0443\u043a\u0434\u0430\u0445\u043a\u0430 /mukdahka/ &quot;rat&quot; and Armenian \u0574\u0578\u0582\u056f /muk/ cognate?</li>\n<li>Are Chechen \u0445\u0435\u0440\u0441\u0438 /<strong>h</strong>ersi/ &quot;piglet&quot; and Latin <strong>p</strong>orcus &quot;pig&quot; cognate?<br>\nI know that IE &quot;p&quot; turned into &quot;h&quot; in Armenian <strong>p</strong>ater / <strong>h</strong>ayr \u0570\u0561\u0575\u0580 &quot;father&quot;, <strong>p</strong>urgo / <strong>h</strong>ur \u0570\u0578\u0582\u0580 &quot;fire&quot;. Could Chechen hersi be a borrowing from proto-armenian?<br>\nNote: IE \u1e31 turned into s in Armenian her<strong>s</strong>i / por<strong>c</strong>us</li>\n</ol>\n"
+        },
+        {
+            "tags": [
+                "alphabets"
+            ],
+            "closed_details": {
+                "by_users": [
+                    {
+                        "account_id": 63513,
+                        "reputation": 4604,
+                        "user_id": 746,
+                        "user_type": "registered",
+                        "accept_rate": 80,
+                        "profile_image": "https://www.gravatar.com/avatar/13a7fe2f6b6644b287d80fedae50dc3a?s=256&d=identicon&r=PG",
+                        "display_name": "jogloran",
+                        "link": "https://linguistics.stackexchange.com/users/746/jogloran"
+                    },
+                    {
+                        "account_id": 1019614,
+                        "reputation": 9828,
+                        "user_id": 482,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/5249dedc1b7654310b7715149499bd8c?s=256&d=identicon&r=PG",
+                        "display_name": "jlawler",
+                        "link": "https://linguistics.stackexchange.com/users/482/jlawler"
+                    },
+                    {
+                        "account_id": 2333535,
+                        "reputation": 1920,
+                        "user_id": 26717,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/1e63b38e256e949b40fd9936023df858?s=256&d=identicon&r=PG",
+                        "display_name": "Cairnarvon",
+                        "link": "https://linguistics.stackexchange.com/users/26717/cairnarvon"
+                    },
+                    {
+                        "account_id": 1365634,
+                        "reputation": 2554,
+                        "user_id": 2253,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/7bc359fb1047a6eb6ca7508ef70cad56?s=256&d=identicon&r=PG",
+                        "display_name": "Janus Bahs Jacquet",
+                        "link": "https://linguistics.stackexchange.com/users/2253/janus-bahs-jacquet"
+                    },
+                    {
+                        "account_id": 5478266,
+                        "reputation": 75183,
+                        "user_id": 6726,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/f26235240c5e09549472e27214abe8dc?s=256&d=identicon&r=PG",
+                        "display_name": "user6726",
+                        "link": "https://linguistics.stackexchange.com/users/6726/user6726"
+                    }
+                ],
+                "description": "Many good questions generate some degree of opinion based on expert experience, but answers to this question  will tend to be almost entirely based on opinions, rather than facts, references, or specific expertise.",
+                "reason": "Opinion-based"
+            },
+            "owner": {
+                "account_id": 28151693,
+                "reputation": 1,
+                "user_id": 41419,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxYvjtiAWiNc7ga50lMVpYl18rEFNFypG4yoCy2-=k-s256",
+                "display_name": "Elias Savolainen",
+                "link": "https://linguistics.stackexchange.com/users/41419/elias-savolainen"
+            },
+            "is_answered": false,
+            "view_count": 57,
+            "closed_date": 1680038171,
+            "answer_count": 0,
+            "score": -2,
+            "last_activity_date": 1680033663,
+            "creation_date": 1680033663,
+            "question_id": 46390,
+            "link": "https://linguistics.stackexchange.com/questions/46390/could-these-languages-switch-to-latin-alphabet",
+            "closed_reason": "Opinion-based",
+            "title": "Could these languages switch to Latin alphabet?",
+            "body": "<p>What are the chances that the following languages will switch to Latin alphabet in the future</p>\n<ul>\n<li>Russian</li>\n<li>Greek</li>\n<li>Arabic</li>\n<li>Japanese</li>\n<li>Georgian</li>\n<li>Armenian</li>\n<li>Persian</li>\n<li>Hindi</li>\n<li>Burmese</li>\n<li>All other languages of India</li>\n</ul>\n"
+        },
+        {
+            "tags": [
+                "infinitive",
+                "gerund",
+                "nominals"
+            ],
+            "owner": {
+                "account_id": 3428060,
+                "reputation": 1477,
+                "user_id": 2581,
+                "user_type": "registered",
+                "accept_rate": 53,
+                "profile_image": "https://www.gravatar.com/avatar/cb91f99d4f924a1ea6fae8654577a16f?s=256&d=identicon&r=PG&f=1",
+                "display_name": "Morphosyntax",
+                "link": "https://linguistics.stackexchange.com/users/2581/morphosyntax"
+            },
+            "is_answered": false,
+            "view_count": 217,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1680015605,
+            "creation_date": 1542319939,
+            "question_id": 29674,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/29674/finite-nominalised-clauses",
+            "title": "Finite Nominalised Clauses",
+            "body": "<p><strong>Are there any instances in any language where a finite clause can be nominalised?</strong></p>\n\n<p>Gerunds in English are non-finite CPs and deverbal nouns lack an inflectional layer altogether.</p>\n\n<p>Rome wants [CP to destroy Carthage]</p>\n\n<p>[DP Rome<sub>1</sub> 's [nP destruction<sub>2</sub> [vP t<sub>1</sub> t<sub>2</sub> of Carthage]]]</p>\n\n<p>Certain scholars say that complementiser <em>yang</em> in Malay can function as a nominaliser. In (1), the constituent \"yang telah mati\" is said to be a clause that's been nominalised.</p>\n\n<p>(1)</p>\n\n<pre><code>[Yang telah mati] tidak boleh kembali.\n COMP PERF  die   NEG   can   return\nThose who have died cannot return.\n</code></pre>\n\n<p>I have my doubts because aspectual markers can occur in such \"nominalised clauses\". Although finiteness is not marked in Malay in any way, the occurrence of aspectual markers can be taken as a diagnostic for finiteness because they can't occur in clauses which one would typically analyse as non-finite, e.g. control clauses.</p>\n\n<p>(2)</p>\n\n<pre><code>(*Telah) memenangi pertandingan adalah syarat    untuk peserta     (*akan) menerima hadiah\n(*PERF)  win       competition  COP    condition for   participant (*PROS) receive  prize\nTo have won the competition is a condition for a participant to receive the prize\n</code></pre>\n\n<p>Instead, (1) can be said to be a headless relative clause.</p>\n\n<pre><code>(Orang)  yang telah mati tidak boleh kembali.\n(Person) COMP PERF  die  NEG   can   return\nPeople who have died cannot return.\n</code></pre>\n\n<p>Nouns in Malay can be deleted if they're given, and this should be the case with (1).</p>\n\n<pre><code>A: Saya suka kucing yang Ali sedang pegang itu.\n   1.SG like cat    COMP Ali PROG   hold   DIST\n   I like the cat that Ali is holding.\n\nB: Saya suka yang sedang bermain itu.\n   1.SG like COMP PROG   play    DIST\n   I like the one that's playing.\n</code></pre>\n\n<p>The noun heading the relative clause is deleted because it can be recovered from context.</p>\n\n<p>What do you guys think?</p>\n"
+        },
+        {
+            "tags": [
+                "etymology",
+                "romance-languages",
+                "slavic-languages",
+                "romanian"
+            ],
+            "owner": {
+                "account_id": 1263026,
+                "reputation": 454,
+                "user_id": 27251,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/778e4b0a075f3b72db67a253ac8e6c6e?s=256&d=identicon&r=PG",
+                "display_name": "cipricus",
+                "link": "https://linguistics.stackexchange.com/users/27251/cipricus"
+            },
+            "is_answered": false,
+            "view_count": 31,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1680013240,
+            "creation_date": 1680012559,
+            "last_edit_date": 1680013240,
+            "question_id": 46388,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46388/is-there-a-slavic-equivalent-of-the-greek-and-latin-semantic-transfer-from-ches",
+            "title": "Is there a Slavic equivalent of the Greek and Latin semantic transfer from &quot;chest/vault&quot; to &quot;treasure&quot;, like \u03b8\u03b7\u03c3\u03b1\u03c5\u03c1\u03cc\u03c2/thesaurus?",
+            "body": "<p>I was looking at the etymology of the Romanian word <a href=\"https://en.wiktionary.org/wiki/comoar%C4%83\" rel=\"nofollow noreferrer\">comoar\u0103</a> (&quot;treasure&quot;, &quot;hoard&quot;, &quot;pile of precious things&quot;) and it seems based on the widespread Slavic form <a href=\"https://en.wiktionary.org/wiki/komora\" rel=\"nofollow noreferrer\">komora</a>, meaning &quot;room&quot;, &quot;container&quot;, &quot;chamber&quot; and other semantically related notions. But I cannot find a case where this or a related form would mean &quot;treasure&quot;, on the model of the Latin <em>thesaurus</em> and Greek <em>\u03b8\u03b7\u03c3\u03b1\u03c5\u03c1\u03cc\u03c2</em>, with this basic semantic coincidence or transfer between content (treasure) and recipient (treasury, box, strongbox).</p>\n<p>I was thus very surprised watching <a href=\"https://italian.stackexchange.com/q/14262/5860\">an Italian movie where a seemingly  slang or invented word in the <em>romanesco</em> dialect means &quot;strongbox&quot; but sounds close to Romanian <em>comoar\u0103</em></a>. All that leads nowhere though, as it seems.</p>\n<p>Therefore, I am still intrigued: <em><strong>is the Romanian word the only member of that group of words in Eastern Europe which means &quot;treasure&quot;?</strong></em> ---no matter the ultimate supposedly Latin origin of all of them - from <em>camera</em>---</p>\n<hr />\n<p>It is to be noted that:</p>\n<ul>\n<li><p>the word <em><a href=\"https://en.wiktionary.org/wiki/kamera#Etymology_8\" rel=\"nofollow noreferrer\">kamera</a></em> (Romanian <em>camera</em>) present in many Slavic languages, including Russian, has to be considerd separately, as a neologism equivalent to the Italian word <em>camera</em> - usually including the somewhat \u201dmodern\u201d meanings of \u201droom\u201d (sometimes in a technical sense), \u201dlegislative body\u201d and \u201dphotographic camera\u201d</p>\n</li>\n<li><p>Bulgarian <em><a href=\"https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BC%D0%B0%D1%80%D0%B0#Bulgarian\" rel=\"nofollow noreferrer\">kamara</a></em> seems to be not one word, but three different words, although similar in form: one, pronounced <code>'kam\u0259r\u0259</code>, means \u201clegislative body\u201d and is of Turkish origin; a second one is an archaism, has the same pronunciation, means \u201cchamber, vaulted room\u201d and is of Slavic origin; <a href=\"https://en.wiktionary.org/wiki/%D0%BA%D0%B0%D0%BC%D0%B0%D1%80%D0%B0#Etymology_3\" rel=\"nofollow noreferrer\">a third one</a> is pronounced <code>k\u0250\u02c8mar\u0259</code>, means \u201cpile, heap\u201d , \u201da load\u201d, \u201da ton of\u201d something, and supposedly is of Greek origin. This might be the only case that looks close to the Romanian one: that transfer from generic-Slavic \u201dchamber\u201d (<em>camera</em>/<em>komora</em>) to  \u201da pile of stuff\u201d (<em>kamara</em>-'kam\u0259r\u0259`) seems <em>based</em> on (mediated by) Romanian \u201dpile of gold\u201d (<em>comoar\u0103</em>).</p>\n</li>\n</ul>\n<hr />\n<p>I will maybe ask separate questions, but if you can help, please answer this here too:</p>\n<ul>\n<li><p>how solid is the Latin etymology for <em>komora</em> in Polish, Czech, Macedonian etc?</p>\n</li>\n<li><p>are these forms recent neologisms (like <em>kamera</em> is), relative old neologisms, or old Slavic forms (even if ultimately from Latin)?</p>\n</li>\n<li><p>couldn't there be a direct Proto-Slavic &lt; <a href=\"https://en.wiktionary.org/wiki/Reconstruction:Proto-Indo-European/kh%E2%82%82em\" rel=\"nofollow noreferrer\">PIE origin</a>?</p>\n</li>\n</ul>\n"
+        },
+        {
+            "tags": [
+                "english",
+                "semantics",
+                "sentences"
+            ],
+            "closed_details": {
+                "by_users": [
+                    {
+                        "account_id": 1679769,
+                        "reputation": 3475,
+                        "user_id": 17305,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/3b3ed63876eb7a23177b96ef9de3caf4?s=256&d=identicon&r=PG&f=1",
+                        "display_name": "Keelan",
+                        "link": "https://linguistics.stackexchange.com/users/17305/keelan"
+                    },
+                    {
+                        "account_id": 16107587,
+                        "reputation": 5991,
+                        "user_id": 28236,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/3a099671ac70c94131c32c924f5873df?s=256&d=identicon&r=PG&f=1",
+                        "display_name": "Tristan",
+                        "link": "https://linguistics.stackexchange.com/users/28236/tristan"
+                    },
+                    {
+                        "account_id": 5478266,
+                        "reputation": 75183,
+                        "user_id": 6726,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/f26235240c5e09549472e27214abe8dc?s=256&d=identicon&r=PG",
+                        "display_name": "user6726",
+                        "link": "https://linguistics.stackexchange.com/users/6726/user6726"
+                    },
+                    {
+                        "account_id": 63513,
+                        "reputation": 4604,
+                        "user_id": 746,
+                        "user_type": "registered",
+                        "accept_rate": 80,
+                        "profile_image": "https://www.gravatar.com/avatar/13a7fe2f6b6644b287d80fedae50dc3a?s=256&d=identicon&r=PG",
+                        "display_name": "jogloran",
+                        "link": "https://linguistics.stackexchange.com/users/746/jogloran"
+                    },
+                    {
+                        "account_id": 1365634,
+                        "reputation": 2554,
+                        "user_id": 2253,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/7bc359fb1047a6eb6ca7508ef70cad56?s=256&d=identicon&r=PG",
+                        "display_name": "Janus Bahs Jacquet",
+                        "link": "https://linguistics.stackexchange.com/users/2253/janus-bahs-jacquet"
+                    }
+                ],
+                "description": "Please clarify your specific problem or add additional details to highlight exactly what you need.  As it&#39;s currently written, it\u2019s hard to tell exactly what you&#39;re asking. See the <a href=\"https://linguistics.stackexchange.com/help/how-to-ask\">How to Ask</a> page for help clarifying this question.",
+                "reason": "Needs details or clarity"
+            },
+            "owner": {
+                "account_id": 7732940,
+                "reputation": 109,
+                "user_id": 41415,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/8jVPo.gif?s=256&g=1",
+                "display_name": "Bug Catcher Nakata",
+                "link": "https://linguistics.stackexchange.com/users/41415/bug-catcher-nakata"
+            },
+            "is_answered": false,
+            "view_count": 46,
+            "closed_date": 1680037040,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1680001261,
+            "creation_date": 1680001261,
+            "question_id": 46386,
+            "link": "https://linguistics.stackexchange.com/questions/46386/what-is-the-non-sensical-english-sentence-structure-that-reliably-produces-funny",
+            "closed_reason": "Needs details or clarity",
+            "title": "What is the non-sensical English sentence structure that reliably produces funny sentences",
+            "body": "<p>Please forgive me for such a ridiculous sounding question. A few years ago, I was a grad student and would in my spare time sit in on random undergraduate lectures. In a third-year linguistics class, the lecturer talked about a type of sentence construction that produced sentences that always (or at least mostly) sounded amusing. I thought this was a ludicrous idea, but his example sentences <em>were</em> funny, and when me and my friends made up new ones by selecting random words, they were still funny. I wouldn't ever have thought something like this was possible, except I swear this was part of the lecture.</p>\n<p>Note the sentences that it produces don't make sense. I think the course was in Semantics or something similar, but I'm not sure.</p>\n"
+        },
+        {
+            "tags": [
+                "phonology",
+                "pronunciation",
+                "sociolinguistics"
+            ],
+            "owner": {
+                "account_id": 2151509,
+                "reputation": 1260,
+                "user_id": 3340,
+                "user_type": "registered",
+                "accept_rate": 15,
+                "profile_image": "https://www.gravatar.com/avatar/ed02bd6c00c0fb529136773bacdd072e?s=256&d=identicon&r=PG&f=1",
+                "display_name": "Lou",
+                "link": "https://linguistics.stackexchange.com/users/3340/lou"
+            },
+            "is_answered": true,
+            "view_count": 7128,
+            "accepted_answer_id": 45053,
+            "answer_count": 10,
+            "score": 33,
+            "last_activity_date": 1679966781,
+            "creation_date": 1661260244,
+            "last_edit_date": 1661506584,
+            "question_id": 45048,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/45048/is-pronouncing-loanwords-according-to-their-native-pronunciation-stigmatised-a",
+            "title": "Is pronouncing loanwords according to their &quot;native&quot; pronunciation stigmatised across most cultures and languages?",
+            "body": "<p><a href=\"https://www.youtube.com/watch?v=fKGoVefhtMQ\" rel=\"noreferrer\">This old CollegeHumor sketch</a> highlights an interesting phenomenon: it's often frowned upon or disapproved of, at least in the US and England, to pronounce a loanword according to the phonetics of the language it was borrowed from. For example, anecdotally in the UK, an English speaker would probably think it strange if I pronounced &quot;karaoke&quot; according to the Japanese \u30ab\u30e9\u30aa\u30b1 pronunciation, as opposed to the pronunciation common in the US/UK: /\u02cck\u00e6ri\u02c8o\u028aki/.</p>\n<p>I think that in this case, this is because the different phonetics of the Japanese word make the &quot;native&quot; pronunciation jarring in the middle of a sentence. Having to modify the intonation to match Japanese pitch-accent for example, and using sounds such as the alveolar flap in \u30e9 which aren't found in English, would probably not be what the listener was expecting to hear unless the conversation was about the Japanese language or pronunciation. So using the &quot;native&quot; pronunciation might be frowned upon/disapproved of simply because it is unexpected in the linguistic context.</p>\n<p>The &quot;point&quot; that the video makes is that doing this is considered &quot;over-pronouncing&quot;, and is considered either funny or embarrassing in contexts of two or more native speakers of a language (such as English) where one of them &quot;over-pronounces&quot; a loanword from another language. Presumably again it would not be frowned upon if (e.g.) English speakers were talking to Japanese natives about &quot;karaoke&quot; and used the Japanese pronunciation.</p>\n<p>So my question is this:</p>\n<ul>\n<li>Does the disapproval towards approximating foreign loanword pronunciations occur at all outside of the context of English speakers using a non-English loanword?</li>\n<li>If so, is it common to disapprove of foreign loanword pronunciations? Or conversely, is it common in many other parts of the world to emulate foreign loanword pronunciations to the best of the speaker's ability?</li>\n</ul>\n"
+        },
+        {
+            "tags": [
+                "conlang"
+            ],
+            "owner": {
+                "account_id": 26633111,
+                "reputation": 145,
+                "user_id": 40421,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/ALm5wu1x-v2cRQQvUFzHmiNnbr7zAyOApsMsS-lDVzlMRQ=k-s256",
+                "display_name": "Akshat Goswami",
+                "link": "https://linguistics.stackexchange.com/users/40421/akshat-goswami"
+            },
+            "is_answered": true,
+            "view_count": 5218,
+            "answer_count": 4,
+            "score": 8,
+            "last_activity_date": 1679966282,
+            "creation_date": 1679850677,
+            "question_id": 46371,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46371/why-arent-conlangs-very-widely-used",
+            "title": "Why aren&#39;t conlangs very widely used?",
+            "body": "<p>Honestly, I don't see very many conlangs these days and I see that normal languages (Such as Welsh or Irish) are much more widely used? Why is that?</p>\n"
+        },
+        {
+            "tags": [
+                "arabic",
+                "dialects",
+                "semitic-languages"
+            ],
+            "owner": {
+                "account_id": 24442751,
+                "reputation": 1,
+                "user_id": 37628,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AATXAJwmW94FZZH3rtg4XUsPRts0a5ZMVFQ1bkIOKyLp=k-s256",
+                "display_name": "Ayer AGG&#39;TDd&#39;E-A",
+                "link": "https://linguistics.stackexchange.com/users/37628/ayer-aggtdde-a"
+            },
+            "is_answered": false,
+            "view_count": 57,
+            "answer_count": 1,
+            "score": -3,
+            "last_activity_date": 1679933122,
+            "creation_date": 1679655117,
+            "last_edit_date": 1679929214,
+            "question_id": 46357,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46357/what-tribal-regional-yemeni-arabic-dialects-and-or-modern-south-arabian-language",
+            "title": "What tribal/regional Yemeni arabic dialects and/or modern south Arabian languages or crioles do SFO and OAK Bay Area Yemeni imigrants speak most?",
+            "body": "<p>I think I've noticed near-homogeneity, in SF and Oakland bodegas. But there are reasons to doubt that.</p>\n<p>I'm interested in:</p>\n<ol>\n<li><p>The most common Yemeni lects (or three most commonly natively used, for native speakers of multiple varieties) among potential nearby corner-store native informants.</p>\n</li>\n<li><p>Those with most and least overlap/colearner-advantage, for speakers of Ethiosemitic languages.</p>\n</li>\n</ol>\n<p>Context: language geek here, choosing 2 or so other languages (including 1+ non-MSA Arabic dialects) to learn while learning Tigrinya, as my co-first Semitic language<em>s</em>. I have a penchant/predilection for conserved pronounced (e.g. accusative) terminal-nunnation case endings*, and complex or rare phonetic gems (phonemic articulatory/phonetic delicacies and/or large phonetic inventories and abstruse morphosyntax).</p>\n<blockquote>\n<ul>\n<li>The main goal in this being to get some insight into the Quran, as the Prophet hallowed be his name, might imagine his great-grandparents might have pronounced it in the last still-nunnating pre-Quranic Medino-Arabian proto-Arabic speakers that they presumably would be.</li>\n</ul>\n</blockquote>\n"
+        },
+        {
+            "tags": [
+                "hebrew",
+                "textbooks"
+            ],
+            "owner": {
+                "account_id": 14034300,
+                "reputation": 107,
+                "user_id": 41380,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/-S1pbwZR_7V0/AAAAAAAAAAI/AAAAAAAAAAA/AAnnY7oCby5ftMF-6GOAEsKbojC2LcLd-g/mo/photo.jpg?sz=256",
+                "display_name": "Lyu",
+                "link": "https://linguistics.stackexchange.com/users/41380/lyu"
+            },
+            "is_answered": false,
+            "view_count": 44,
+            "answer_count": 0,
+            "score": -1,
+            "last_activity_date": 1679932812,
+            "creation_date": 1679932812,
+            "question_id": 46381,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46381/biblical-hebrew-textbooks-written-in-voweled-hebrew",
+            "title": "Biblical Hebrew Textbooks Written in Voweled Hebrew",
+            "body": "<p>The title may be a bit confusing; what I'm looking for is a Hebrew Grammar textbook (preferably biblical Hebrew, but modern is fine too) that is completelly written in Hebrew but its ment for non-hebrew natives. With that, I'm looking for a text that is voweled for learning the vocabulary as you go while learning the grammar.</p>\n<p>I used a bit of the book Hebrew from scratch (\u05d9\u05d1\u05e8\u05d9\u05ea \u05de\u05df \u05d4\u05d4\u05ea\u05d7\u05dc\u05d4) but its for modern hebrew.</p>\n<p>Anyone know something similar to that.</p>\n"
+        },
+        {
+            "tags": [
+                "arabic",
+                "borrowing",
+                "turkish",
+                "irregularity"
+            ],
+            "owner": {
+                "account_id": 28047803,
+                "reputation": 1,
+                "user_id": 41360,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/fd06169cf4b7d336622619fc35f16fe1?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "murshad",
+                "link": "https://linguistics.stackexchange.com/users/41360/murshad"
+            },
+            "is_answered": false,
+            "view_count": 46,
+            "answer_count": 0,
+            "score": 0,
+            "last_activity_date": 1679923428,
+            "creation_date": 1679881713,
+            "last_edit_date": 1679923428,
+            "question_id": 46376,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46376/strange-vowel-harmony-in-arabic-loanwords-within-turkish-why-could-it-be",
+            "title": "Strange vowel harmony in Arabic loanwords within Turkish\u2014why could it be?",
+            "body": "<p>Some Arabic loanwords have a palatalised, for example, /l\u02b2/ in final position, and it is more understandable in the case of those words. However, some others go against vowel harmony for no apparent reason:</p>\n<div class=\"s-table-container\">\n<table class=\"s-table\">\n<thead>\n<tr>\n<th style=\"text-align: center;\">Unpossessed</th>\n<th style=\"text-align: center;\">1st person possessive</th>\n<th style=\"text-align: center;\">2nd person possessive</th>\n</tr>\n</thead>\n<tbody>\n<tr>\n<td style=\"text-align: center;\">rab</td>\n<td style=\"text-align: center;\">rabbim</td>\n<td style=\"text-align: center;\">rabbin</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">saat</td>\n<td style=\"text-align: center;\">saatim</td>\n<td style=\"text-align: center;\">saatin</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">harf</td>\n<td style=\"text-align: center;\">harfim</td>\n<td style=\"text-align: center;\">harfin</td>\n</tr>\n<tr>\n<td style=\"text-align: center;\">seyahat</td>\n<td style=\"text-align: center;\">seyahatim</td>\n<td style=\"text-align: center;\">seyahatin</td>\n</tr>\n</tbody>\n</table>\n</div>\n<p>Some others have an epenthetic /i/, so one may say that to be influencing harmony, even after it disappears. Eg. vakit vaktim vaktin.</p>\n<p>Why exactly would this occur? Wikipedia says that the absence of the Arabic letters forcing back-vowel pronunciation in Ottoman orthography cause the cases above, but that does not seem to explain this adequately, given letters like \u0641 and \u0628 possess no emphatic versions of their own.</p>\n"
+        },
+        {
+            "tags": [
+                "syntax",
+                "syntax-trees",
+                "x-bar-theory",
+                "morphosyntax"
+            ],
+            "closed_details": {
+                "by_users": [
+                    {
+                        "account_id": 9128648,
+                        "reputation": 4795,
+                        "user_id": 13977,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/8d14f475368256196f4db60b6e33daa1?s=256&d=identicon&r=PG&f=1",
+                        "display_name": "Nardog",
+                        "link": "https://linguistics.stackexchange.com/users/13977/nardog"
+                    },
+                    {
+                        "account_id": 1365634,
+                        "reputation": 2554,
+                        "user_id": 2253,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/7bc359fb1047a6eb6ca7508ef70cad56?s=256&d=identicon&r=PG",
+                        "display_name": "Janus Bahs Jacquet",
+                        "link": "https://linguistics.stackexchange.com/users/2253/janus-bahs-jacquet"
+                    },
+                    {
+                        "account_id": 2333535,
+                        "reputation": 1920,
+                        "user_id": 26717,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/1e63b38e256e949b40fd9936023df858?s=256&d=identicon&r=PG",
+                        "display_name": "Cairnarvon",
+                        "link": "https://linguistics.stackexchange.com/users/26717/cairnarvon"
+                    },
+                    {
+                        "account_id": 16107587,
+                        "reputation": 5991,
+                        "user_id": 28236,
+                        "user_type": "registered",
+                        "profile_image": "https://www.gravatar.com/avatar/3a099671ac70c94131c32c924f5873df?s=256&d=identicon&r=PG&f=1",
+                        "display_name": "Tristan",
+                        "link": "https://linguistics.stackexchange.com/users/28236/tristan"
+                    },
+                    {
+                        "account_id": 3401915,
+                        "reputation": 5545,
+                        "user_id": 2555,
+                        "user_type": "moderator",
+                        "profile_image": "https://www.gravatar.com/avatar/a66cede09ad91417502051a3a146210a?s=256&d=identicon&r=PG",
+                        "display_name": "curiousdannii",
+                        "link": "https://linguistics.stackexchange.com/users/2555/curiousdannii"
+                    }
+                ],
+                "description": "Please clarify your specific problem or add additional details to highlight exactly what you need.  As it&#39;s currently written, it\u2019s hard to tell exactly what you&#39;re asking. See the <a href=\"https://linguistics.stackexchange.com/help/how-to-ask\">How to Ask</a> page for help clarifying this question.",
+                "reason": "Needs details or clarity"
+            },
+            "owner": {
+                "account_id": 28136746,
+                "reputation": 1,
+                "user_id": 41404,
+                "user_type": "registered",
+                "profile_image": "https://lh3.googleusercontent.com/a/AGNmyxa7BXbiSzwIHq4XNGAwmZbtRXEmzSylIyMXBax9=k-s256",
+                "display_name": "Meysa Mohames",
+                "link": "https://linguistics.stackexchange.com/users/41404/meysa-mohames"
+            },
+            "is_answered": false,
+            "view_count": 21,
+            "closed_date": 1679925082,
+            "answer_count": 0,
+            "score": -2,
+            "last_activity_date": 1679912530,
+            "creation_date": 1679912530,
+            "question_id": 46378,
+            "link": "https://linguistics.stackexchange.com/questions/46378/caleb-might-appear-to-have-lost-his-mind-but-he-hasn-t",
+            "closed_reason": "Needs details or clarity",
+            "title": "Caleb might appear to have lost his mind (but he hasn\u2019t!)",
+            "body": "<p>I Dont get this tree because it\u2019s passive and raising. I am meant to Draw a tree diagram for the sentence in (1), below. DO NOT INCLUDE THE PART IN BRACKETS (this is included just to make the meaning of the sentence clear)</p>\n"
+        },
+        {
+            "tags": [
+                "swedish",
+                "norwegian",
+                "danish",
+                "textbooks"
+            ],
+            "closed_details": {
+                "by_users": [
+                    {
+                        "account_id": 3401915,
+                        "reputation": 5545,
+                        "user_id": 2555,
+                        "user_type": "moderator",
+                        "profile_image": "https://www.gravatar.com/avatar/a66cede09ad91417502051a3a146210a?s=256&d=identicon&r=PG",
+                        "display_name": "curiousdannii",
+                        "link": "https://linguistics.stackexchange.com/users/2555/curiousdannii"
+                    }
+                ],
+                "description": "<ul class=\"site-specific-close-reason-status-list\"><li>This question does not appear to be about linguistics within the scope defined in the <a href=\"https://linguistics.stackexchange.com/help/on-topic\">help center</a>.</li></ul>",
+                "reason": "Not suitable for this site"
+            },
+            "migrated_to": {
+                "other_site": {
+                    "styling": {
+                        "tag_background_color": "#FFF",
+                        "tag_foreground_color": "#000",
+                        "link_color": "#0077CC"
+                    },
+                    "related_sites": [
+                        {
+                            "relation": "meta",
+                            "api_site_parameter": "languagelearning.meta",
+                            "site_url": "https://languagelearning.meta.stackexchange.com",
+                            "name": "Language Learning Meta Stack Exchange"
+                        },
+                        {
+                            "relation": "chat",
+                            "site_url": "https://chat.stackexchange.com?tab=site&host=languagelearning.stackexchange.com",
+                            "name": "Chat Stack Exchange"
+                        }
+                    ],
+                    "launch_date": 1639665691,
+                    "open_beta_date": 1461623189,
+                    "closed_beta_date": 1459882800,
+                    "site_state": "normal",
+                    "high_resolution_icon_url": "https://cdn.sstatic.net/Sites/languagelearning/Img/apple-touch-icon@2.png",
+                    "favicon_url": "https://cdn.sstatic.net/Sites/languagelearning/Img/favicon.ico",
+                    "icon_url": "https://cdn.sstatic.net/Sites/languagelearning/Img/apple-touch-icon.png",
+                    "audience": "students, teachers, polyglots, and anyone interested in the techniques of second-language acquisition",
+                    "site_url": "https://languagelearning.stackexchange.com",
+                    "api_site_parameter": "languagelearning",
+                    "logo_url": "https://cdn.sstatic.net/Sites/languagelearning/Img/apple-touch-icon.png",
+                    "name": "Language Learning",
+                    "site_type": "main_site"
+                },
+                "on_date": 1679954678,
+                "question_id": 5931
+            },
+            "owner": {
+                "user_type": "does_not_exist",
+                "display_name": "user21126"
+            },
+            "is_answered": false,
+            "view_count": 96,
+            "closed_date": 1679954678,
+            "answer_count": 0,
+            "score": 3,
+            "locked_date": 1679954678,
+            "last_activity_date": 1679876387,
+            "creation_date": 1679686200,
+            "question_id": 46359,
+            "link": "https://linguistics.stackexchange.com/questions/46359/are-swedish-danish-norwegian-ever-taught-as-a-single-pluricentric-language",
+            "closed_reason": "Not suitable for this site",
+            "title": "Are Swedish/Danish/Norwegian ever taught as a single pluricentric language?",
+            "body": "<p>Due to largely overlapping vocabulary and morphology, mutual intelligibility among the three Scandinavian languages is near-complete (and in spite of claims that \u201cDanish is impossible to understand\u201d, this is largely a matter of hyperbole and changing mores \u2013 even after the most drastic Danish phonetic changes occurred in the early\u2013mid 20th century, participants at pan-Scandinavian events continued to each speak in their own language for decades).</p>\n<p>Now, this situation is broadly comparable to the situation between the Bosnian/Croatian/Montengrin/Serbian languages, and for BCMS, there does exist an approach of trying to teach all four languages at once in a single programme. For example, in Alexander &amp; Elias-Bursa\u0107\u2019s BCMS textbook, dialogues and reading passages could be in any one of those four varieties, with commentary explaining how that variety differs from the others. My question is whether a textbook has been published, in any language, or a university course offered in which Danish/Norwegian/Swedish are all tackled at once.</p>\n"
+        },
+        {
+            "tags": [
+                "english",
+                "terminology"
+            ],
+            "owner": {
+                "account_id": 4270989,
+                "reputation": 1,
+                "user_id": 36765,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/b5wyF.jpg?s=256&g=1",
+                "display_name": "TheTalentedDrAl",
+                "link": "https://linguistics.stackexchange.com/users/36765/thetalenteddral"
+            },
+            "is_answered": false,
+            "view_count": 125,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1679850210,
+            "creation_date": 1647594781,
+            "last_edit_date": 1647860872,
+            "question_id": 44101,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/44101/we-typically-say-rates-are-hiked-and-cuts-are-swingeing-is-there-a-term-to",
+            "title": "We typically say rates are &#39;hiked&#39; and cuts are &#39;swingeing&#39; - is there a term to describe this?",
+            "body": "<p>You never really hear of interest rates 'going up', they're always '<em>hiked</em>'.. and government cuts are rarely 'deep' or 'severe',. they're '<em>swingeing</em>'. Is there a word/term for either this use of language, or the role these words play as an auxiliary to the other? I'm not talking about the hyperbolic nature of the words, just that they're almost always connected</p>\n<p>(Swingeing doesn't seem to really exist other than to describe cuts!)</p>\n<p>edit: For the down-voters, I'm in Britain, perhaps these examples are local ones. I guess 'Spangling' is the only way stars are applied to a flag, but I haven't thought about US examples for long!</p>\n"
+        },
+        {
+            "tags": [
+                "computational-linguistics",
+                "syllables",
+                "morphemes"
+            ],
+            "owner": {
+                "account_id": 22075971,
+                "reputation": 11,
+                "user_id": 41387,
+                "user_type": "registered",
+                "profile_image": "https://i.stack.imgur.com/hnqJU.png?s=256&g=1",
+                "display_name": "0sharp",
+                "link": "https://linguistics.stackexchange.com/users/41387/0sharp"
+            },
+            "is_answered": true,
+            "view_count": 45,
+            "accepted_answer_id": 46369,
+            "answer_count": 2,
+            "score": 1,
+            "last_activity_date": 1679848474,
+            "creation_date": 1679654430,
+            "last_edit_date": 1679834583,
+            "question_id": 46356,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46356/is-there-an-automatic-way-to-divide-french-words-into-syllables-morphemes",
+            "title": "Is there an automatic way to divide French words into syllables/morphemes?",
+            "body": "<h3>Context:</h3>\n<p>I am trying to come up with a way to divide French words into syllables, phonemes, morphemes, or any other individually pronounceable/meaningful sub-unit in order to model word corruption in expressive aphasia.</p>\n<h3>Question:</h3>\n<p>I am looking for a way to automate the process of dividing words into syllables. This can be an algorithm that implements some rule system of syllabification, or a pre-made  lookup table of french words along with their syllables in some clear format (something like <code>\u00e9l\u00e9ment -&gt; \u00e9.l\u00e9.ment; m\u00e9chant -&gt; m\u00e9.chant</code>; ...).</p>\n<h3>What I could find:</h3>\n<p>I was able to download syllable counts from <a href=\"https://en.wiktionary.org/wiki/Category:French_words_by_number_of_syllables\" rel=\"nofollow noreferrer\">this Wiktionary page</a>, which was enormously helpful, but it would be much better if I can use the syllabic form of the word directly. My research could not yield a publicly available dataset for French syllables (or phonemes, morphemes), nor the code for any algorithm that can be used to generate them (or a public API for one of the online tools that do).</p>\n"
+        },
+        {
+            "tags": [
+                "subjunctive",
+                "government-and-binding"
+            ],
+            "owner": {
+                "account_id": 15546816,
+                "reputation": 49,
+                "user_id": 24159,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/6b530091304d74e1fe48172d344a26e4?s=256&d=identicon&r=PG",
+                "display_name": "Trin TA Athigapanich",
+                "link": "https://linguistics.stackexchange.com/users/24159/trin-ta-athigapanich"
+            },
+            "is_answered": false,
+            "view_count": 75,
+            "answer_count": 0,
+            "score": 1,
+            "last_activity_date": 1679832308,
+            "creation_date": 1665127966,
+            "question_id": 45297,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/45297/how-does-government-binding-theory-account-for-verbs-taking-bare-form-in-a-subju",
+            "title": "how does government binding theory account for verbs taking bare form in a subjunctives",
+            "body": "<p>In &quot;he demanded that you be silent&quot;\nHow does the gb theory accounts for the bare form of the verb &quot;be&quot; ?</p>\n"
+        },
+        {
+            "tags": [
+                "subjunctive"
+            ],
+            "closed_details": {
+                "by_users": [
+                    {
+                        "account_id": 3401915,
+                        "reputation": 5545,
+                        "user_id": 2555,
+                        "user_type": "moderator",
+                        "profile_image": "https://www.gravatar.com/avatar/a66cede09ad91417502051a3a146210a?s=256&d=identicon&r=PG",
+                        "display_name": "curiousdannii",
+                        "link": "https://linguistics.stackexchange.com/users/2555/curiousdannii"
+                    }
+                ],
+                "description": "<ul class=\"site-specific-close-reason-status-list\"><li>This question does not appear to be about linguistics within the scope defined in the <a href=\"https://linguistics.stackexchange.com/help/on-topic\">help center</a>.</li></ul>",
+                "reason": "Not suitable for this site"
+            },
+            "migrated_to": {
+                "other_site": {
+                    "styling": {
+                        "tag_background_color": "#FFF",
+                        "tag_foreground_color": "#000",
+                        "link_color": "#0077CC"
+                    },
+                    "related_sites": [
+                        {
+                            "relation": "meta",
+                            "api_site_parameter": "ell.meta",
+                            "site_url": "https://ell.meta.stackexchange.com",
+                            "name": "English Language Learners Meta Stack Exchange"
+                        },
+                        {
+                            "relation": "chat",
+                            "site_url": "https://chat.stackexchange.com?tab=site&host=ell.stackexchange.com",
+                            "name": "Chat Stack Exchange"
+                        }
+                    ],
+                    "launch_date": 1441719420,
+                    "open_beta_date": 1359572594,
+                    "closed_beta_date": 1358967600,
+                    "site_state": "normal",
+                    "high_resolution_icon_url": "https://cdn.sstatic.net/Sites/ell/Img/apple-touch-icon@2.png",
+                    "favicon_url": "https://cdn.sstatic.net/Sites/ell/Img/favicon.ico",
+                    "icon_url": "https://cdn.sstatic.net/Sites/ell/Img/apple-touch-icon.png",
+                    "audience": "speakers of other languages learning English",
+                    "site_url": "https://ell.stackexchange.com",
+                    "api_site_parameter": "ell",
+                    "logo_url": "https://cdn.sstatic.net/Sites/ell/Img/logo.png",
+                    "name": "English Language Learners",
+                    "site_type": "main_site"
+                },
+                "on_date": 1679837306,
+                "question_id": 334655
+            },
+            "owner": {
+                "account_id": 28128993,
+                "reputation": 1,
+                "user_id": 41397,
+                "user_type": "registered",
+                "profile_image": "https://graph.facebook.com/5828330140598849/picture?type=large",
+                "display_name": "Ley Didi",
+                "link": "https://linguistics.stackexchange.com/users/41397/ley-didi"
+            },
+            "is_answered": false,
+            "view_count": 4,
+            "closed_date": 1679837306,
+            "answer_count": 0,
+            "score": 0,
+            "locked_date": 1679837306,
+            "last_activity_date": 1679831713,
+            "creation_date": 1679831713,
+            "question_id": 46367,
+            "link": "https://linguistics.stackexchange.com/questions/46367/i-hope-for-it-to-have-helped-you",
+            "closed_reason": "Not suitable for this site",
+            "title": "\u201cI hope for it to have helped you\u201d?",
+            "body": "<p>I see they use \u201cI hope (that) it has helped you\u201d, but I can\u2019t understand the use of the indicative mood above the subjunctive mood there. Any explanation whatsoever? Can I use the structure stated in/on the title freely?</p>\n"
+        },
+        {
+            "tags": [
+                "mathematical-language"
+            ],
+            "owner": {
+                "account_id": 485278,
+                "reputation": 136,
+                "user_id": 28043,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/6b658b2ae20aa3147536bab4394c8fc6?s=256&d=identicon&r=PG",
+                "display_name": "PCH",
+                "link": "https://linguistics.stackexchange.com/users/28043/pch"
+            },
+            "is_answered": false,
+            "view_count": 52,
+            "answer_count": 0,
+            "score": -5,
+            "last_activity_date": 1679775324,
+            "creation_date": 1679765660,
+            "last_edit_date": 1679775324,
+            "question_id": 46366,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46366/indefinite-article-before-the-multiplicaiton-product-a-decad-of-twos-is-twenty",
+            "title": "Indefinite article before the multiplicaiton product: &quot;a decad of twos is twenty&quot; or &quot;a decad of twos is a twenty&quot;",
+            "body": "<p>For a technical article intended for linguists only, I have to unidiomatically translate oral multiplication sentences from a South Asian language to reflect the original morphology, and while doing so, a question arose over the presence of the indefinite article before the product.\nWhat in idiomatic English would be &quot;ten twos are twenty&quot; is forced to be restructured unidiomatically.So the focus here is only on the grammatical correctness of the unidiomatic forms and not on their idiomaticity.</p>\n<p>Is it <em>a ten of twos is a twenty</em>, <em>a decad of twos is a twenty</em>\nor (without the definite article)</p>\n<p><em>a ten of twos is twenty</em>, <em>a decad of twos is twenty</em>?\nLet me break this problem down into parts:</p>\n<ul>\n<li>a ten of twos\nI am constructing the part &quot;a ten of twos&quot; on the analogy of &quot;a ten of spades&quot; etc. as quoted here:\n<a href=\"https://www.thefreedictionary.com/Ten+of+Spades\" rel=\"nofollow noreferrer\">https://www.thefreedictionary.com/Ten+of+Spades</a>\n&quot;After an hour, my patience is wearing out when I get a nine of diamonds and ten of clubs in hand, with a ten of spades, jack of clubs and queen of clubs on the flop.&quot;</li>\n</ul>\n<p>So first of all would &quot; a ten of twos&quot; mean the same thing as &quot;ten twos&quot; in the multiplication context?</p>\n<ul>\n<li>&quot;.... a twenty&quot; vs &quot; .... twenty&quot;\n&quot; A ten of twos equivalent to &quot;a set of &quot;\nSo &quot; A ten of twos is a twenty&quot; is structurally equivalent to saying &quot;A set of X's is [called] a Y&quot; where Y can be a nominal denoting a collection type.</li>\n</ul>\n<p>So what is the grammatical issue here?</p>\n"
+        },
+        {
+            "tags": [
+                "terminology",
+                "dialects"
+            ],
+            "owner": {
+                "account_id": 9874767,
+                "reputation": 111,
+                "user_id": 21348,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/0f30d4e4c3e61913371af3032eac211d?s=256&d=identicon&r=PG",
+                "display_name": "apprenant",
+                "link": "https://linguistics.stackexchange.com/users/21348/apprenant"
+            },
+            "is_answered": true,
+            "view_count": 65,
+            "answer_count": 1,
+            "score": 1,
+            "last_activity_date": 1679759349,
+            "creation_date": 1679745879,
+            "question_id": 46364,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46364/is-there-a-technical-term-for-the-process-of-a-dialectal-word-being-accepted-as",
+            "title": "Is there a technical term for the process of a dialectal word being accepted as part of the standard variety?",
+            "body": "<p>For example, the word <em>pet</em> appeared originally in <a href=\"https://www.etymonline.com/word/pet#etymonline_v_12783\" rel=\"nofollow noreferrer\">Scottish and northern England dialect</a>, but it is no longer felt as specific to certain regions. I have not discovered any appropriate term for such phenomenon.</p>\n<p>By the way, is there a technical term for the reverse process (i.e. the process of generally accepted words being reckoned as dialectal terms)? An example is that the archaic word <em>emmet</em> is chiefly viewed as dialectal.</p>\n"
+        },
+        {
+            "tags": [
+                "terminology"
+            ],
+            "owner": {
+                "account_id": 429080,
+                "reputation": 1365,
+                "user_id": 141,
+                "user_type": "registered",
+                "accept_rate": 25,
+                "profile_image": "https://i.stack.imgur.com/mftvN.jpg?s=256&g=1",
+                "display_name": "Saeed Neamati",
+                "link": "https://linguistics.stackexchange.com/users/141/saeed-neamati"
+            },
+            "is_answered": true,
+            "view_count": 71,
+            "answer_count": 1,
+            "score": 2,
+            "last_activity_date": 1679717808,
+            "creation_date": 1679706461,
+            "question_id": 46361,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46361/is-there-a-technical-term-for-words-that-seek-attention",
+            "title": "Is there a technical term for words that seek attention?",
+            "body": "<p>In many languages there are words or sounds that function as attention-seeker.</p>\n<p>For example you might say <strong>hey yo,</strong></p>\n<p>And this causes people to turn their heads towards you.</p>\n<p>In Persian there is <strong>\u0622\u0647\u0627\u06cc</strong> as another example.</p>\n<p>Please note that my question is not about interjections, as they are part of a conversation which is after attention is given.</p>\n<p>My question is about when other people are doing their things and minding their own business and suddenly someone comes and shouts like &quot;hey everyone&quot; to turn their heads. Similar to shouting.</p>\n<p>Is there a technical linguistic term for this?</p>\n"
+        },
+        {
+            "tags": [
+                "semantics",
+                "nouns",
+                "pragmatics",
+                "denotation"
+            ],
+            "owner": {
+                "account_id": 23685489,
+                "reputation": 273,
+                "user_id": 40683,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/8b47541f13bc6b106ef16bf87bb2c26b?s=256&d=identicon&r=PG&f=1",
+                "display_name": "Confused",
+                "link": "https://linguistics.stackexchange.com/users/40683/confused"
+            },
+            "is_answered": true,
+            "view_count": 90,
+            "answer_count": 1,
+            "score": 2,
+            "last_activity_date": 1679702986,
+            "creation_date": 1674482062,
+            "last_edit_date": 1677110198,
+            "question_id": 45994,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/45994/denotation-of-common-nouns",
+            "title": "Denotation of common nouns",
+            "body": "<p>Do common nouns have any singular 'denotation' or do all of them denote entirely contextually? For example in 'a car' is 'car' denoting a type of object  and the entire phrase describing an object of that type?</p>\n<p>Do singular words like 'king' denote a specific role/office? Is there any rule for the denotation of common nouns after determiners?</p>\n<p>Taking any philosophical views out of it, is there any lingusitic rules on the denotation of common nouns, or is it simply that they can be used to describe and may denote contextually a real object, for example in:</p>\n<p>'men entered the room'</p>\n<p>If I take the word 'man' does this have any particular denotation other than we use it to discuss real things of that type?</p>\n"
+        },
+        {
+            "tags": [
+                "semantics",
+                "linguistic-typology",
+                "tense"
+            ],
+            "owner": {
+                "account_id": 28116162,
+                "reputation": 31,
+                "user_id": 41388,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/1b6c49d6e294437a2ee23f19155649d4?s=256&d=identicon&r=PG&f=y&so-version=2",
+                "display_name": "VFED",
+                "link": "https://linguistics.stackexchange.com/users/41388/vfed"
+            },
+            "is_answered": false,
+            "view_count": 76,
+            "answer_count": 0,
+            "score": 3,
+            "last_activity_date": 1679680299,
+            "creation_date": 1679676480,
+            "last_edit_date": 1679680299,
+            "question_id": 46358,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46358/any-examples-of-any-language-bifurcating-the-past-into-past-before-ones-life-an",
+            "title": "Any examples of any language bifurcating the past into past before one&#39;s life and past during one&#39;s life?",
+            "body": "<p>It can be either from a conlang or a natlang but I wasn't able to find any examples.</p>\n"
+        },
+        {
+            "tags": [
+                "list-of-languages"
+            ],
+            "owner": {
+                "account_id": 21466580,
+                "reputation": 121,
+                "user_id": 32484,
+                "user_type": "unregistered",
+                "profile_image": "https://www.gravatar.com/avatar/33ba0150ec3b4f2a613434d4ce1b5884?s=256&d=identicon&r=PG",
+                "display_name": "Language seeker",
+                "link": "https://linguistics.stackexchange.com/users/32484/language-seeker"
+            },
+            "is_answered": true,
+            "view_count": 997,
+            "answer_count": 2,
+            "score": 12,
+            "last_activity_date": 1679611954,
+            "creation_date": 1619971251,
+            "question_id": 38957,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/38957/language-that-uses-t-or-k-in-formal-settings-and-k-or-t-in-in-info",
+            "title": "Language that uses [t] (or [k]?) in formal settings and [k] (or [t]?) in in informal",
+            "body": "<p>I remember reading about some language in which both [t] and [k] were considered the same phoneme and one of the [t] and [k] were used in formal and the other in informal settings. Does such a language exist or was what I read a myth? I apologize for being vague but I have no other information about that language and it is bugging me.</p>\n"
+        },
+        {
+            "tags": [
+                "grammar",
+                "cases",
+                "polish"
+            ],
+            "owner": {
+                "account_id": 7464923,
+                "reputation": 211,
+                "user_id": 35600,
+                "user_type": "registered",
+                "profile_image": "https://www.gravatar.com/avatar/a72b3fbda62629bd3b816b36a8d669e1?s=256&d=identicon&r=PG",
+                "display_name": "FMB",
+                "link": "https://linguistics.stackexchange.com/users/35600/fmb"
+            },
+            "is_answered": true,
+            "view_count": 91,
+            "accepted_answer_id": 46354,
+            "answer_count": 1,
+            "score": 0,
+            "last_activity_date": 1679604064,
+            "creation_date": 1679426961,
+            "last_edit_date": 1679596414,
+            "question_id": 46350,
+            "content_license": "CC BY-SA 4.0",
+            "link": "https://linguistics.stackexchange.com/questions/46350/question-about-a-phrase-with-the-polish-case-genetive-dope%c5%82niacz",
+            "title": "Question about a phrase with the Polish case genetive (dope\u0142niacz)",
+            "body": "<p>in the following sentence:</p>\n<pre><code>&quot;Teraz id\u0119 do \u017cabki po sok&quot;\n</code></pre>\n<p>What is the function of the genitive case applied on the noun &quot;\u017cabka&quot;?</p>\n<p>I'm aware that with the preposition &quot;do&quot;, especially regarding a location, the genitive case is used to decline the following nouns. And I'm aware that verbs and prepositions go with specific cases.</p>\n<p>But can someone explain the grammatical function of the genitive in this sentence, and the grammatical reasoning behind why it's this case and not another that is used?</p>\n<p>I would appreciate a thorough, detailed explanation. If you happen to be a grammar nerd, I sincerely encourage you to answer, your response will be greatly appreciated.</p>\n<p>Thank you in advance.</p>\n"
+        }
+    ],
+    "has_more": true,
+    "quota_max": 300,
+    "quota_remaining": 292
+}
