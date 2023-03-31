@@ -64,47 +64,77 @@ Evaluating on:
 
 
 
-tree = ElementTree()
-tree.parse("data//Posts.xml")
-root = tree.getroot()
-posts = root.iter("row")
+def get_question_dict_no_answer():
+      tree = ElementTree()
+      tree.parse("data//Posts.xml")
+      root = tree.getroot()
+      posts = root.iter("row")
 
-questions = dict()
-answers = dict()
+      questions = {}
+      # first preprocess the data and split them into questions and answers
+      for post in posts:
+            if int(post.attrib["PostTypeId"]) == 1:
+                  if "AnswerCount" in post.attrib:
+                        # question
+                        this_question = {
+                              "id": int(post.attrib["Id"]),
+                              "title": post.attrib["Title"],
+                              "body": post.attrib["Body"],
+                              "accepted": post.attrib["AcceptedAnswerId"] if "AcceptedAnswerId" in post.attrib else -1  
+                        }
+                        questions[int(post.attrib["Id"])] = this_question
 
-for post in posts:
-      # print(post)
-      # this_post = {
-      #       "id": post.attrib["Id"],
-      #       "post_type": post.attrib["PostTypeId"],
-      #       "title": post.attrib["Title"],
-      #       "body": post.attrib["Body"],
-      #       "accepted": post.attrib["AcceptedAnswerId"] # might be null
-      # }
-      # it's a question
-      if int(post.attrib["PostTypeId"]) == 1:
-            if "AnswerCount" in post.attrib and int(post.attrib["AnswerCount"]) > 0:
-                  # question
-                  this_question = {
-                        "id": post.attrib["Id"],
-                        "title": post.attrib["Title"],
-                        "body": post.attrib["Body"],
-                        "accepted": post.attrib["AcceptedAnswerId"] if "AcceptedAnswerId" in post.attrib else -1  
-                  }
-                  questions[post.attrib["Id"]] = this_question
-      elif int(post.attrib["PostTypeId"]) == 2:
-            # answer
-            this_answer = {
-                  "id": post.attrib["Id"],
-                  "question_id": post.attrib["ParentId"],
-                  "body": post.attrib["Body"],
-            }
-            answers[post.attrib["Id"]] = this_answer
+      # first question
+      for id, value in questions.items():
+            value["body"] = bs(value["body"], "lxml").text
+            questions[id] = value
+      # then answer
+      # for id, value in answers.items():
+      #       value["body"] = bs(value["body"], "lxml").text
+      #       answers[id] = value
 
-# print(questions)
-# print(answers)
+      return questions
+# tree = ElementTree()
+# tree.parse("data//Posts.xml")
+# root = tree.getroot()
+# posts = root.iter("row")
 
-print(f"There are {len(questions)} questions and {len(answers)} answers")
+# questions = dict()
+# answers = dict()
+
+# for post in posts:
+#       # print(post)
+#       # this_post = {
+#       #       "id": post.attrib["Id"],
+#       #       "post_type": post.attrib["PostTypeId"],
+#       #       "title": post.attrib["Title"],
+#       #       "body": post.attrib["Body"],
+#       #       "accepted": post.attrib["AcceptedAnswerId"] # might be null
+#       # }
+#       # it's a question
+#       if int(post.attrib["PostTypeId"]) == 1:
+#             if "AnswerCount" in post.attrib and int(post.attrib["AnswerCount"]) > 0:
+#                   # question
+#                   this_question = {
+#                         "id": post.attrib["Id"],
+#                         "title": post.attrib["Title"],
+#                         "body": post.attrib["Body"],
+#                         "accepted": post.attrib["AcceptedAnswerId"] if "AcceptedAnswerId" in post.attrib else -1  
+#                   }
+#                   questions[post.attrib["Id"]] = this_question
+#       elif int(post.attrib["PostTypeId"]) == 2:
+#             # answer
+#             this_answer = {
+#                   "id": post.attrib["Id"],
+#                   "question_id": post.attrib["ParentId"],
+#                   "body": post.attrib["Body"],
+#             }
+#             answers[post.attrib["Id"]] = this_answer
+
+# # print(questions)
+# # print(answers)
+
+# print(f"There are {len(questions)} questions and {len(answers)} answers")
 
 
 # I just made this so I can get the questions list for random sampling when making negative samples in build_evaluation
@@ -133,8 +163,8 @@ def get_question_dict():
             value["body"] = bs(value["body"], "lxml").text
             questions[id] = value
       # then answer
-      for id, value in answers.items():
-            value["body"] = bs(value["body"], "lxml").text
-            answers[id] = value
+      # for id, value in answers.items():
+      #       value["body"] = bs(value["body"], "lxml").text
+      #       answers[id] = value
 
       return questions
