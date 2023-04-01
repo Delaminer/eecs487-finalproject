@@ -21,6 +21,20 @@ bert_model =  hub.KerasLayer(BERT_URL)
 def get_question_body_from_id(q_id):
     return questions[q_id]["body"]
 
+#feature choice will either be "title" or "body", but we can add a "both" option later
+def get_all_question_embeddings(feature_choice="body"):
+    #embeddings will be array of shape [num_questions, 2], where each row will be: [question_id, question_embedding]
+    embeddings = np.array([len(questions), 2])
+
+    print("STARTING")
+
+    index = 0
+    for id, value in questions.items():
+        question_vec = get_paragraph_embedding_bert(value[feature_choice])
+        embeddings[index] = [[id], [question_vec]]
+        index += 1
+    return embeddings
+
 #returns average sentence embedding for given text
 def get_paragraph_embedding_bert(text):
     text_preprocessed = preprocessor(sent_tokenize(text))
