@@ -6,6 +6,7 @@ import tensorflow_text as text
 BERT_URL = "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4"
 PREPROCESS_URL = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
 preprocessor = hub.KerasLayer(PREPROCESS_URL)
+
 # text_test = ['this is such an amazing movie!']
 # text_preprocessed = preprocessor(text_test)
 bert_model =  hub.KerasLayer(BERT_URL)# Testing the embedding 
@@ -13,7 +14,6 @@ text_test = ['this is such an amazing movie!', "asdasdasd, asdasd"]
 
 text_preprocessed = preprocessor(text_test)
 bert_results = bert_model(text_preprocessed)
-    
 
 print(f'Pooled Outputs Shape:{bert_results["pooled_output"].shape}')
 print(f'Pooled Outputs Values:{bert_results["pooled_output"][0, :12]}')

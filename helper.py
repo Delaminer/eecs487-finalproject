@@ -24,14 +24,16 @@ def get_question_body_from_id(q_id):
 #feature choice will either be "title" or "body", but we can add a "both" option later
 def get_all_question_embeddings(feature_choice="body"):
     #embeddings will be array of shape [num_questions, 2], where each row will be: [question_id, question_embedding]
-    embeddings = np.array([len(questions), 2])
+    embeddings = np.empty([len(questions), 2], dtype=object)
 
     print("STARTING")
 
     index = 0
     for id, value in questions.items():
+        print(index)
         question_vec = get_paragraph_embedding_bert(value[feature_choice])
-        embeddings[index] = [[id], [question_vec]]
+        #embeddings[index] = float(id)
+        embeddings[index] = [id, question_vec]
         index += 1
     return embeddings
 
