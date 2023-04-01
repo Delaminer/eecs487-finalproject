@@ -8,3 +8,6 @@ annoy
 tensorflow
 bs4
 lxml
+pandas
+sklearn
+scikit-learn

@@ -8,7 +8,7 @@ import tensorflow_text as text
 
 from preprocess_functions import get_question_dict
 
-questions = get_question_dict()
+# questions = get_question_dict()
 
 # Load the Preprocessor and Bert models, this is gonna take a while
 # we are loading the version that automatically lowercase the words for us
@@ -26,3 +26,8 @@ def get_paragraph_embedding_bert(text):
     text_preprocessed = preprocessor(sent_tokenize(text))
     bert_results = bert_model(text_preprocessed)
     return np.mean(bert_results["pooled_output"], axis=0)
+
+def encode_sentence(sentence):
+    text_preprocessed = preprocessor([sentence])
+    bert_results = bert_model(text_preprocessed)
+    return bert_results["pooled_output"][0]
