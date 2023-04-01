@@ -5,3 +5,6 @@ np
 gensim
 matplotlib
 annoy
+tensorflow
+bs4
+lxml
