@@ -86,6 +86,7 @@ def get_question_dict_no_answer():
 
       # first question
       for id, value in questions.items():
+            value["title"] = bs(value["title"], "lxml").text
             value["body"] = bs(value["body"], "lxml").text
             questions[id] = value
       # then answer
@@ -160,6 +161,7 @@ def get_question_dict():
 
       # first question
       for id, value in questions.items():
+            value["title"] = bs(value["title"], "lxml").text
             value["body"] = bs(value["body"], "lxml").text
             questions[id] = value
       # then answer
