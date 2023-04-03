@@ -4,7 +4,7 @@ import torch
 from torch.utils.data import Dataset
 import torch.nn as nn
 import torch.nn.functional as F
-from helper import encode_sentence
+from helper.helper import encode_sentence
 
 class MyDataset(Dataset):
     def __init__ (self, data):

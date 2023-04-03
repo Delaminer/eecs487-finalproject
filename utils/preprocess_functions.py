@@ -66,7 +66,7 @@ Evaluating on:
 
 def get_question_dict_no_answer():
       tree = ElementTree()
-      tree.parse("data//Posts.xml")
+      tree.parse("..//data//Posts.xml")
       root = tree.getroot()
       posts = root.iter("row")
 
@@ -141,7 +141,7 @@ def get_question_dict_no_answer():
 # I just made this so I can get the questions list for random sampling when making negative samples in build_evaluation
 def get_question_dict():
       tree = ElementTree()
-      tree.parse("data//Posts.xml")
+      tree.parse("..//data//Posts.xml")
       root = tree.getroot()
       posts = root.iter("row")
 

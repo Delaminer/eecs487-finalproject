@@ -5,9 +5,9 @@ import numpy as np
 import tensorflow_hub as hub
 import tensorflow as tf
 import tensorflow_text as text
-
-from preprocess_functions import get_question_dict
-
+from utils.preprocess_functions import get_question_dict
+import torch.nn as nn
+m = nn.Sigmoid()
 
 # Load the Preprocessor and Bert models, this is gonna take a while
 # we are loading the version that automatically lowercase the words for us
@@ -15,7 +15,12 @@ BERT_URL = "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4"
 PREPROCESS_URL = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
 preprocessor = hub.KerasLayer(PREPROCESS_URL)
 bert_model =  hub.KerasLayer(BERT_URL)
-questions = get_question_dict()
+# questions = get_question_dict()
+
+def get_probability(a, b):
+    cos_sim = np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
+    cos_sim = torch.tensor(cos_sim)
+    return m(cos_sim)
 
 def get_question_body_from_id(q_id):
     return questions[q_id]["body"]
@@ -45,4 +50,4 @@ def get_paragraph_embedding_bert(text):
 def encode_sentence(sentence):
     text_preprocessed = preprocessor([sentence])
     bert_results = bert_model(text_preprocessed)
-    return bert_results["pooled_output"][0]
+    return np.array(bert_results["pooled_output"][0])
