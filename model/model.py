@@ -116,17 +116,17 @@ class DataLoader(Dataset):
     
 # this is the model we use to finetune 
 class FineTunedModel(nn.Module):
-    def __init__(self):
+    def __init__(self, new_dimension=64):
         super(FineTunedModel, self).__init__()
         
         input_dimension = 768
-        new_dimension = 20
         self.relu = nn.ReLU()
         # NOTE: Maybe reduce to 1 layer
         self.fc1 = nn.Linear(input_dimension, new_dimension)
         self.fc2 = nn.Linear(new_dimension, new_dimension)
         self.fc3 = nn.Linear(new_dimension, new_dimension)
         
+    # This is the function to getting the new embedding
     def ff(self, a):
         a = self.fc1(a)
         a = self.relu(a)
