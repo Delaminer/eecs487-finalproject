@@ -12,6 +12,7 @@ import pandas as pd
 import csv
 import pickle
 from utils.helper import *
+from torch.nn.functional import normalize
 
 class DataLoader(Dataset):
     def __init__ (self, filepath="../dataset/dataset_subset400.csv", save_name = "saved_data400.pkl"):
@@ -122,6 +123,7 @@ class FineTunedModel(nn.Module):
         input_dimension = 768
         self.relu = nn.ReLU()
         # NOTE: Maybe reduce to 1 layer
+        self.do = nn.Dropout(p=0.5)
         self.fc1 = nn.Linear(input_dimension, new_dimension)
         self.fc2 = nn.Linear(new_dimension, new_dimension)
         self.fc3 = nn.Linear(new_dimension, new_dimension)
@@ -130,9 +132,15 @@ class FineTunedModel(nn.Module):
     def ff(self, a):
         a = self.fc1(a)
         a = self.relu(a)
+        a = self.do(a)
+        
         a = self.fc2(a)
         a = self.relu(a)
+        a = self.do(a)
+        
         a = self.fc3(a)
+        # gradient clipping 
+        a = normalize(a, dim=0)
         return a 
     
     def forward(self, q1, q2):
