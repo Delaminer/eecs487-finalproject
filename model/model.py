@@ -15,7 +15,7 @@ from utils.helper import *
 from torch.nn.functional import normalize
 
 class DataLoader(Dataset):
-    def __init__ (self, filepath="../dataset/dataset_subset400.csv", save_name = "saved_data400.pkl"):
+    def __init__ (self, filepath="../dataset/dataset_subset800.csv", save_name = "saved_data_title_and_body_concat800.pkl"):
         super().__init__()
             
         # Each data point is a pair of embeddings 
@@ -27,9 +27,9 @@ class DataLoader(Dataset):
         # data is a csv file in the following format
         # Q1 title, Q1 body, Q1 id, Q2 title, Q2 body, Q2 id, dup. label
         self.data = []
-        self.unique_titles = []
-        self.titles_id = []
-        self.unique_titles_id = set()
+        self.unique_embeddings = []
+        self.unique_embeddings_id = []
+        self.seen_id = set()
         
         df = pd.read_csv(filepath) 
         
@@ -41,11 +41,11 @@ class DataLoader(Dataset):
                 with open(save_name, "rb") as f:
                     self.data = pickle.load(f)
                     print("Successfully load pickle files")
-                with open("unique_titles_"+ save_name, "rb") as f:
-                    self.unique_titles = pickle.load(f)
+                with open("unique_embeddings_"+ save_name, "rb") as f:
+                    self.unique_embeddings = pickle.load(f)
                     print("Successfully load unique_titles")
-                with open("titles_id_"+ save_name, "rb") as f:
-                    self.titles_id = pickle.load(f)
+                with open("unique_embeddings_id_"+ save_name, "rb") as f:
+                    self.unique_embeddings_id = pickle.load(f)
                     print("Successfully load titles_id")
                 return 
             except Exception as e:
@@ -56,19 +56,25 @@ class DataLoader(Dataset):
         for index, row in df.iterrows():
             
             # for now we are just doing title
-            # BUT possibly can try body and stuff in the future 
-            encoded_q1 = torch.Tensor(encode_sentence(row["q1_title"]))
-            encoded_q2 = torch.Tensor(encode_sentence(row["q2_title"]))
+            # BUT possibly can try body and stuff in the future
             
-            if row["q1_id"] not in self.unique_titles_id:
-                self.unique_titles_id.add(row["q1_id"])
-                self.unique_titles.append(encoded_q1) # gonna be fed into the KNN algorithm 
-                self.titles_id.append(int(row["q1_id"])) # i need to know which question the KNN predicts
+            # if this id is not seen before, we add the data point 
+            if row["q1_id"] not in self.seen_id:
+                self.seen_id.add(row["q1_id"])
                 
-            if row["q2_id"] not in self.unique_titles_id:
-                self.unique_titles_id.add(row["q2_id"])
-                self.unique_titles.append(encoded_q2)
-                self.titles_id.append(int(row["q2_id"]))
+                q1_concat = row["q1_title"] + " " + row["q1_body"] 
+                encoded_q1 = torch.Tensor(encode_sentence(q1_concat))
+                self.unique_embeddings_id.append(int(row["q1_id"]))
+                self.unique_embeddings.append(encoded_q1) # gonna be fed into the KNN algorithm 
+                                                          # i need to know which question the KNN predicts
+                
+            if row["q2_id"] not in self.seen_id:
+                self.seen_id.add(row["q2_id"])
+                
+                q2_concat = row["q2_title"] + " " + row["q2_body"] 
+                encoded_q2 = torch.Tensor(encode_sentence(q2_concat))
+                self.unique_embeddings_id.append(int(row["q2_id"]))
+                self.unique_embeddings.append(encoded_q2)
                 
                 
             # NOTE about the above code ^^^
@@ -79,10 +85,10 @@ class DataLoader(Dataset):
                 
             cur_data = {}
             print("Currently processing row", index)
-            cur_data["Q1_title"] = encoded_q1
-            cur_data["Q1_id"] = int(row["q1_id"])
-            cur_data["Q2_title"] = encoded_q2
-            cur_data["Q2_id"] = int(row["q2_id"])
+            cur_data["q1_embedding"] = encoded_q1
+            cur_data["q1_id"] = int(row["q1_id"])
+            cur_data["q2_embedding"] = encoded_q2
+            cur_data["q2_id"] = int(row["q2_id"])
             # we need to reformat label to be -1 if it's 0, because CosineEmbeddingLoss 
             # expects y to either be 1 or -1 
             cur_data["label"] = 1 if int(row["duplicate_label"]) == 1 else -1
@@ -95,12 +101,12 @@ class DataLoader(Dataset):
             with open(save_name, "wb") as f:
                 pickle.dump(self.data, f)
                 print("Successfully wrote data")
-            with open("unique_titles_"+ save_name, "wb") as f:
-                pickle.dump(self.unique_titles, f)
-                print("Successfully wrote unique_titles")
-            with open("titles_id_"+ save_name, "wb") as f:
-                pickle.dump(self.titles_id, f)
-                print("Successfully wrote titles_id")
+            with open("unique_embeddings_"+ save_name, "wb") as f:
+                pickle.dump(self.unique_embeddings, f)
+                print("Successfully wrote unique_embeddings")
+            with open("unique_embeddings_id_"+ save_name, "wb") as f:
+                pickle.dump(self.unique_embeddings_id, f)
+                print("Successfully wrote unique_embeddings_id")
                 
         except Exception as e:
             print("Some errors happened in pickling data")
@@ -117,13 +123,13 @@ class DataLoader(Dataset):
     
 # this is the model we use to finetune 
 class FineTunedModel(nn.Module):
-    def __init__(self, new_dimension=64):
+    def __init__(self, new_dimension=64, dropout=0.5):
         super(FineTunedModel, self).__init__()
         
         input_dimension = 768
         self.relu = nn.ReLU()
         # NOTE: Maybe reduce to 1 layer
-        self.do = nn.Dropout(p=0.5)
+        self.do = nn.Dropout(p=dropout)
         self.fc1 = nn.Linear(input_dimension, new_dimension)
         self.fc2 = nn.Linear(new_dimension, new_dimension)
         self.fc3 = nn.Linear(new_dimension, new_dimension)
