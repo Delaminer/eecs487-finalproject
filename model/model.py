@@ -84,7 +84,7 @@ class DataLoader(Dataset):
             cur_data["Q2_id"] = int(row["q2_id"])
             # we need to reformat label to be -1 if it's 0, because CosineEmbeddingLoss 
             # expects y to either be 1 or -1 
-            cur_data["label"] = 1 if int(row["duplicate_label"]) == 1 else -1 
+            cur_data["label"] = 1 if int(row["duplicate_label"]) == 1 else -1
             
             self.data.append(cur_data)
         
