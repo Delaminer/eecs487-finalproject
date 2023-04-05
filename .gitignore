@@ -1,4 +1,5 @@
 env/**
+.venv/**
 glove-wiki-gigaword-200.kv
 glove-wiki-gigaword-200.kv.vectors.npy
 data/
