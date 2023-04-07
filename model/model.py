@@ -186,10 +186,10 @@ class SpecialDataLoader(Dataset):
                 print(e)
                 
         # self.vectorizer = 
-        self.corpus = [] # For TF-IDF
-        self.id_to_corpus = dict()
-        self.corpus_to_id = dict()
-        self.duplicate = defaultdict(lambda: [])
+        self.corpus = [] # For TF-IDF, map corpus_id to 
+        self.id_to_corpus = dict() # map doc_id to corresponding corpus_id
+        self.corpus_to_id = dict() # map corpus_id to corresponding doc_id
+        self.duplicate = defaultdict(lambda: []) # map doc_id to a duplicate doc_id (very similar questions)
         # only loading the titles for now 
         for index, row in df.iterrows():
             cur_data = {}
