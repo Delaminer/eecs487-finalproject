@@ -15,36 +15,48 @@ export default function SearchPage() {
   //   }
   // ]
   return (
-    <div className='searchpage'>
-      <h1>Ask a Question</h1>
-      {/* <SearchBar
-        onSearch={(searchTerm) => {
-          // use the search term to make a search
-          
-          // Send API request, and wait to hear back for duplicate questions.
-        }}
-      /> */}
-      <QuestionPrompt
-        onAskQuestion={({
-          title,
-          body,
-        }) => {
-          console.log("Asking question", title)
-          askQuestion({ title, body });
-        }
+    <div className='absolute top-0 left-0 right-0 bottom-0 bg-[#fcfaf3] '> 
+      <div className='flex-col mt-[1em]  mx-[4em] '>
+        
+        <div className='text-left text-[0.5em] font-bold	'>
 
-        }
-      />
-      {
-        data && (
-          isLoading ? (
-            "Loading, please wait"
-          ) : (
-            <SearchResults data={data.results} />
-          )
-        )
+          <h1 className='px-[0.5em]'>
+            Ask a question
+          </h1>
+        </div>
+        {/* <SearchBar
+          onSearch={(searchTerm) => {
+            // use the search term to make a search
+            
+            // Send API request, and wait to hear back for duplicate questions.
+          }}
+        /> */}
+        <div className=' h-fit mt-[1em] mb-[2em]  '>
+          {/* Need two more divs below, one for title and one for questions  */}
 
-      }
+          <QuestionPrompt
+            onAskQuestion={({
+              title,
+              body,
+            }) => {
+              console.log("Asking question", title)
+              askQuestion({ title, body });
+            }
+
+            }
+          />
+          {
+            data && (
+              isLoading ? (
+                "Loading, please wait"
+              ) : (
+                <SearchResults data={data.results} />
+              )
+            )
+
+          }
+        </div>
+      </div>
 
     </div>
   )
