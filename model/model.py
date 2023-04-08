@@ -162,7 +162,7 @@ class FineTunedModel(nn.Module):
 from sklearn.feature_extraction.text import TfidfVectorizer
 from collections import defaultdict
 class SpecialDataLoader(Dataset):
-    def __init__ (self, filepath="../dataset/dataset_subset800.csv", save_name = "special_saved_data_title_and_body_concat800.pkl"):
+    def __init__ (self, filepath="../dataset/dataset.csv", save_name = "../dataset/tfidf.pkl"):
         super().__init__()
         save_model = False
         self.data = []
@@ -212,7 +212,7 @@ class SpecialDataLoader(Dataset):
                     self.corpus.append(entry)
         
         self.vectorizer = TfidfVectorizer()
-        self.matrix_X = self.vectorizer.fit_transform(self.corpus)
+        self.matrix = self.vectorizer.fit_transform(self.corpus)
         print("Performed tf-idf")
         if save_model:
             try:
@@ -228,7 +228,7 @@ class SpecialDataLoader(Dataset):
         print("Keep in mind the data processed is in order, so you might want to shuffle them.")
         
     def __len__(self):
-        return len(self.data)
+        return self.matrix.shape[0]
     
     def __getitem__(self, idx):
-        return self.data[idx]
+        return self.matrix[idx]
