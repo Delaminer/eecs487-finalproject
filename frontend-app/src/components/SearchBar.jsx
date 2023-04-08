@@ -13,21 +13,20 @@ function SearchBar({ onSearch }) {
   }
 
   return (
+    
     <form onSubmit={handleSubmit}>
-      <div className='bar'>
-        <input
-          type="text"
-          placeholder="Search..."
-          value={query}
-          onChange={handleInputChange}
-          className='searchbar'
+      <input
+        type="text"
+        placeholder="Search..."
+        value={query}
+        onChange={handleInputChange}
+        className='searchbar'
+      />
+      <button type="submit"className='searchbar-button' >
+        <img src='search-icon.png' className='searchbar-button-icon'
+        onClick={handleSubmit}
         />
-        <button type="submit"className='searchbar-icon-bubble' >
-          <img src='search-icon.png' className='searchbar-icon'
-          onClick={handleSubmit}
-          ></img>
-          </button>
-      </div>
+      </button>
     </form>
   );
 }
