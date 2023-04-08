@@ -1,0 +1,3643 @@
+Loading model...
+Model loaded successfully
+Epoch: 754  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 754  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 754 with a loss of: 0.0012793606519699097
+
+
+Epoch: 755  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008915906788247214
+Epoch: 755  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 755 with a loss of: 0.001204579584300518
+
+
+Epoch: 756  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 756  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 756 with a loss of: 0.0009376672987127676
+
+
+Epoch: 757  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012284701114488348
+Epoch: 757  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 757 with a loss of: 0.0012115601729601622
+
+
+Epoch: 758  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009530141843971631
+Epoch: 758  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 758 with a loss of: 0.0004210567008703947
+
+
+Epoch: 759  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 759  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 759 with a loss of: 0.0005628615617752075
+
+
+Epoch: 760  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 760  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 760 with a loss of: 0.0014998843520879746
+
+
+Epoch: 761  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 761  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 761 with a loss of: 0.0014206084609031677
+
+
+Epoch: 762  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008865248226950355
+Epoch: 762  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 762 with a loss of: 0.0013021866977214814
+
+
+Epoch: 763  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008738601823708206
+Epoch: 763  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 763 with a loss of: 0.0012896835908759385
+
+
+Epoch: 764  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 764  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 764 with a loss of: 0.0012127946596592666
+
+
+Epoch: 765  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007712765957446808
+Epoch: 765  | Validation Accuracy 0.0  | Validation MRR: 0.0026276276276276274
+Epoch: 765 with a loss of: 0.0013675154326483606
+
+
+Epoch: 766  | Training Accuracy 0.010638297872340425  | Training MRR: 0.01170212765957447
+Epoch: 766  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 766 with a loss of: 5.1279067993164065e-05
+
+
+Epoch: 767  | Training Accuracy 0.0  | Training MRR: 0.003324468085106383
+Epoch: 767  | Validation Accuracy 0.0  | Validation MRR: 0.004804804804804805
+Epoch: 767 with a loss of: 0.0013899721670895815
+
+
+Epoch: 768  | Training Accuracy 0.0  | Training MRR: 0.0017730496453900709
+Epoch: 768  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 768 with a loss of: 0.0018356732185930015
+
+
+Epoch: 769  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 769  | Validation Accuracy 0.0  | Validation MRR: 0.002927927927927928
+Epoch: 769 with a loss of: 0.0007309707254171371
+
+
+Epoch: 770  | Training Accuracy 0.0  | Training MRR: 0.0070921985815602835
+Epoch: 770  | Validation Accuracy 0.0  | Validation MRR: 0.007507507507507507
+Epoch: 770 with a loss of: 0.0012838950101286173
+
+
+Epoch: 771  | Training Accuracy 0.0  | Training MRR: 0.0017730496453900709
+Epoch: 771  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 771 with a loss of: 0.001334582194685936
+
+
+Epoch: 772  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013297872340425532
+Epoch: 772  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 772 with a loss of: 3.555484116077423e-05
+
+
+Epoch: 773  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 773  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 773 with a loss of: 0.0012870404496788978
+
+
+Epoch: 774  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00783096926713948
+Epoch: 774  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 774 with a loss of: 0.0014383479300886393
+
+
+Epoch: 775  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 775  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 775 with a loss of: 0.001395130455493927
+
+
+Epoch: 776  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012462006079027354
+Epoch: 776  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 776 with a loss of: 0.0021912201901432126
+
+
+Epoch: 777  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 777  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 777 with a loss of: 0.0015913712419569493
+
+
+Epoch: 778  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 778  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 778 with a loss of: 0.0014489264786243438
+
+
+Epoch: 779  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 779  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 779 with a loss of: 0.0016004667710512877
+
+
+Epoch: 780  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 780  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 780 with a loss of: 0.001487853080034256
+
+
+Epoch: 781  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 781  | Validation Accuracy 0.0  | Validation MRR: 0.00563063063063063
+Epoch: 781 with a loss of: 0.0012270297145005316
+
+
+Epoch: 782  | Training Accuracy 0.010638297872340425  | Training MRR: 0.01211583924349882
+Epoch: 782  | Validation Accuracy 0.0  | Validation MRR: 0.002927927927927928
+Epoch: 782 with a loss of: 0.0008843570295721293
+
+
+Epoch: 783  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 783  | Validation Accuracy 0.0  | Validation MRR: 0.012012012012012012
+Epoch: 783 with a loss of: 0.0016295082494616508
+
+
+Epoch: 784  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 784  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 784 with a loss of: 0.000815837886184454
+
+
+Epoch: 785  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 785  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 785 with a loss of: 0.0023253452964127064
+
+
+Epoch: 786  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00975177304964539
+Epoch: 786  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 786 with a loss of: 0.0005585400946438312
+
+
+Epoch: 787  | Training Accuracy 0.015957446808510637  | Training MRR: 0.01750886524822695
+Epoch: 787  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 787 with a loss of: 0.0012401900440454482
+
+
+Epoch: 788  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007461583924349882
+Epoch: 788  | Validation Accuracy 0.0  | Validation MRR: 0.008508508508508508
+Epoch: 788 with a loss of: 0.0014927423745393752
+
+
+Epoch: 789  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 789  | Validation Accuracy 0.0  | Validation MRR: 0.005255255255255255
+Epoch: 789 with a loss of: 0.0015821058303117752
+
+
+Epoch: 790  | Training Accuracy 0.0  | Training MRR: 0.0023936170212765957
+Epoch: 790  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 790 with a loss of: 4.719518125057221e-05
+
+
+Epoch: 791  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009042553191489361
+Epoch: 791  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 791 with a loss of: 0.0015486409515142441
+
+
+Epoch: 792  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008791371158392436
+Epoch: 792  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 792 with a loss of: 0.0008564364165067673
+
+
+Epoch: 793  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 793  | Validation Accuracy 0.0  | Validation MRR: 0.008258258258258258
+Epoch: 793 with a loss of: 2.0591095089912415e-05
+
+
+Epoch: 794  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 794  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010135135135135136
+Epoch: 794 with a loss of: 8.917428553104401e-05
+
+
+Epoch: 795  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009929078014184398
+Epoch: 795  | Validation Accuracy 0.0  | Validation MRR: 0.002127127127127127
+Epoch: 795 with a loss of: 0.001254102853126824
+
+
+Epoch: 796  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 796  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 796 with a loss of: 0.001267789900302887
+
+
+Epoch: 797  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007313829787234043
+Epoch: 797  | Validation Accuracy 0.0  | Validation MRR: 0.005505505505505506
+Epoch: 797 with a loss of: 0.0008004011772572994
+
+
+Epoch: 798  | Training Accuracy 0.010638297872340425  | Training MRR: 0.015809692671394798
+Epoch: 798  | Validation Accuracy 0.0  | Validation MRR: 0.002574002574002574
+Epoch: 798 with a loss of: 0.0003550855070352554
+
+
+Epoch: 799  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 799  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 799 with a loss of: 0.0014285849034786225
+
+
+Epoch: 800  | Training Accuracy 0.0  | Training MRR: 0.001551418439716312
+Epoch: 800  | Validation Accuracy 0.0  | Validation MRR: 0.0032532532532532532
+Epoch: 800 with a loss of: 0.0012591616809368134
+
+
+Epoch: 801  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 801  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 801 with a loss of: 0.0023819721443578603
+
+
+Epoch: 802  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006670043904086457
+Epoch: 802  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 802 with a loss of: 0.0012032408788218163
+
+
+Epoch: 803  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009530141843971631
+Epoch: 803  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 803 with a loss of: 0.0013082479685544968
+
+
+Epoch: 804  | Training Accuracy 0.0  | Training MRR: 0.002792553191489362
+Epoch: 804  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 804 with a loss of: 0.0013133911788463593
+
+
+Epoch: 805  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011398176291793313
+Epoch: 805  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 805 with a loss of: 0.0006275165628176183
+
+
+Epoch: 806  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 806  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 806 with a loss of: 0.0009456303715705872
+
+
+Epoch: 807  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 807  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 807 with a loss of: 0.0012387808412313462
+
+
+Epoch: 808  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 808  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.012312312312312312
+Epoch: 808 with a loss of: 0.00046958163380622864
+
+
+Epoch: 809  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 809  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 809 with a loss of: 0.001715269438282121
+
+
+Epoch: 810  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009308510638297872
+Epoch: 810  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 810 with a loss of: 0.0013721104711294173
+
+
+Epoch: 811  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 811  | Validation Accuracy 0.0  | Validation MRR: 0.0078078078078078084
+Epoch: 811 with a loss of: 0.0009082432091236114
+
+
+Epoch: 812  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007712765957446808
+Epoch: 812  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 812 with a loss of: 1.498579978942871e-05
+
+
+Epoch: 813  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 813  | Validation Accuracy 0.0  | Validation MRR: 0.005791505791505791
+Epoch: 813 with a loss of: 0.001120840683579445
+
+
+Epoch: 814  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 814  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 814 with a loss of: 5.346071848180145e-05
+
+
+Epoch: 815  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 815  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 815 with a loss of: 0.002314616637304425
+
+
+Epoch: 816  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009359169199594732
+Epoch: 816  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 816 with a loss of: 0.00137367470189929
+
+
+Epoch: 817  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00783096926713948
+Epoch: 817  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 817 with a loss of: 2.422228455543518e-05
+
+
+Epoch: 818  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 818  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 818 with a loss of: 2.8205364942550658e-05
+
+
+Epoch: 819  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 819  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 819 with a loss of: 0.00032186789670959117
+
+
+Epoch: 820  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 820  | Validation Accuracy 0.0  | Validation MRR: 0.004375804375804376
+Epoch: 820 with a loss of: 0.0014870671182870864
+
+
+Epoch: 821  | Training Accuracy 0.0  | Training MRR: 0.00591016548463357
+Epoch: 821  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 821 with a loss of: 0.0023385681584477424
+
+
+Epoch: 822  | Training Accuracy 0.0  | Training MRR: 0.0
+Epoch: 822  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 822 with a loss of: 0.0014415521174669266
+
+
+Epoch: 823  | Training Accuracy 0.0  | Training MRR: 0.003989361702127659
+Epoch: 823  | Validation Accuracy 0.0  | Validation MRR: 0.006306306306306306
+Epoch: 823 with a loss of: 0.0011626826226711273
+
+
+Epoch: 824  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00812647754137116
+Epoch: 824  | Validation Accuracy 0.0  | Validation MRR: 0.006756756756756757
+Epoch: 824 with a loss of: 0.0015137599408626557
+
+
+Epoch: 825  | Training Accuracy 0.015957446808510637  | Training MRR: 0.015957446808510637
+Epoch: 825  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 825 with a loss of: 0.001394696719944477
+
+
+Epoch: 826  | Training Accuracy 0.0  | Training MRR: 0.004749240121580547
+Epoch: 826  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 826 with a loss of: 0.001342902034521103
+
+
+Epoch: 827  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 827  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 827 with a loss of: 0.0012293621199205517
+
+
+Epoch: 828  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 828  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 828 with a loss of: 0.0018837270210497082
+
+
+Epoch: 829  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 829  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01081081081081081
+Epoch: 829 with a loss of: 0.0010255131125450135
+
+
+Epoch: 830  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 830  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 830 with a loss of: 1.4613568782806397e-05
+
+
+Epoch: 831  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 831  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 831 with a loss of: 0.0005016127415001392
+
+
+Epoch: 832  | Training Accuracy 0.010638297872340425  | Training MRR: 0.01334853090172239
+Epoch: 832  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 832 with a loss of: 0.0008632566127926111
+
+
+Epoch: 833  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 833  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010510510510510511
+Epoch: 833 with a loss of: 5.463287234306335e-05
+
+
+Epoch: 834  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013297872340425532
+Epoch: 834  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 834 with a loss of: 0.0020620837807655335
+
+
+Epoch: 835  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011531155015197568
+Epoch: 835  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 835 with a loss of: 0.0001380116492509842
+
+
+Epoch: 836  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 836  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 836 with a loss of: 0.0014019931014627217
+
+
+Epoch: 837  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 837  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 837 with a loss of: 0.0012600257433950902
+
+
+Epoch: 838  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006965552178318136
+Epoch: 838  | Validation Accuracy 0.0  | Validation MRR: 0.004754754754754754
+Epoch: 838 with a loss of: 0.0009876904869452119
+
+
+Epoch: 839  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 839  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 839 with a loss of: 3.117591142654419e-05
+
+
+Epoch: 840  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 840  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 840 with a loss of: 0.001062306131934747
+
+
+Epoch: 841  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 841  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 841 with a loss of: 0.0014507634192705155
+
+
+Epoch: 842  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 842  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 842 with a loss of: 0.0012011536746285856
+
+
+Epoch: 843  | Training Accuracy 0.005319148936170213  | Training MRR: 0.013297872340425532
+Epoch: 843  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01539039039039039
+Epoch: 843 with a loss of: 0.001080863308161497
+
+
+Epoch: 844  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012949594731509624
+Epoch: 844  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 844 with a loss of: 1.643665134906769e-05
+
+
+Epoch: 845  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 845  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 845 with a loss of: 4.530064761638641e-05
+
+
+Epoch: 846  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009308510638297872
+Epoch: 846  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 846 with a loss of: 0.00034441788506228477
+
+
+Epoch: 847  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 847  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 847 with a loss of: 0.0009614644944667816
+
+
+Epoch: 848  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 848  | Validation Accuracy 0.0  | Validation MRR: 0.004054054054054054
+Epoch: 848 with a loss of: 0.0008234262466430664
+
+
+Epoch: 849  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009498480243161094
+Epoch: 849  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 849 with a loss of: 0.0007768501364625991
+
+
+Epoch: 850  | Training Accuracy 0.005319148936170213  | Training MRR: 0.013475177304964538
+Epoch: 850  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 850 with a loss of: 0.0015939396619796752
+
+
+Epoch: 851  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 851  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 851 with a loss of: 8.109547197818757e-05
+
+
+Epoch: 852  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 852  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 852 with a loss of: 1.8553435802459715e-05
+
+
+Epoch: 853  | Training Accuracy 0.005319148936170213  | Training MRR: 0.01152482269503546
+Epoch: 853  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 853 with a loss of: 2.2097229957580567e-05
+
+
+Epoch: 854  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 854  | Validation Accuracy 0.0  | Validation MRR: 0.0026276276276276274
+Epoch: 854 with a loss of: 1.622617244720459e-05
+
+
+Epoch: 855  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 855  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 855 with a loss of: 3.11502069234848e-05
+
+
+Epoch: 856  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006575059101654846
+Epoch: 856  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 856 with a loss of: 1.428157091140747e-05
+
+
+Epoch: 857  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013962765957446808
+Epoch: 857  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 857 with a loss of: 9.287521243095398e-06
+
+
+Epoch: 858  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011007683215130022
+Epoch: 858  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 858 with a loss of: 7.195472717285156e-06
+
+
+Epoch: 859  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 859  | Validation Accuracy 0.0  | Validation MRR: 0.0026276276276276274
+Epoch: 859 with a loss of: 0.0011509685963392259
+
+
+Epoch: 860  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 860  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 860 with a loss of: 0.0010499341692775488
+
+
+Epoch: 861  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007408814589665653
+Epoch: 861  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 861 with a loss of: 0.0007501214742660523
+
+
+Epoch: 862  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008569739952718676
+Epoch: 862  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 862 with a loss of: 0.0001668264903128147
+
+
+Epoch: 863  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 863  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 863 with a loss of: 0.0014818069338798524
+
+
+Epoch: 864  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0077338736913205
+Epoch: 864  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 864 with a loss of: 0.0016943974141031505
+
+
+Epoch: 865  | Training Accuracy 0.010638297872340425  | Training MRR: 0.014361702127659576
+Epoch: 865  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 865 with a loss of: 0.0011489157378673552
+
+
+Epoch: 866  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 866  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 866 with a loss of: 2.9975846409797668e-05
+
+
+Epoch: 867  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 867  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 867 with a loss of: 4.318922758102417e-05
+
+
+Epoch: 868  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009589243498817967
+Epoch: 868  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 868 with a loss of: 1.78644061088562e-05
+
+
+Epoch: 869  | Training Accuracy 0.010638297872340425  | Training MRR: 0.01778115501519757
+Epoch: 869  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 869 with a loss of: 4.846237599849701e-05
+
+
+Epoch: 870  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008865248226950355
+Epoch: 870  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 870 with a loss of: 3.777757287025452e-05
+
+
+Epoch: 871  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0067966903073286055
+Epoch: 871  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.013513513513513514
+Epoch: 871 with a loss of: 1.7733201384544374e-05
+
+
+Epoch: 872  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 872  | Validation Accuracy 0.0  | Validation MRR: 0.004129129129129129
+Epoch: 872 with a loss of: 0.0021516721695661544
+
+
+Epoch: 873  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 873  | Validation Accuracy 0.0  | Validation MRR: 0.007507507507507507
+Epoch: 873 with a loss of: 0.0008869029954075813
+
+
+Epoch: 874  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007092198581560284
+Epoch: 874  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 874 with a loss of: 0.0017535025626420975
+
+
+Epoch: 875  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013076241134751771
+Epoch: 875  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 875 with a loss of: 0.0015023581683635712
+
+
+Epoch: 876  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 876  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 876 with a loss of: 0.00020241931080818175
+
+
+Epoch: 877  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007334937521107734
+Epoch: 877  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 877 with a loss of: 0.0010853968420997263
+
+
+Epoch: 878  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008421985815602837
+Epoch: 878  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 878 with a loss of: 0.0002785808593034744
+
+
+Epoch: 879  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 879  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.0148005148005148
+Epoch: 879 with a loss of: 1.3331547379493713e-05
+
+
+Epoch: 880  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00790273556231003
+Epoch: 880  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 880 with a loss of: 2.7008056640625e-05
+
+
+Epoch: 881  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007461583924349882
+Epoch: 881  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 881 with a loss of: 1.048952341079712e-05
+
+
+Epoch: 882  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 882  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 882 with a loss of: 8.651360869407654e-05
+
+
+Epoch: 883  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007712765957446808
+Epoch: 883  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 883 with a loss of: 0.0014702406525611876
+
+
+Epoch: 884  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 884  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 884 with a loss of: 2.9468387365341185e-05
+
+
+Epoch: 885  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 885  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 885 with a loss of: 7.818400859832764e-05
+
+
+Epoch: 886  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008738601823708206
+Epoch: 886  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 886 with a loss of: 1.1767521500587464e-05
+
+
+Epoch: 887  | Training Accuracy 0.010638297872340425  | Training MRR: 0.015514184397163122
+Epoch: 887  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 887 with a loss of: 0.00150133416056633
+
+
+Epoch: 888  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007725430597771023
+Epoch: 888  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 888 with a loss of: 0.0012312877923250198
+
+
+Epoch: 889  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007683215130023641
+Epoch: 889  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 889 with a loss of: 3.411956131458282e-05
+
+
+Epoch: 890  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 890  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 890 with a loss of: 8.604526519775391e-06
+
+
+Epoch: 891  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 891  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 891 with a loss of: 3.228068351745606e-05
+
+
+Epoch: 892  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0067966903073286055
+Epoch: 892  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 892 with a loss of: 1.154974102973938e-05
+
+
+Epoch: 893  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0067966903073286055
+Epoch: 893  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 893 with a loss of: 1.6515925526618958e-05
+
+
+Epoch: 894  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 894  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 894 with a loss of: 6.467849016189575e-06
+
+
+Epoch: 895  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006838905775075987
+Epoch: 895  | Validation Accuracy 0.0  | Validation MRR: 0.00871943371943372
+Epoch: 895 with a loss of: 6.101801991462708e-06
+
+
+Epoch: 896  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 896  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 896 with a loss of: 1.1174306273460388e-05
+
+
+Epoch: 897  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013696808510638299
+Epoch: 897  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 897 with a loss of: 5.619078874588012e-06
+
+
+Epoch: 898  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 898  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 898 with a loss of: 7.62060284614563e-06
+
+
+Epoch: 899  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008865248226950355
+Epoch: 899  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 899 with a loss of: 7.648766040802001e-06
+
+
+Epoch: 900  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006870567375886525
+Epoch: 900  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 900 with a loss of: 0.0015720846131443977
+
+
+Epoch: 901  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013297872340425532
+Epoch: 901  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 901 with a loss of: 0.00010630600154399872
+
+
+Epoch: 902  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 902  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.011583011583011582
+Epoch: 902 with a loss of: 2.06785649061203e-05
+
+
+Epoch: 903  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013297872340425532
+Epoch: 903  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 903 with a loss of: 1.2643858790397644e-05
+
+
+Epoch: 904  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011229314420803783
+Epoch: 904  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 904 with a loss of: 9.249314665794372e-05
+
+
+Epoch: 905  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010416666666666666
+Epoch: 905  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 905 with a loss of: 8.250102400779724e-06
+
+
+Epoch: 906  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012189716312056736
+Epoch: 906  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010510510510510511
+Epoch: 906 with a loss of: 0.0029968604817986488
+
+
+Epoch: 907  | Training Accuracy 0.005319148936170213  | Training MRR: 0.012284701114488348
+Epoch: 907  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 907 with a loss of: 6.644390523433686e-05
+
+
+Epoch: 908  | Training Accuracy 0.0  | Training MRR: 0.0034194528875379935
+Epoch: 908  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 908 with a loss of: 8.980490267276764e-05
+
+
+Epoch: 909  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 909  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01142213642213642
+Epoch: 909 with a loss of: 0.0017797885090112687
+
+
+Epoch: 910  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 910  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 910 with a loss of: 0.001606054399162531
+
+
+Epoch: 911  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 911  | Validation Accuracy 0.0  | Validation MRR: 0.00563063063063063
+Epoch: 911 with a loss of: 0.0028845927212387324
+
+
+Epoch: 912  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008206686930091184
+Epoch: 912  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 912 with a loss of: 0.0011095988005399703
+
+
+Epoch: 913  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011398176291793313
+Epoch: 913  | Validation Accuracy 0.0  | Validation MRR: 0.007507507507507507
+Epoch: 913 with a loss of: 1.814842224121094e-05
+
+
+Epoch: 914  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 914  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 914 with a loss of: 2.7207061648368836e-05
+
+
+Epoch: 915  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007047872340425532
+Epoch: 915  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 915 with a loss of: 7.316544651985168e-06
+
+
+Epoch: 916  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 916  | Validation Accuracy 0.0  | Validation MRR: 0.006756756756756757
+Epoch: 916 with a loss of: 8.583441376686096e-06
+
+
+Epoch: 917  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 917  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 917 with a loss of: 1.1681020259857177e-05
+
+
+Epoch: 918  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 918  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01142213642213642
+Epoch: 918 with a loss of: 8.730813860893249e-06
+
+
+Epoch: 919  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011968085106382979
+Epoch: 919  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 919 with a loss of: 3.5935640335083007e-06
+
+
+Epoch: 920  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 920  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 920 with a loss of: 5.738437175750733e-06
+
+
+Epoch: 921  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007269503546099291
+Epoch: 921  | Validation Accuracy 0.018018018018018018  | Validation MRR: 0.023273273273273276
+Epoch: 921 with a loss of: 0.0009855877779773436
+
+
+Epoch: 922  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006575059101654846
+Epoch: 922  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 922 with a loss of: 0.0015384665876626968
+
+
+Epoch: 923  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 923  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 923 with a loss of: 0.0007982039637863636
+
+
+Epoch: 924  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 924  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 924 with a loss of: 0.0018096214067190885
+
+
+Epoch: 925  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 925  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 925 with a loss of: 0.0009396713972091675
+
+
+Epoch: 926  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 926  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 926 with a loss of: 8.32483172416687e-06
+
+
+Epoch: 927  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 927  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 927 with a loss of: 8.54920595884323e-05
+
+
+Epoch: 928  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 928  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.0148005148005148
+Epoch: 928 with a loss of: 9.584277868270875e-06
+
+
+Epoch: 929  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 929  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010135135135135136
+Epoch: 929 with a loss of: 5.918368697166443e-06
+
+
+Epoch: 930  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00975177304964539
+Epoch: 930  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 930 with a loss of: 4.684999585151672e-06
+
+
+Epoch: 931  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 931  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010135135135135136
+Epoch: 931 with a loss of: 7.3010474443435665e-06
+
+
+Epoch: 932  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 932  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 932 with a loss of: 7.542520761489868e-06
+
+
+Epoch: 933  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 933  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 933 with a loss of: 0.0012774850986897945
+
+
+Epoch: 934  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 934  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 934 with a loss of: 0.001230618581175804
+
+
+Epoch: 935  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006870567375886525
+Epoch: 935  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 935 with a loss of: 6.632804870605469e-06
+
+
+Epoch: 936  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 936  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.012012012012012012
+Epoch: 936 with a loss of: 0.00015363027341663837
+
+
+Epoch: 937  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010393448159405606
+Epoch: 937  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 937 with a loss of: 2.2925734519958496e-05
+
+
+Epoch: 938  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011229314420803783
+Epoch: 938  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 938 with a loss of: 5.390122532844544e-06
+
+
+Epoch: 939  | Training Accuracy 0.010638297872340425  | Training MRR: 0.015070921985815604
+Epoch: 939  | Validation Accuracy 0.0  | Validation MRR: 0.007507507507507507
+Epoch: 939 with a loss of: 7.157698273658753e-06
+
+
+Epoch: 940  | Training Accuracy 0.005319148936170213  | Training MRR: 0.012411347517730497
+Epoch: 940  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.019519519519519517
+Epoch: 940 with a loss of: 1.6647130250930787e-05
+
+
+Epoch: 941  | Training Accuracy 0.0  | Training MRR: 0.0020896656534954406
+Epoch: 941  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 941 with a loss of: 4.211589694023132e-06
+
+
+Epoch: 942  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 942  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 942 with a loss of: 0.00023782432079315187
+
+
+Epoch: 943  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010786052009456265
+Epoch: 943  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 943 with a loss of: 1.870103180408478e-05
+
+
+Epoch: 944  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007142857142857143
+Epoch: 944  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 944 with a loss of: 2.6379823684692382e-05
+
+
+Epoch: 945  | Training Accuracy 0.0  | Training MRR: 0.0007598784194528875
+Epoch: 945  | Validation Accuracy 0.0  | Validation MRR: 0.006006006006006006
+Epoch: 945 with a loss of: 1.0048672556877137e-05
+
+
+Epoch: 946  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 946  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 946 with a loss of: 1.560233533382416e-05
+
+
+Epoch: 947  | Training Accuracy 0.0  | Training MRR: 0.0070921985815602835
+Epoch: 947  | Validation Accuracy 0.0  | Validation MRR: 0.0033033033033033035
+Epoch: 947 with a loss of: 5.0067901611328125e-06
+
+
+Epoch: 948  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 948  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 948 with a loss of: 2.6229023933410646e-06
+
+
+Epoch: 949  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011968085106382979
+Epoch: 949  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 949 with a loss of: 0.00033508140593767165
+
+
+Epoch: 950  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 950  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 950 with a loss of: 1.5005767345428467e-05
+
+
+Epoch: 951  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 951  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 951 with a loss of: 6.6086649894714355e-06
+
+
+Epoch: 952  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 952  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 952 with a loss of: 0.0009418380551505834
+
+
+Epoch: 953  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009086879432624113
+Epoch: 953  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 953 with a loss of: 1.6158148646354676e-05
+
+
+Epoch: 954  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009802431610942249
+Epoch: 954  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 954 with a loss of: 2.1995306015014647e-05
+
+
+Epoch: 955  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00948581560283688
+Epoch: 955  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 955 with a loss of: 1.905098557472229e-05
+
+
+Epoch: 956  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007313829787234043
+Epoch: 956  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 956 with a loss of: 1.4794766902923584e-05
+
+
+Epoch: 957  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 957  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 957 with a loss of: 4.024729132652283e-06
+
+
+Epoch: 958  | Training Accuracy 0.0  | Training MRR: 0.0026595744680851063
+Epoch: 958  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 958 with a loss of: 0.0014113463182002307
+
+
+Epoch: 959  | Training Accuracy 0.005319148936170213  | Training MRR: 0.013392857142857142
+Epoch: 959  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 959 with a loss of: 1.56363844871521e-05
+
+
+Epoch: 960  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009042553191489361
+Epoch: 960  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 960 with a loss of: 7.4657797813415525e-06
+
+
+Epoch: 961  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008303782505910165
+Epoch: 961  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 961 with a loss of: 0.002006484605371952
+
+
+Epoch: 962  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 962  | Validation Accuracy 0.0  | Validation MRR: 0.0037001287001287
+Epoch: 962 with a loss of: 0.0017338945716619493
+
+
+Epoch: 963  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 963  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 963 with a loss of: 0.002335943952202797
+
+
+Epoch: 964  | Training Accuracy 0.005319148936170213  | Training MRR: 0.01228470111448835
+Epoch: 964  | Validation Accuracy 0.0  | Validation MRR: 0.00429000429000429
+Epoch: 964 with a loss of: 1.4575794339179992e-05
+
+
+Epoch: 965  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007852077001013171
+Epoch: 965  | Validation Accuracy 0.0  | Validation MRR: 0.0022880022880022877
+Epoch: 965 with a loss of: 1.0801330208778381e-05
+
+
+Epoch: 966  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008569739952718676
+Epoch: 966  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 966 with a loss of: 1.3103634119033814e-05
+
+
+Epoch: 967  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009042553191489361
+Epoch: 967  | Validation Accuracy 0.0  | Validation MRR: 0.009009009009009009
+Epoch: 967 with a loss of: 6.674826145172119e-06
+
+
+Epoch: 968  | Training Accuracy 0.010638297872340425  | Training MRR: 0.014994934143870315
+Epoch: 968  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 968 with a loss of: 7.791817188262939e-06
+
+
+Epoch: 969  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007142857142857143
+Epoch: 969  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 969 with a loss of: 0.002363220900297165
+
+
+Epoch: 970  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00775709219858156
+Epoch: 970  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 970 with a loss of: 0.0007676120102405548
+
+
+Epoch: 971  | Training Accuracy 0.0  | Training MRR: 0.0006648936170212766
+Epoch: 971  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 971 with a loss of: 0.001570335328578949
+
+
+Epoch: 972  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 972  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 972 with a loss of: 2.6297643780708314e-05
+
+
+Epoch: 973  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0067966903073286055
+Epoch: 973  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 973 with a loss of: 7.334202527999878e-06
+
+
+Epoch: 974  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 974  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 974 with a loss of: 7.850900292396546e-06
+
+
+Epoch: 975  | Training Accuracy 0.005319148936170213  | Training MRR: 0.01198919284025667
+Epoch: 975  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 975 with a loss of: 0.0014168509095907212
+
+
+Epoch: 976  | Training Accuracy 0.010638297872340425  | Training MRR: 0.015292553191489361
+Epoch: 976  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 976 with a loss of: 8.935295743867756e-05
+
+
+Epoch: 977  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 977  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 977 with a loss of: 0.0013407889753580093
+
+
+Epoch: 978  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010372340425531914
+Epoch: 978  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 978 with a loss of: 8.471682667732238e-06
+
+
+Epoch: 979  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009063660925363053
+Epoch: 979  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 979 with a loss of: 1.5077441930770875e-05
+
+
+Epoch: 980  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006965552178318136
+Epoch: 980  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 980 with a loss of: 5.903616547584534e-06
+
+
+Epoch: 981  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 981  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 981 with a loss of: 5.944296717643738e-06
+
+
+Epoch: 982  | Training Accuracy 0.0  | Training MRR: 0.0010638297872340426
+Epoch: 982  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 982 with a loss of: 9.609833359718322e-06
+
+
+Epoch: 983  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008472644376899695
+Epoch: 983  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 983 with a loss of: 0.0010400406643748283
+
+
+Epoch: 984  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008865248226950355
+Epoch: 984  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 984 with a loss of: 0.0004007037542760372
+
+
+Epoch: 985  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010954913880445795
+Epoch: 985  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 985 with a loss of: 0.001588817611336708
+
+
+Epoch: 986  | Training Accuracy 0.0  | Training MRR: 0.0
+Epoch: 986  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.017267267267267267
+Epoch: 986 with a loss of: 7.163435220718384e-06
+
+
+Epoch: 987  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 987  | Validation Accuracy 0.0  | Validation MRR: 0.005805805805805806
+Epoch: 987 with a loss of: 0.00019408613443374633
+
+
+Epoch: 988  | Training Accuracy 0.0  | Training MRR: 0.0006648936170212766
+Epoch: 988  | Validation Accuracy 0.0  | Validation MRR: 0.004804804804804805
+Epoch: 988 with a loss of: 4.8172473907470706e-05
+
+
+Epoch: 989  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 989  | Validation Accuracy 0.0  | Validation MRR: 0.007882882882882882
+Epoch: 989 with a loss of: 0.0007165129482746125
+
+
+Epoch: 990  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006838905775075987
+Epoch: 990  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 990 with a loss of: 8.160993456840514e-06
+
+
+Epoch: 991  | Training Accuracy 0.005319148936170213  | Training MRR: 0.014279381965552177
+Epoch: 991  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 991 with a loss of: 0.0010969627648591996
+
+
+Epoch: 992  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011968085106382979
+Epoch: 992  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 992 with a loss of: 8.5555762052536e-06
+
+
+Epoch: 993  | Training Accuracy 0.0  | Training MRR: 0.0050975177304964535
+Epoch: 993  | Validation Accuracy 0.0  | Validation MRR: 0.007757757757757758
+Epoch: 993 with a loss of: 1.1542364954948426e-05
+
+
+Epoch: 994  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0077338736913205
+Epoch: 994  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01126126126126126
+Epoch: 994 with a loss of: 0.0040857927687466145
+
+
+Epoch: 995  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008738601823708206
+Epoch: 995  | Validation Accuracy 0.0  | Validation MRR: 0.008294008294008294
+Epoch: 995 with a loss of: 0.00018830880522727967
+
+
+Epoch: 996  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006973995271867612
+Epoch: 996  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 996 with a loss of: 0.001516430377960205
+
+
+Epoch: 997  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 997  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 997 with a loss of: 1.0204166173934936e-05
+
+
+Epoch: 998  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009308510638297872
+Epoch: 998  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 998 with a loss of: 0.0015836121561005711
+
+
+Epoch: 999  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 999  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01126126126126126
+Epoch: 999 with a loss of: 7.025003433227539e-06
+
+
+Epoch: 1000  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011398176291793313
+Epoch: 1000  | Validation Accuracy 0.0  | Validation MRR: 0.006606606606606607
+Epoch: 1000 with a loss of: 1.3468191027641297e-05
+
+
+Epoch: 1001  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1001  | Validation Accuracy 0.0  | Validation MRR: 0.0022880022880022877
+Epoch: 1001 with a loss of: 7.794573903083802e-06
+
+
+Epoch: 1002  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 1002  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1002 with a loss of: 0.001936046602204442
+
+
+Epoch: 1003  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 1003  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1003 with a loss of: 1.4688000082969666e-05
+
+
+Epoch: 1004  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 1004  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 1004 with a loss of: 1.019410789012909e-05
+
+
+Epoch: 1005  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1005  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1005 with a loss of: 1.181580126285553e-05
+
+
+Epoch: 1006  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1006  | Validation Accuracy 0.0  | Validation MRR: 0.003088803088803089
+Epoch: 1006 with a loss of: 8.323416113853455e-06
+
+
+Epoch: 1007  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 1007  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1007 with a loss of: 6.331652402877808e-06
+
+
+Epoch: 1008  | Training Accuracy 0.005319148936170213  | Training MRR: 0.013392857142857142
+Epoch: 1008  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 1008 with a loss of: 5.0386786460876466e-05
+
+
+Epoch: 1009  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 1009  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 1009 with a loss of: 0.00016940541565418243
+
+
+Epoch: 1010  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1010  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1010 with a loss of: 1.9753798842430114e-05
+
+
+Epoch: 1011  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1011  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1011 with a loss of: 1.0824054479598999e-05
+
+
+Epoch: 1012  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011398176291793313
+Epoch: 1012  | Validation Accuracy 0.0  | Validation MRR: 0.003539253539253539
+Epoch: 1012 with a loss of: 0.0009712311252951622
+
+
+Epoch: 1013  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 1013  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1013 with a loss of: 0.0016247729212045669
+
+
+Epoch: 1014  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1014  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 1014 with a loss of: 8.243098855018615e-06
+
+
+Epoch: 1015  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 1015  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1015 with a loss of: 1.4865398406982422e-05
+
+
+Epoch: 1016  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009456264775413713
+Epoch: 1016  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1016 with a loss of: 6.185173988342285e-06
+
+
+Epoch: 1017  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1017  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 1017 with a loss of: 2.809390425682068e-06
+
+
+Epoch: 1018  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007408814589665653
+Epoch: 1018  | Validation Accuracy 0.0  | Validation MRR: 0.003088803088803089
+Epoch: 1018 with a loss of: 3.0319392681121826e-06
+
+
+Epoch: 1019  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1019  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1019 with a loss of: 0.00025114275515079497
+
+
+Epoch: 1020  | Training Accuracy 0.005319148936170213  | Training MRR: 0.012875717662951707
+Epoch: 1020  | Validation Accuracy 0.0  | Validation MRR: 0.00459030459030459
+Epoch: 1020 with a loss of: 0.001464284583926201
+
+
+Epoch: 1021  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1021  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1021 with a loss of: 1.5235096216201782e-05
+
+
+Epoch: 1022  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0076832151300236405
+Epoch: 1022  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1022 with a loss of: 9.319707751274108e-06
+
+
+Epoch: 1023  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009181864235055725
+Epoch: 1023  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 1023 with a loss of: 0.00013846703455783427
+
+
+Epoch: 1024  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012462006079027354
+Epoch: 1024  | Validation Accuracy 0.0  | Validation MRR: 0.007293007293007293
+Epoch: 1024 with a loss of: 8.834600448608398e-06
+
+
+Epoch: 1025  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1025  | Validation Accuracy 0.0  | Validation MRR: 0.004429429429429429
+Epoch: 1025 with a loss of: 8.695051074028015e-06
+
+
+Epoch: 1026  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006575059101654846
+Epoch: 1026  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 1026 with a loss of: 4.449188709259033e-06
+
+
+Epoch: 1027  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009042553191489361
+Epoch: 1027  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1027 with a loss of: 7.588565349578857e-06
+
+
+Epoch: 1028  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011081560283687944
+Epoch: 1028  | Validation Accuracy 0.0  | Validation MRR: 0.003539253539253539
+Epoch: 1028 with a loss of: 5.018264055252075e-06
+
+
+Epoch: 1029  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 1029  | Validation Accuracy 0.0  | Validation MRR: 0.009009009009009009
+Epoch: 1029 with a loss of: 5.2506476640701295e-06
+
+
+Epoch: 1030  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1030  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1030 with a loss of: 3.202706575393677e-06
+
+
+Epoch: 1031  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009359169199594732
+Epoch: 1031  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1031 with a loss of: 6.217658519744873e-06
+
+
+Epoch: 1032  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010342789598108746
+Epoch: 1032  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1032 with a loss of: 2.694427967071533e-06
+
+
+Epoch: 1033  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008924349881796691
+Epoch: 1033  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010510510510510511
+Epoch: 1033 with a loss of: 3.0697137117385864e-06
+
+
+Epoch: 1034  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1034  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1034 with a loss of: 2.0360946655273435e-06
+
+
+Epoch: 1035  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1035  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1035 with a loss of: 7.891207933425904e-06
+
+
+Epoch: 1036  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008111702127659574
+Epoch: 1036  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1036 with a loss of: 0.0007426666468381882
+
+
+Epoch: 1037  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 1037  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1037 with a loss of: 0.000941232293844223
+
+
+Epoch: 1038  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 1038  | Validation Accuracy 0.0  | Validation MRR: 0.006006006006006006
+Epoch: 1038 with a loss of: 0.0003044493496417999
+
+
+Epoch: 1039  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1039  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1039 with a loss of: 0.001674761362373829
+
+
+Epoch: 1040  | Training Accuracy 0.0  | Training MRR: 0.005213610266801756
+Epoch: 1040  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1040 with a loss of: 1.0806843638420105e-05
+
+
+Epoch: 1041  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1041  | Validation Accuracy 0.0  | Validation MRR: 0.008433433433433434
+Epoch: 1041 with a loss of: 0.0010780897177755833
+
+
+Epoch: 1042  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1042  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1042 with a loss of: 4.257239401340485e-05
+
+
+Epoch: 1043  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011303191489361703
+Epoch: 1043  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1043 with a loss of: 0.0009346870891749859
+
+
+Epoch: 1044  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007446808510638297
+Epoch: 1044  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1044 with a loss of: 1.913987100124359e-05
+
+
+Epoch: 1045  | Training Accuracy 0.005319148936170213  | Training MRR: 0.01006838905775076
+Epoch: 1045  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1045 with a loss of: 1.4076083898544311e-05
+
+
+Epoch: 1046  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0076832151300236405
+Epoch: 1046  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1046 with a loss of: 1.4700815081596374e-05
+
+
+Epoch: 1047  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1047  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1047 with a loss of: 1.4008134603500367e-05
+
+
+Epoch: 1048  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1048  | Validation Accuracy 0.0  | Validation MRR: 0.00563063063063063
+Epoch: 1048 with a loss of: 9.891167283058166e-06
+
+
+Epoch: 1049  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008569739952718676
+Epoch: 1049  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1049 with a loss of: 6.019249558448791e-06
+
+
+Epoch: 1050  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007408814589665653
+Epoch: 1050  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.014514514514514515
+Epoch: 1050 with a loss of: 1.2967437505722046e-05
+
+
+Epoch: 1051  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 1051  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1051 with a loss of: 6.823316216468811e-06
+
+
+Epoch: 1052  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 1052  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1052 with a loss of: 3.291592001914978e-06
+
+
+Epoch: 1053  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006838905775075987
+Epoch: 1053  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1053 with a loss of: 0.001518353521823883
+
+
+Epoch: 1054  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 1054  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1054 with a loss of: 0.00012532904744148255
+
+
+Epoch: 1055  | Training Accuracy 0.0  | Training MRR: 0.0008865248226950354
+Epoch: 1055  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1055 with a loss of: 5.4164156317710876e-05
+
+
+Epoch: 1056  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 1056  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 1056 with a loss of: 0.0018338926136493682
+
+
+Epoch: 1057  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 1057  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.013013013013013013
+Epoch: 1057 with a loss of: 9.474232792854308e-06
+
+
+Epoch: 1058  | Training Accuracy 0.0  | Training MRR: 0.0032505910165484637
+Epoch: 1058  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1058 with a loss of: 3.445148468017578e-06
+
+
+Epoch: 1059  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 1059  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1059 with a loss of: 3.4877657890319825e-06
+
+
+Epoch: 1060  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006575059101654846
+Epoch: 1060  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1060 with a loss of: 7.537528872489929e-06
+
+
+Epoch: 1061  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1061  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1061 with a loss of: 2.8580427169799806e-06
+
+
+Epoch: 1062  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1062  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1062 with a loss of: 1.8379539251327516e-05
+
+
+Epoch: 1063  | Training Accuracy 0.0  | Training MRR: 0.003989361702127659
+Epoch: 1063  | Validation Accuracy 0.0  | Validation MRR: 0.0022880022880022877
+Epoch: 1063 with a loss of: 4.5666098594665524e-06
+
+
+
+
+
+Loading model...
+Model loaded successfully
+Epoch: 754  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 754  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 754 with a loss of: 0.0012793606519699097
+
+
+Epoch: 755  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008915906788247214
+Epoch: 755  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 755 with a loss of: 0.001204579584300518
+
+
+Epoch: 756  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 756  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 756 with a loss of: 0.0009376672987127676
+
+
+Epoch: 757  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012284701114488348
+Epoch: 757  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 757 with a loss of: 0.0012115601729601622
+
+
+Epoch: 758  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009530141843971631
+Epoch: 758  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 758 with a loss of: 0.0004210567008703947
+
+
+Epoch: 759  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 759  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 759 with a loss of: 0.0005628615617752075
+
+
+Epoch: 760  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 760  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 760 with a loss of: 0.0014998843520879746
+
+
+Epoch: 761  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 761  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 761 with a loss of: 0.0014206084609031677
+
+
+Epoch: 762  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008865248226950355
+Epoch: 762  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 762 with a loss of: 0.0013021866977214814
+
+
+Epoch: 763  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008738601823708206
+Epoch: 763  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 763 with a loss of: 0.0012896835908759385
+
+
+Epoch: 764  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 764  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 764 with a loss of: 0.0012127946596592666
+
+
+Epoch: 765  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007712765957446808
+Epoch: 765  | Validation Accuracy 0.0  | Validation MRR: 0.0026276276276276274
+Epoch: 765 with a loss of: 0.0013675154326483606
+
+
+Epoch: 766  | Training Accuracy 0.010638297872340425  | Training MRR: 0.01170212765957447
+Epoch: 766  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 766 with a loss of: 5.1279067993164065e-05
+
+
+Epoch: 767  | Training Accuracy 0.0  | Training MRR: 0.003324468085106383
+Epoch: 767  | Validation Accuracy 0.0  | Validation MRR: 0.004804804804804805
+Epoch: 767 with a loss of: 0.0013899721670895815
+
+
+Epoch: 768  | Training Accuracy 0.0  | Training MRR: 0.0017730496453900709
+Epoch: 768  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 768 with a loss of: 0.0018356732185930015
+
+
+Epoch: 769  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 769  | Validation Accuracy 0.0  | Validation MRR: 0.002927927927927928
+Epoch: 769 with a loss of: 0.0007309707254171371
+
+
+Epoch: 770  | Training Accuracy 0.0  | Training MRR: 0.0070921985815602835
+Epoch: 770  | Validation Accuracy 0.0  | Validation MRR: 0.007507507507507507
+Epoch: 770 with a loss of: 0.0012838950101286173
+
+
+Epoch: 771  | Training Accuracy 0.0  | Training MRR: 0.0017730496453900709
+Epoch: 771  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 771 with a loss of: 0.001334582194685936
+
+
+Epoch: 772  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013297872340425532
+Epoch: 772  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 772 with a loss of: 3.555484116077423e-05
+
+
+Epoch: 773  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 773  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 773 with a loss of: 0.0012870404496788978
+
+
+Epoch: 774  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00783096926713948
+Epoch: 774  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 774 with a loss of: 0.0014383479300886393
+
+
+Epoch: 775  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 775  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 775 with a loss of: 0.001395130455493927
+
+
+Epoch: 776  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012462006079027354
+Epoch: 776  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 776 with a loss of: 0.0021912201901432126
+
+
+Epoch: 777  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 777  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 777 with a loss of: 0.0015913712419569493
+
+
+Epoch: 778  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 778  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 778 with a loss of: 0.0014489264786243438
+
+
+Epoch: 779  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 779  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 779 with a loss of: 0.0016004667710512877
+
+
+Epoch: 780  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 780  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 780 with a loss of: 0.001487853080034256
+
+
+Epoch: 781  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 781  | Validation Accuracy 0.0  | Validation MRR: 0.00563063063063063
+Epoch: 781 with a loss of: 0.0012270297145005316
+
+
+Epoch: 782  | Training Accuracy 0.010638297872340425  | Training MRR: 0.01211583924349882
+Epoch: 782  | Validation Accuracy 0.0  | Validation MRR: 0.002927927927927928
+Epoch: 782 with a loss of: 0.0008843570295721293
+
+
+Epoch: 783  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 783  | Validation Accuracy 0.0  | Validation MRR: 0.012012012012012012
+Epoch: 783 with a loss of: 0.0016295082494616508
+
+
+Epoch: 784  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 784  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 784 with a loss of: 0.000815837886184454
+
+
+Epoch: 785  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 785  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 785 with a loss of: 0.0023253452964127064
+
+
+Epoch: 786  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00975177304964539
+Epoch: 786  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 786 with a loss of: 0.0005585400946438312
+
+
+Epoch: 787  | Training Accuracy 0.015957446808510637  | Training MRR: 0.01750886524822695
+Epoch: 787  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 787 with a loss of: 0.0012401900440454482
+
+
+Epoch: 788  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007461583924349882
+Epoch: 788  | Validation Accuracy 0.0  | Validation MRR: 0.008508508508508508
+Epoch: 788 with a loss of: 0.0014927423745393752
+
+
+Epoch: 789  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 789  | Validation Accuracy 0.0  | Validation MRR: 0.005255255255255255
+Epoch: 789 with a loss of: 0.0015821058303117752
+
+
+Epoch: 790  | Training Accuracy 0.0  | Training MRR: 0.0023936170212765957
+Epoch: 790  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 790 with a loss of: 4.719518125057221e-05
+
+
+Epoch: 791  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009042553191489361
+Epoch: 791  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 791 with a loss of: 0.0015486409515142441
+
+
+Epoch: 792  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008791371158392436
+Epoch: 792  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 792 with a loss of: 0.0008564364165067673
+
+
+Epoch: 793  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 793  | Validation Accuracy 0.0  | Validation MRR: 0.008258258258258258
+Epoch: 793 with a loss of: 2.0591095089912415e-05
+
+
+Epoch: 794  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 794  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010135135135135136
+Epoch: 794 with a loss of: 8.917428553104401e-05
+
+
+Epoch: 795  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009929078014184398
+Epoch: 795  | Validation Accuracy 0.0  | Validation MRR: 0.002127127127127127
+Epoch: 795 with a loss of: 0.001254102853126824
+
+
+Epoch: 796  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 796  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 796 with a loss of: 0.001267789900302887
+
+
+Epoch: 797  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007313829787234043
+Epoch: 797  | Validation Accuracy 0.0  | Validation MRR: 0.005505505505505506
+Epoch: 797 with a loss of: 0.0008004011772572994
+
+
+Epoch: 798  | Training Accuracy 0.010638297872340425  | Training MRR: 0.015809692671394798
+Epoch: 798  | Validation Accuracy 0.0  | Validation MRR: 0.002574002574002574
+Epoch: 798 with a loss of: 0.0003550855070352554
+
+
+Epoch: 799  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 799  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 799 with a loss of: 0.0014285849034786225
+
+
+Epoch: 800  | Training Accuracy 0.0  | Training MRR: 0.001551418439716312
+Epoch: 800  | Validation Accuracy 0.0  | Validation MRR: 0.0032532532532532532
+Epoch: 800 with a loss of: 0.0012591616809368134
+
+
+Epoch: 801  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 801  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 801 with a loss of: 0.0023819721443578603
+
+
+Epoch: 802  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006670043904086457
+Epoch: 802  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 802 with a loss of: 0.0012032408788218163
+
+
+Epoch: 803  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009530141843971631
+Epoch: 803  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 803 with a loss of: 0.0013082479685544968
+
+
+Epoch: 804  | Training Accuracy 0.0  | Training MRR: 0.002792553191489362
+Epoch: 804  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 804 with a loss of: 0.0013133911788463593
+
+
+Epoch: 805  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011398176291793313
+Epoch: 805  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 805 with a loss of: 0.0006275165628176183
+
+
+Epoch: 806  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 806  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 806 with a loss of: 0.0009456303715705872
+
+
+Epoch: 807  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 807  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 807 with a loss of: 0.0012387808412313462
+
+
+Epoch: 808  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 808  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.012312312312312312
+Epoch: 808 with a loss of: 0.00046958163380622864
+
+
+Epoch: 809  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 809  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 809 with a loss of: 0.001715269438282121
+
+
+Epoch: 810  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009308510638297872
+Epoch: 810  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 810 with a loss of: 0.0013721104711294173
+
+
+Epoch: 811  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 811  | Validation Accuracy 0.0  | Validation MRR: 0.0078078078078078084
+Epoch: 811 with a loss of: 0.0009082432091236114
+
+
+Epoch: 812  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007712765957446808
+Epoch: 812  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 812 with a loss of: 1.498579978942871e-05
+
+
+Epoch: 813  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 813  | Validation Accuracy 0.0  | Validation MRR: 0.005791505791505791
+Epoch: 813 with a loss of: 0.001120840683579445
+
+
+Epoch: 814  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 814  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 814 with a loss of: 5.346071848180145e-05
+
+
+Epoch: 815  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 815  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 815 with a loss of: 0.002314616637304425
+
+
+Epoch: 816  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009359169199594732
+Epoch: 816  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 816 with a loss of: 0.00137367470189929
+
+
+Epoch: 817  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00783096926713948
+Epoch: 817  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 817 with a loss of: 2.422228455543518e-05
+
+
+Epoch: 818  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 818  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 818 with a loss of: 2.8205364942550658e-05
+
+
+Epoch: 819  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 819  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 819 with a loss of: 0.00032186789670959117
+
+
+Epoch: 820  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 820  | Validation Accuracy 0.0  | Validation MRR: 0.004375804375804376
+Epoch: 820 with a loss of: 0.0014870671182870864
+
+
+Epoch: 821  | Training Accuracy 0.0  | Training MRR: 0.00591016548463357
+Epoch: 821  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 821 with a loss of: 0.0023385681584477424
+
+
+Epoch: 822  | Training Accuracy 0.0  | Training MRR: 0.0
+Epoch: 822  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 822 with a loss of: 0.0014415521174669266
+
+
+Epoch: 823  | Training Accuracy 0.0  | Training MRR: 0.003989361702127659
+Epoch: 823  | Validation Accuracy 0.0  | Validation MRR: 0.006306306306306306
+Epoch: 823 with a loss of: 0.0011626826226711273
+
+
+Epoch: 824  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00812647754137116
+Epoch: 824  | Validation Accuracy 0.0  | Validation MRR: 0.006756756756756757
+Epoch: 824 with a loss of: 0.0015137599408626557
+
+
+Epoch: 825  | Training Accuracy 0.015957446808510637  | Training MRR: 0.015957446808510637
+Epoch: 825  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 825 with a loss of: 0.001394696719944477
+
+
+Epoch: 826  | Training Accuracy 0.0  | Training MRR: 0.004749240121580547
+Epoch: 826  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 826 with a loss of: 0.001342902034521103
+
+
+Epoch: 827  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 827  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 827 with a loss of: 0.0012293621199205517
+
+
+Epoch: 828  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 828  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 828 with a loss of: 0.0018837270210497082
+
+
+Epoch: 829  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 829  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01081081081081081
+Epoch: 829 with a loss of: 0.0010255131125450135
+
+
+Epoch: 830  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 830  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 830 with a loss of: 1.4613568782806397e-05
+
+
+Epoch: 831  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 831  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 831 with a loss of: 0.0005016127415001392
+
+
+Epoch: 832  | Training Accuracy 0.010638297872340425  | Training MRR: 0.01334853090172239
+Epoch: 832  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 832 with a loss of: 0.0008632566127926111
+
+
+Epoch: 833  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 833  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010510510510510511
+Epoch: 833 with a loss of: 5.463287234306335e-05
+
+
+Epoch: 834  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013297872340425532
+Epoch: 834  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 834 with a loss of: 0.0020620837807655335
+
+
+Epoch: 835  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011531155015197568
+Epoch: 835  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 835 with a loss of: 0.0001380116492509842
+
+
+Epoch: 836  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 836  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 836 with a loss of: 0.0014019931014627217
+
+
+Epoch: 837  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 837  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 837 with a loss of: 0.0012600257433950902
+
+
+Epoch: 838  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006965552178318136
+Epoch: 838  | Validation Accuracy 0.0  | Validation MRR: 0.004754754754754754
+Epoch: 838 with a loss of: 0.0009876904869452119
+
+
+Epoch: 839  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 839  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 839 with a loss of: 3.117591142654419e-05
+
+
+Epoch: 840  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 840  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 840 with a loss of: 0.001062306131934747
+
+
+Epoch: 841  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 841  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 841 with a loss of: 0.0014507634192705155
+
+
+Epoch: 842  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 842  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 842 with a loss of: 0.0012011536746285856
+
+
+Epoch: 843  | Training Accuracy 0.005319148936170213  | Training MRR: 0.013297872340425532
+Epoch: 843  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01539039039039039
+Epoch: 843 with a loss of: 0.001080863308161497
+
+
+Epoch: 844  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012949594731509624
+Epoch: 844  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 844 with a loss of: 1.643665134906769e-05
+
+
+Epoch: 845  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 845  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 845 with a loss of: 4.530064761638641e-05
+
+
+Epoch: 846  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009308510638297872
+Epoch: 846  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 846 with a loss of: 0.00034441788506228477
+
+
+Epoch: 847  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 847  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 847 with a loss of: 0.0009614644944667816
+
+
+Epoch: 848  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 848  | Validation Accuracy 0.0  | Validation MRR: 0.004054054054054054
+Epoch: 848 with a loss of: 0.0008234262466430664
+
+
+Epoch: 849  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009498480243161094
+Epoch: 849  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 849 with a loss of: 0.0007768501364625991
+
+
+Epoch: 850  | Training Accuracy 0.005319148936170213  | Training MRR: 0.013475177304964538
+Epoch: 850  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 850 with a loss of: 0.0015939396619796752
+
+
+Epoch: 851  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 851  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 851 with a loss of: 8.109547197818757e-05
+
+
+Epoch: 852  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 852  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 852 with a loss of: 1.8553435802459715e-05
+
+
+Epoch: 853  | Training Accuracy 0.005319148936170213  | Training MRR: 0.01152482269503546
+Epoch: 853  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 853 with a loss of: 2.2097229957580567e-05
+
+
+Epoch: 854  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 854  | Validation Accuracy 0.0  | Validation MRR: 0.0026276276276276274
+Epoch: 854 with a loss of: 1.622617244720459e-05
+
+
+Epoch: 855  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 855  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 855 with a loss of: 3.11502069234848e-05
+
+
+Epoch: 856  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006575059101654846
+Epoch: 856  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 856 with a loss of: 1.428157091140747e-05
+
+
+Epoch: 857  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013962765957446808
+Epoch: 857  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 857 with a loss of: 9.287521243095398e-06
+
+
+Epoch: 858  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011007683215130022
+Epoch: 858  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 858 with a loss of: 7.195472717285156e-06
+
+
+Epoch: 859  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 859  | Validation Accuracy 0.0  | Validation MRR: 0.0026276276276276274
+Epoch: 859 with a loss of: 0.0011509685963392259
+
+
+Epoch: 860  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 860  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 860 with a loss of: 0.0010499341692775488
+
+
+Epoch: 861  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007408814589665653
+Epoch: 861  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 861 with a loss of: 0.0007501214742660523
+
+
+Epoch: 862  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008569739952718676
+Epoch: 862  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 862 with a loss of: 0.0001668264903128147
+
+
+Epoch: 863  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 863  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 863 with a loss of: 0.0014818069338798524
+
+
+Epoch: 864  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0077338736913205
+Epoch: 864  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 864 with a loss of: 0.0016943974141031505
+
+
+Epoch: 865  | Training Accuracy 0.010638297872340425  | Training MRR: 0.014361702127659576
+Epoch: 865  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 865 with a loss of: 0.0011489157378673552
+
+
+Epoch: 866  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 866  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 866 with a loss of: 2.9975846409797668e-05
+
+
+Epoch: 867  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 867  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 867 with a loss of: 4.318922758102417e-05
+
+
+Epoch: 868  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009589243498817967
+Epoch: 868  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 868 with a loss of: 1.78644061088562e-05
+
+
+Epoch: 869  | Training Accuracy 0.010638297872340425  | Training MRR: 0.01778115501519757
+Epoch: 869  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 869 with a loss of: 4.846237599849701e-05
+
+
+Epoch: 870  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008865248226950355
+Epoch: 870  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 870 with a loss of: 3.777757287025452e-05
+
+
+Epoch: 871  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0067966903073286055
+Epoch: 871  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.013513513513513514
+Epoch: 871 with a loss of: 1.7733201384544374e-05
+
+
+Epoch: 872  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 872  | Validation Accuracy 0.0  | Validation MRR: 0.004129129129129129
+Epoch: 872 with a loss of: 0.0021516721695661544
+
+
+Epoch: 873  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 873  | Validation Accuracy 0.0  | Validation MRR: 0.007507507507507507
+Epoch: 873 with a loss of: 0.0008869029954075813
+
+
+Epoch: 874  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007092198581560284
+Epoch: 874  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 874 with a loss of: 0.0017535025626420975
+
+
+Epoch: 875  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013076241134751771
+Epoch: 875  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 875 with a loss of: 0.0015023581683635712
+
+
+Epoch: 876  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 876  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 876 with a loss of: 0.00020241931080818175
+
+
+Epoch: 877  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007334937521107734
+Epoch: 877  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 877 with a loss of: 0.0010853968420997263
+
+
+Epoch: 878  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008421985815602837
+Epoch: 878  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 878 with a loss of: 0.0002785808593034744
+
+
+Epoch: 879  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 879  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.0148005148005148
+Epoch: 879 with a loss of: 1.3331547379493713e-05
+
+
+Epoch: 880  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00790273556231003
+Epoch: 880  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 880 with a loss of: 2.7008056640625e-05
+
+
+Epoch: 881  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007461583924349882
+Epoch: 881  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 881 with a loss of: 1.048952341079712e-05
+
+
+Epoch: 882  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 882  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 882 with a loss of: 8.651360869407654e-05
+
+
+Epoch: 883  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007712765957446808
+Epoch: 883  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 883 with a loss of: 0.0014702406525611876
+
+
+Epoch: 884  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 884  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 884 with a loss of: 2.9468387365341185e-05
+
+
+Epoch: 885  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 885  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 885 with a loss of: 7.818400859832764e-05
+
+
+Epoch: 886  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008738601823708206
+Epoch: 886  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 886 with a loss of: 1.1767521500587464e-05
+
+
+Epoch: 887  | Training Accuracy 0.010638297872340425  | Training MRR: 0.015514184397163122
+Epoch: 887  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 887 with a loss of: 0.00150133416056633
+
+
+Epoch: 888  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007725430597771023
+Epoch: 888  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 888 with a loss of: 0.0012312877923250198
+
+
+Epoch: 889  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007683215130023641
+Epoch: 889  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 889 with a loss of: 3.411956131458282e-05
+
+
+Epoch: 890  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 890  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 890 with a loss of: 8.604526519775391e-06
+
+
+Epoch: 891  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 891  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 891 with a loss of: 3.228068351745606e-05
+
+
+Epoch: 892  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0067966903073286055
+Epoch: 892  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 892 with a loss of: 1.154974102973938e-05
+
+
+Epoch: 893  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0067966903073286055
+Epoch: 893  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 893 with a loss of: 1.6515925526618958e-05
+
+
+Epoch: 894  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 894  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 894 with a loss of: 6.467849016189575e-06
+
+
+Epoch: 895  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006838905775075987
+Epoch: 895  | Validation Accuracy 0.0  | Validation MRR: 0.00871943371943372
+Epoch: 895 with a loss of: 6.101801991462708e-06
+
+
+Epoch: 896  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 896  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 896 with a loss of: 1.1174306273460388e-05
+
+
+Epoch: 897  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013696808510638299
+Epoch: 897  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 897 with a loss of: 5.619078874588012e-06
+
+
+Epoch: 898  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 898  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 898 with a loss of: 7.62060284614563e-06
+
+
+Epoch: 899  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008865248226950355
+Epoch: 899  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 899 with a loss of: 7.648766040802001e-06
+
+
+Epoch: 900  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006870567375886525
+Epoch: 900  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 900 with a loss of: 0.0015720846131443977
+
+
+Epoch: 901  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013297872340425532
+Epoch: 901  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 901 with a loss of: 0.00010630600154399872
+
+
+Epoch: 902  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 902  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.011583011583011582
+Epoch: 902 with a loss of: 2.06785649061203e-05
+
+
+Epoch: 903  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013297872340425532
+Epoch: 903  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 903 with a loss of: 1.2643858790397644e-05
+
+
+Epoch: 904  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011229314420803783
+Epoch: 904  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 904 with a loss of: 9.249314665794372e-05
+
+
+Epoch: 905  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010416666666666666
+Epoch: 905  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 905 with a loss of: 8.250102400779724e-06
+
+
+Epoch: 906  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012189716312056736
+Epoch: 906  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010510510510510511
+Epoch: 906 with a loss of: 0.0029968604817986488
+
+
+Epoch: 907  | Training Accuracy 0.005319148936170213  | Training MRR: 0.012284701114488348
+Epoch: 907  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 907 with a loss of: 6.644390523433686e-05
+
+
+Epoch: 908  | Training Accuracy 0.0  | Training MRR: 0.0034194528875379935
+Epoch: 908  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 908 with a loss of: 8.980490267276764e-05
+
+
+Epoch: 909  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 909  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01142213642213642
+Epoch: 909 with a loss of: 0.0017797885090112687
+
+
+Epoch: 910  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 910  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 910 with a loss of: 0.001606054399162531
+
+
+Epoch: 911  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 911  | Validation Accuracy 0.0  | Validation MRR: 0.00563063063063063
+Epoch: 911 with a loss of: 0.0028845927212387324
+
+
+Epoch: 912  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008206686930091184
+Epoch: 912  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 912 with a loss of: 0.0011095988005399703
+
+
+Epoch: 913  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011398176291793313
+Epoch: 913  | Validation Accuracy 0.0  | Validation MRR: 0.007507507507507507
+Epoch: 913 with a loss of: 1.814842224121094e-05
+
+
+Epoch: 914  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 914  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 914 with a loss of: 2.7207061648368836e-05
+
+
+Epoch: 915  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007047872340425532
+Epoch: 915  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 915 with a loss of: 7.316544651985168e-06
+
+
+Epoch: 916  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 916  | Validation Accuracy 0.0  | Validation MRR: 0.006756756756756757
+Epoch: 916 with a loss of: 8.583441376686096e-06
+
+
+Epoch: 917  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 917  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 917 with a loss of: 1.1681020259857177e-05
+
+
+Epoch: 918  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 918  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01142213642213642
+Epoch: 918 with a loss of: 8.730813860893249e-06
+
+
+Epoch: 919  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011968085106382979
+Epoch: 919  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 919 with a loss of: 3.5935640335083007e-06
+
+
+Epoch: 920  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 920  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 920 with a loss of: 5.738437175750733e-06
+
+
+Epoch: 921  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007269503546099291
+Epoch: 921  | Validation Accuracy 0.018018018018018018  | Validation MRR: 0.023273273273273276
+Epoch: 921 with a loss of: 0.0009855877779773436
+
+
+Epoch: 922  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006575059101654846
+Epoch: 922  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 922 with a loss of: 0.0015384665876626968
+
+
+Epoch: 923  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 923  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 923 with a loss of: 0.0007982039637863636
+
+
+Epoch: 924  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 924  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 924 with a loss of: 0.0018096214067190885
+
+
+Epoch: 925  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 925  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 925 with a loss of: 0.0009396713972091675
+
+
+Epoch: 926  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 926  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 926 with a loss of: 8.32483172416687e-06
+
+
+Epoch: 927  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 927  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 927 with a loss of: 8.54920595884323e-05
+
+
+Epoch: 928  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 928  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.0148005148005148
+Epoch: 928 with a loss of: 9.584277868270875e-06
+
+
+Epoch: 929  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 929  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010135135135135136
+Epoch: 929 with a loss of: 5.918368697166443e-06
+
+
+Epoch: 930  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00975177304964539
+Epoch: 930  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 930 with a loss of: 4.684999585151672e-06
+
+
+Epoch: 931  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 931  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010135135135135136
+Epoch: 931 with a loss of: 7.3010474443435665e-06
+
+
+Epoch: 932  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 932  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 932 with a loss of: 7.542520761489868e-06
+
+
+Epoch: 933  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 933  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 933 with a loss of: 0.0012774850986897945
+
+
+Epoch: 934  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 934  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 934 with a loss of: 0.001230618581175804
+
+
+Epoch: 935  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006870567375886525
+Epoch: 935  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 935 with a loss of: 6.632804870605469e-06
+
+
+Epoch: 936  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 936  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.012012012012012012
+Epoch: 936 with a loss of: 0.00015363027341663837
+
+
+Epoch: 937  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010393448159405606
+Epoch: 937  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 937 with a loss of: 2.2925734519958496e-05
+
+
+Epoch: 938  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011229314420803783
+Epoch: 938  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 938 with a loss of: 5.390122532844544e-06
+
+
+Epoch: 939  | Training Accuracy 0.010638297872340425  | Training MRR: 0.015070921985815604
+Epoch: 939  | Validation Accuracy 0.0  | Validation MRR: 0.007507507507507507
+Epoch: 939 with a loss of: 7.157698273658753e-06
+
+
+Epoch: 940  | Training Accuracy 0.005319148936170213  | Training MRR: 0.012411347517730497
+Epoch: 940  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.019519519519519517
+Epoch: 940 with a loss of: 1.6647130250930787e-05
+
+
+Epoch: 941  | Training Accuracy 0.0  | Training MRR: 0.0020896656534954406
+Epoch: 941  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 941 with a loss of: 4.211589694023132e-06
+
+
+Epoch: 942  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 942  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 942 with a loss of: 0.00023782432079315187
+
+
+Epoch: 943  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010786052009456265
+Epoch: 943  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 943 with a loss of: 1.870103180408478e-05
+
+
+Epoch: 944  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007142857142857143
+Epoch: 944  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 944 with a loss of: 2.6379823684692382e-05
+
+
+Epoch: 945  | Training Accuracy 0.0  | Training MRR: 0.0007598784194528875
+Epoch: 945  | Validation Accuracy 0.0  | Validation MRR: 0.006006006006006006
+Epoch: 945 with a loss of: 1.0048672556877137e-05
+
+
+Epoch: 946  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 946  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 946 with a loss of: 1.560233533382416e-05
+
+
+Epoch: 947  | Training Accuracy 0.0  | Training MRR: 0.0070921985815602835
+Epoch: 947  | Validation Accuracy 0.0  | Validation MRR: 0.0033033033033033035
+Epoch: 947 with a loss of: 5.0067901611328125e-06
+
+
+Epoch: 948  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 948  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 948 with a loss of: 2.6229023933410646e-06
+
+
+Epoch: 949  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011968085106382979
+Epoch: 949  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 949 with a loss of: 0.00033508140593767165
+
+
+Epoch: 950  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 950  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 950 with a loss of: 1.5005767345428467e-05
+
+
+Epoch: 951  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 951  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 951 with a loss of: 6.6086649894714355e-06
+
+
+Epoch: 952  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 952  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 952 with a loss of: 0.0009418380551505834
+
+
+Epoch: 953  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009086879432624113
+Epoch: 953  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 953 with a loss of: 1.6158148646354676e-05
+
+
+Epoch: 954  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009802431610942249
+Epoch: 954  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 954 with a loss of: 2.1995306015014647e-05
+
+
+Epoch: 955  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00948581560283688
+Epoch: 955  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 955 with a loss of: 1.905098557472229e-05
+
+
+Epoch: 956  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007313829787234043
+Epoch: 956  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 956 with a loss of: 1.4794766902923584e-05
+
+
+Epoch: 957  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 957  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 957 with a loss of: 4.024729132652283e-06
+
+
+Epoch: 958  | Training Accuracy 0.0  | Training MRR: 0.0026595744680851063
+Epoch: 958  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 958 with a loss of: 0.0014113463182002307
+
+
+Epoch: 959  | Training Accuracy 0.005319148936170213  | Training MRR: 0.013392857142857142
+Epoch: 959  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 959 with a loss of: 1.56363844871521e-05
+
+
+Epoch: 960  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009042553191489361
+Epoch: 960  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 960 with a loss of: 7.4657797813415525e-06
+
+
+Epoch: 961  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008303782505910165
+Epoch: 961  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 961 with a loss of: 0.002006484605371952
+
+
+Epoch: 962  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 962  | Validation Accuracy 0.0  | Validation MRR: 0.0037001287001287
+Epoch: 962 with a loss of: 0.0017338945716619493
+
+
+Epoch: 963  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 963  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 963 with a loss of: 0.002335943952202797
+
+
+Epoch: 964  | Training Accuracy 0.005319148936170213  | Training MRR: 0.01228470111448835
+Epoch: 964  | Validation Accuracy 0.0  | Validation MRR: 0.00429000429000429
+Epoch: 964 with a loss of: 1.4575794339179992e-05
+
+
+Epoch: 965  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007852077001013171
+Epoch: 965  | Validation Accuracy 0.0  | Validation MRR: 0.0022880022880022877
+Epoch: 965 with a loss of: 1.0801330208778381e-05
+
+
+Epoch: 966  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008569739952718676
+Epoch: 966  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 966 with a loss of: 1.3103634119033814e-05
+
+
+Epoch: 967  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009042553191489361
+Epoch: 967  | Validation Accuracy 0.0  | Validation MRR: 0.009009009009009009
+Epoch: 967 with a loss of: 6.674826145172119e-06
+
+
+Epoch: 968  | Training Accuracy 0.010638297872340425  | Training MRR: 0.014994934143870315
+Epoch: 968  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 968 with a loss of: 7.791817188262939e-06
+
+
+Epoch: 969  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007142857142857143
+Epoch: 969  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 969 with a loss of: 0.002363220900297165
+
+
+Epoch: 970  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00775709219858156
+Epoch: 970  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 970 with a loss of: 0.0007676120102405548
+
+
+Epoch: 971  | Training Accuracy 0.0  | Training MRR: 0.0006648936170212766
+Epoch: 971  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 971 with a loss of: 0.001570335328578949
+
+
+Epoch: 972  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 972  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 972 with a loss of: 2.6297643780708314e-05
+
+
+Epoch: 973  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0067966903073286055
+Epoch: 973  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 973 with a loss of: 7.334202527999878e-06
+
+
+Epoch: 974  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 974  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 974 with a loss of: 7.850900292396546e-06
+
+
+Epoch: 975  | Training Accuracy 0.005319148936170213  | Training MRR: 0.01198919284025667
+Epoch: 975  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 975 with a loss of: 0.0014168509095907212
+
+
+Epoch: 976  | Training Accuracy 0.010638297872340425  | Training MRR: 0.015292553191489361
+Epoch: 976  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 976 with a loss of: 8.935295743867756e-05
+
+
+Epoch: 977  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 977  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 977 with a loss of: 0.0013407889753580093
+
+
+Epoch: 978  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010372340425531914
+Epoch: 978  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 978 with a loss of: 8.471682667732238e-06
+
+
+Epoch: 979  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009063660925363053
+Epoch: 979  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 979 with a loss of: 1.5077441930770875e-05
+
+
+Epoch: 980  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006965552178318136
+Epoch: 980  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 980 with a loss of: 5.903616547584534e-06
+
+
+Epoch: 981  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 981  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 981 with a loss of: 5.944296717643738e-06
+
+
+Epoch: 982  | Training Accuracy 0.0  | Training MRR: 0.0010638297872340426
+Epoch: 982  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 982 with a loss of: 9.609833359718322e-06
+
+
+Epoch: 983  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008472644376899695
+Epoch: 983  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 983 with a loss of: 0.0010400406643748283
+
+
+Epoch: 984  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008865248226950355
+Epoch: 984  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 984 with a loss of: 0.0004007037542760372
+
+
+Epoch: 985  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010954913880445795
+Epoch: 985  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 985 with a loss of: 0.001588817611336708
+
+
+Epoch: 986  | Training Accuracy 0.0  | Training MRR: 0.0
+Epoch: 986  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.017267267267267267
+Epoch: 986 with a loss of: 7.163435220718384e-06
+
+
+Epoch: 987  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 987  | Validation Accuracy 0.0  | Validation MRR: 0.005805805805805806
+Epoch: 987 with a loss of: 0.00019408613443374633
+
+
+Epoch: 988  | Training Accuracy 0.0  | Training MRR: 0.0006648936170212766
+Epoch: 988  | Validation Accuracy 0.0  | Validation MRR: 0.004804804804804805
+Epoch: 988 with a loss of: 4.8172473907470706e-05
+
+
+Epoch: 989  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 989  | Validation Accuracy 0.0  | Validation MRR: 0.007882882882882882
+Epoch: 989 with a loss of: 0.0007165129482746125
+
+
+Epoch: 990  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006838905775075987
+Epoch: 990  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 990 with a loss of: 8.160993456840514e-06
+
+
+Epoch: 991  | Training Accuracy 0.005319148936170213  | Training MRR: 0.014279381965552177
+Epoch: 991  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 991 with a loss of: 0.0010969627648591996
+
+
+Epoch: 992  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011968085106382979
+Epoch: 992  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 992 with a loss of: 8.5555762052536e-06
+
+
+Epoch: 993  | Training Accuracy 0.0  | Training MRR: 0.0050975177304964535
+Epoch: 993  | Validation Accuracy 0.0  | Validation MRR: 0.007757757757757758
+Epoch: 993 with a loss of: 1.1542364954948426e-05
+
+
+Epoch: 994  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0077338736913205
+Epoch: 994  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01126126126126126
+Epoch: 994 with a loss of: 0.0040857927687466145
+
+
+Epoch: 995  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008738601823708206
+Epoch: 995  | Validation Accuracy 0.0  | Validation MRR: 0.008294008294008294
+Epoch: 995 with a loss of: 0.00018830880522727967
+
+
+Epoch: 996  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006973995271867612
+Epoch: 996  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 996 with a loss of: 0.001516430377960205
+
+
+Epoch: 997  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 997  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 997 with a loss of: 1.0204166173934936e-05
+
+
+Epoch: 998  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009308510638297872
+Epoch: 998  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 998 with a loss of: 0.0015836121561005711
+
+
+Epoch: 999  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 999  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.01126126126126126
+Epoch: 999 with a loss of: 7.025003433227539e-06
+
+
+Epoch: 1000  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011398176291793313
+Epoch: 1000  | Validation Accuracy 0.0  | Validation MRR: 0.006606606606606607
+Epoch: 1000 with a loss of: 1.3468191027641297e-05
+
+
+Epoch: 1001  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1001  | Validation Accuracy 0.0  | Validation MRR: 0.0022880022880022877
+Epoch: 1001 with a loss of: 7.794573903083802e-06
+
+
+Epoch: 1002  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 1002  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1002 with a loss of: 0.001936046602204442
+
+
+Epoch: 1003  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 1003  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1003 with a loss of: 1.4688000082969666e-05
+
+
+Epoch: 1004  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 1004  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 1004 with a loss of: 1.019410789012909e-05
+
+
+Epoch: 1005  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1005  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1005 with a loss of: 1.181580126285553e-05
+
+
+Epoch: 1006  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1006  | Validation Accuracy 0.0  | Validation MRR: 0.003088803088803089
+Epoch: 1006 with a loss of: 8.323416113853455e-06
+
+
+Epoch: 1007  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 1007  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1007 with a loss of: 6.331652402877808e-06
+
+
+Epoch: 1008  | Training Accuracy 0.005319148936170213  | Training MRR: 0.013392857142857142
+Epoch: 1008  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 1008 with a loss of: 5.0386786460876466e-05
+
+
+Epoch: 1009  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00591016548463357
+Epoch: 1009  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 1009 with a loss of: 0.00016940541565418243
+
+
+Epoch: 1010  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1010  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1010 with a loss of: 1.9753798842430114e-05
+
+
+Epoch: 1011  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1011  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1011 with a loss of: 1.0824054479598999e-05
+
+
+Epoch: 1012  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011398176291793313
+Epoch: 1012  | Validation Accuracy 0.0  | Validation MRR: 0.003539253539253539
+Epoch: 1012 with a loss of: 0.0009712311252951622
+
+
+Epoch: 1013  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 1013  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1013 with a loss of: 0.0016247729212045669
+
+
+Epoch: 1014  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1014  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 1014 with a loss of: 8.243098855018615e-06
+
+
+Epoch: 1015  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 1015  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1015 with a loss of: 1.4865398406982422e-05
+
+
+Epoch: 1016  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009456264775413713
+Epoch: 1016  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1016 with a loss of: 6.185173988342285e-06
+
+
+Epoch: 1017  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1017  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 1017 with a loss of: 2.809390425682068e-06
+
+
+Epoch: 1018  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007408814589665653
+Epoch: 1018  | Validation Accuracy 0.0  | Validation MRR: 0.003088803088803089
+Epoch: 1018 with a loss of: 3.0319392681121826e-06
+
+
+Epoch: 1019  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1019  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1019 with a loss of: 0.00025114275515079497
+
+
+Epoch: 1020  | Training Accuracy 0.005319148936170213  | Training MRR: 0.012875717662951707
+Epoch: 1020  | Validation Accuracy 0.0  | Validation MRR: 0.00459030459030459
+Epoch: 1020 with a loss of: 0.001464284583926201
+
+
+Epoch: 1021  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1021  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1021 with a loss of: 1.5235096216201782e-05
+
+
+Epoch: 1022  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0076832151300236405
+Epoch: 1022  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1022 with a loss of: 9.319707751274108e-06
+
+
+Epoch: 1023  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009181864235055725
+Epoch: 1023  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 1023 with a loss of: 0.00013846703455783427
+
+
+Epoch: 1024  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012462006079027354
+Epoch: 1024  | Validation Accuracy 0.0  | Validation MRR: 0.007293007293007293
+Epoch: 1024 with a loss of: 8.834600448608398e-06
+
+
+Epoch: 1025  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1025  | Validation Accuracy 0.0  | Validation MRR: 0.004429429429429429
+Epoch: 1025 with a loss of: 8.695051074028015e-06
+
+
+Epoch: 1026  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006575059101654846
+Epoch: 1026  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 1026 with a loss of: 4.449188709259033e-06
+
+
+Epoch: 1027  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009042553191489361
+Epoch: 1027  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1027 with a loss of: 7.588565349578857e-06
+
+
+Epoch: 1028  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011081560283687944
+Epoch: 1028  | Validation Accuracy 0.0  | Validation MRR: 0.003539253539253539
+Epoch: 1028 with a loss of: 5.018264055252075e-06
+
+
+Epoch: 1029  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 1029  | Validation Accuracy 0.0  | Validation MRR: 0.009009009009009009
+Epoch: 1029 with a loss of: 5.2506476640701295e-06
+
+
+Epoch: 1030  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1030  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1030 with a loss of: 3.202706575393677e-06
+
+
+Epoch: 1031  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009359169199594732
+Epoch: 1031  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1031 with a loss of: 6.217658519744873e-06
+
+
+Epoch: 1032  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010342789598108746
+Epoch: 1032  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1032 with a loss of: 2.694427967071533e-06
+
+
+Epoch: 1033  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008924349881796691
+Epoch: 1033  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010510510510510511
+Epoch: 1033 with a loss of: 3.0697137117385864e-06
+
+
+Epoch: 1034  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1034  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1034 with a loss of: 2.0360946655273435e-06
+
+
+Epoch: 1035  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1035  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1035 with a loss of: 7.891207933425904e-06
+
+
+Epoch: 1036  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008111702127659574
+Epoch: 1036  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1036 with a loss of: 0.0007426666468381882
+
+
+Epoch: 1037  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 1037  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1037 with a loss of: 0.000941232293844223
+
+
+Epoch: 1038  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 1038  | Validation Accuracy 0.0  | Validation MRR: 0.006006006006006006
+Epoch: 1038 with a loss of: 0.0003044493496417999
+
+
+Epoch: 1039  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1039  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1039 with a loss of: 0.001674761362373829
+
+
+Epoch: 1040  | Training Accuracy 0.0  | Training MRR: 0.005213610266801756
+Epoch: 1040  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1040 with a loss of: 1.0806843638420105e-05
+
+
+Epoch: 1041  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1041  | Validation Accuracy 0.0  | Validation MRR: 0.008433433433433434
+Epoch: 1041 with a loss of: 0.0010780897177755833
+
+
+Epoch: 1042  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1042  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1042 with a loss of: 4.257239401340485e-05
+
+
+Epoch: 1043  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011303191489361703
+Epoch: 1043  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1043 with a loss of: 0.0009346870891749859
+
+
+Epoch: 1044  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007446808510638297
+Epoch: 1044  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1044 with a loss of: 1.913987100124359e-05
+
+
+Epoch: 1045  | Training Accuracy 0.005319148936170213  | Training MRR: 0.01006838905775076
+Epoch: 1045  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1045 with a loss of: 1.4076083898544311e-05
+
+
+Epoch: 1046  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0076832151300236405
+Epoch: 1046  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1046 with a loss of: 1.4700815081596374e-05
+
+
+Epoch: 1047  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1047  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1047 with a loss of: 1.4008134603500367e-05
+
+
+Epoch: 1048  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1048  | Validation Accuracy 0.0  | Validation MRR: 0.00563063063063063
+Epoch: 1048 with a loss of: 9.891167283058166e-06
+
+
+Epoch: 1049  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008569739952718676
+Epoch: 1049  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1049 with a loss of: 6.019249558448791e-06
+
+
+Epoch: 1050  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007408814589665653
+Epoch: 1050  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.014514514514514515
+Epoch: 1050 with a loss of: 1.2967437505722046e-05
+
+
+Epoch: 1051  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 1051  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1051 with a loss of: 6.823316216468811e-06
+
+
+Epoch: 1052  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 1052  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1052 with a loss of: 3.291592001914978e-06
+
+
+Epoch: 1053  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006838905775075987
+Epoch: 1053  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1053 with a loss of: 0.001518353521823883
+
+
+Epoch: 1054  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 1054  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1054 with a loss of: 0.00012532904744148255
+
+
+Epoch: 1055  | Training Accuracy 0.0  | Training MRR: 0.0008865248226950354
+Epoch: 1055  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1055 with a loss of: 5.4164156317710876e-05
+
+
+Epoch: 1056  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 1056  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 1056 with a loss of: 0.0018338926136493682
+
+
+Epoch: 1057  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 1057  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.013013013013013013
+Epoch: 1057 with a loss of: 9.474232792854308e-06
+
+
+Epoch: 1058  | Training Accuracy 0.0  | Training MRR: 0.0032505910165484637
+Epoch: 1058  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1058 with a loss of: 3.445148468017578e-06
+
+
+Epoch: 1059  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 1059  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1059 with a loss of: 3.4877657890319825e-06
+
+
+Epoch: 1060  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006575059101654846
+Epoch: 1060  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1060 with a loss of: 7.537528872489929e-06
+
+
+Epoch: 1061  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1061  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1061 with a loss of: 2.8580427169799806e-06
+
+
+Epoch: 1062  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1062  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1062 with a loss of: 1.8379539251327516e-05
+
+
+Epoch: 1063  | Training Accuracy 0.0  | Training MRR: 0.003989361702127659
+Epoch: 1063  | Validation Accuracy 0.0  | Validation MRR: 0.0022880022880022877
+Epoch: 1063 with a loss of: 4.5666098594665524e-06
+
+
+Epoch: 1064  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 1064  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 1064 with a loss of: 1.0909438133239746e-05
+
+
+Epoch: 1065  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1065  | Validation Accuracy 0.0  | Validation MRR: 0.002127127127127127
+Epoch: 1065 with a loss of: 3.0184537172317505e-06
+
+
+Epoch: 1066  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010638297872340425
+Epoch: 1066  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1066 with a loss of: 3.7673860788345335e-06
+
+
+Epoch: 1067  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 1067  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 1067 with a loss of: 4.491731524467468e-06
+
+
+Epoch: 1068  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1068  | Validation Accuracy 0.0  | Validation MRR: 0.007507507507507507
+Epoch: 1068 with a loss of: 0.0015266014635562898
+
+
+Epoch: 1069  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 1069  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1069 with a loss of: 1.681320369243622e-05
+
+
+Epoch: 1070  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011303191489361703
+Epoch: 1070  | Validation Accuracy 0.0  | Validation MRR: 0.0027885027885027887
+Epoch: 1070 with a loss of: 1.9667446613311766e-05
+
+
+Epoch: 1071  | Training Accuracy 0.0  | Training MRR: 0.0026806822019587975
+Epoch: 1071  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1071 with a loss of: 0.0010327203571796418
+
+
+Epoch: 1072  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1072  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1072 with a loss of: 9.241849184036255e-06
+
+
+Epoch: 1073  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006965552178318136
+Epoch: 1073  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1073 with a loss of: 4.785135388374329e-06
+
+
+Epoch: 1074  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1074  | Validation Accuracy 0.0  | Validation MRR: 0.002002002002002002
+Epoch: 1074 with a loss of: 9.122192859649657e-06
+
+
+Epoch: 1075  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 1075  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1075 with a loss of: 1.2776181101799011e-05
+
+
+Epoch: 1076  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1076  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1076 with a loss of: 7.91497528553009e-06
+
+
+Epoch: 1077  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007712765957446808
+Epoch: 1077  | Validation Accuracy 0.0  | Validation MRR: 0.004129129129129129
+Epoch: 1077 with a loss of: 6.896108388900757e-06
+
+
+Epoch: 1078  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012115839243498818
+Epoch: 1078  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1078 with a loss of: 0.0013119800807908177
+
+
+Epoch: 1079  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008694275582573454
+Epoch: 1079  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1079 with a loss of: 0.0021239348314702512
+
+
+Epoch: 1080  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011968085106382979
+Epoch: 1080  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1080 with a loss of: 1.0927841067314148e-05
+
+
+Epoch: 1081  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008865248226950355
+Epoch: 1081  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1081 with a loss of: 6.562545895576477e-06
+
+
+Epoch: 1082  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1082  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1082 with a loss of: 1.1860728263854981e-05
+
+
+Epoch: 1083  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010372340425531914
+Epoch: 1083  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 1083 with a loss of: 5.350261926651001e-06
+
+
+Epoch: 1084  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009175531914893616
+Epoch: 1084  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1084 with a loss of: 4.5666098594665524e-06
+
+
+Epoch: 1085  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 1085  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1085 with a loss of: 1.0026395320892334e-05
+
+
+Epoch: 1086  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011229314420803783
+Epoch: 1086  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1086 with a loss of: 0.0010721349669620395
+
+
+Epoch: 1087  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 1087  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1087 with a loss of: 1.1484548449516297e-05
+
+
+Epoch: 1088  | Training Accuracy 0.015957446808510637  | Training MRR: 0.015957446808510637
+Epoch: 1088  | Validation Accuracy 0.0  | Validation MRR: 0.0026276276276276274
+Epoch: 1088 with a loss of: 1.4410540461540223e-05
+
+
+Epoch: 1089  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 1089  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1089 with a loss of: 3.7348270416259764e-06
+
+
+Epoch: 1090  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1090  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1090 with a loss of: 3.5525113344192505e-06
+
+
+Epoch: 1091  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1091  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.0138996138996139
+Epoch: 1091 with a loss of: 2.7004629373550414e-06
+
+
+Epoch: 1092  | Training Accuracy 0.005319148936170213  | Training MRR: 0.013475177304964538
+Epoch: 1092  | Validation Accuracy 0.0  | Validation MRR: 0.004129129129129129
+Epoch: 1092 with a loss of: 4.154965281486511e-06
+
+
+Epoch: 1093  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 1093  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1093 with a loss of: 5.565211176872254e-06
+
+
+Epoch: 1094  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008020938872002701
+Epoch: 1094  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1094 with a loss of: 0.0012416943162679673
+
+
+Epoch: 1095  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007142857142857143
+Epoch: 1095  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1095 with a loss of: 0.0030302539095282553
+
+
+Epoch: 1096  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 1096  | Validation Accuracy 0.0  | Validation MRR: 0.002413127413127413
+Epoch: 1096 with a loss of: 4.402577877044678e-05
+
+
+Epoch: 1097  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1097  | Validation Accuracy 0.0  | Validation MRR: 0.002802802802802803
+Epoch: 1097 with a loss of: 5.606114864349366e-06
+
+
+Epoch: 1098  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006382978723404255
+Epoch: 1098  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1098 with a loss of: 4.237517714500427e-06
+
+
+Epoch: 1099  | Training Accuracy 0.010638297872340425  | Training MRR: 0.011968085106382979
+Epoch: 1099  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1099 with a loss of: 5.940794944763184e-06
+
+
+Epoch: 1100  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 1100  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 1100 with a loss of: 6.255805492401123e-06
+
+
+Epoch: 1101  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006870567375886525
+Epoch: 1101  | Validation Accuracy 0.0  | Validation MRR: 0.007007007007007006
+Epoch: 1101 with a loss of: 8.035793900489806e-05
+
+
+Epoch: 1102  | Training Accuracy 0.0  | Training MRR: 0.0035460992907801418
+Epoch: 1102  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1102 with a loss of: 0.0017424676567316054
+
+
+Epoch: 1103  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009013002364066193
+Epoch: 1103  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 1103 with a loss of: 0.001514397757127881
+
+
+Epoch: 1104  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006870567375886525
+Epoch: 1104  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1104 with a loss of: 1.5164241194725036e-05
+
+
+Epoch: 1105  | Training Accuracy 0.010638297872340425  | Training MRR: 0.013297872340425532
+Epoch: 1105  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1105 with a loss of: 7.458627223968506e-06
+
+
+Epoch: 1106  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 1106  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1106 with a loss of: 5.951821804046631e-06
+
+
+Epoch: 1107  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1107  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 1107 with a loss of: 5.16653060913086e-06
+
+
+Epoch: 1108  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007535460992907802
+Epoch: 1108  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1108 with a loss of: 4.468187689781189e-06
+
+
+Epoch: 1109  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009086879432624113
+Epoch: 1109  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.011636636636636638
+Epoch: 1109 with a loss of: 3.14861536026001e-06
+
+
+Epoch: 1110  | Training Accuracy 0.0  | Training MRR: 0.0
+Epoch: 1110  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.013813813813813813
+Epoch: 1110 with a loss of: 1.0878741741180419e-05
+
+
+Epoch: 1111  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00829533941236069
+Epoch: 1111  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1111 with a loss of: 3.6724656820297243e-06
+
+
+Epoch: 1112  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 1112  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 1112 with a loss of: 0.001110202856361866
+
+
+Epoch: 1113  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1113  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1113 with a loss of: 1.586727797985077e-05
+
+
+Epoch: 1114  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1114  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1114 with a loss of: 0.0003234195616096258
+
+
+Epoch: 1115  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007408814589665653
+Epoch: 1115  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1115 with a loss of: 1.1745020747184754e-05
+
+
+Epoch: 1116  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1116  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1116 with a loss of: 6.99453055858612e-06
+
+
+Epoch: 1117  | Training Accuracy 0.005319148936170213  | Training MRR: 0.011081560283687942
+Epoch: 1117  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1117 with a loss of: 4.8213452100753785e-06
+
+
+Epoch: 1118  | Training Accuracy 0.010638297872340425  | Training MRR: 0.01152482269503546
+Epoch: 1118  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1118 with a loss of: 6.502941250801086e-06
+
+
+Epoch: 1119  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008472644376899695
+Epoch: 1119  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1119 with a loss of: 0.0018523109704256058
+
+
+Epoch: 1120  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0076832151300236405
+Epoch: 1120  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1120 with a loss of: 6.154552102088928e-06
+
+
+Epoch: 1121  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0067966903073286055
+Epoch: 1121  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 1121 with a loss of: 6.537362933158874e-06
+
+
+Epoch: 1122  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1122  | Validation Accuracy 0.0  | Validation MRR: 0.008794508794508795
+Epoch: 1122 with a loss of: 0.000542597696185112
+
+
+Epoch: 1123  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008820921985815602
+Epoch: 1123  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1123 with a loss of: 9.21495258808136e-06
+
+
+Epoch: 1124  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0070921985815602835
+Epoch: 1124  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.0132990132990133
+Epoch: 1124 with a loss of: 4.6580284833908085e-06
+
+
+Epoch: 1125  | Training Accuracy 0.015957446808510637  | Training MRR: 0.016622340425531915
+Epoch: 1125  | Validation Accuracy 0.0  | Validation MRR: 0.005791505791505791
+Epoch: 1125 with a loss of: 5.757212638854981e-06
+
+
+Epoch: 1126  | Training Accuracy 0.015957446808510637  | Training MRR: 0.018173758865248225
+Epoch: 1126  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1126 with a loss of: 2.6729702949523925e-06
+
+
+Epoch: 1127  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 1127  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 1127 with a loss of: 4.175528883934021e-05
+
+
+Epoch: 1128  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 1128  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.010510510510510511
+Epoch: 1128 with a loss of: 5.066618323326111e-06
+
+
+Epoch: 1129  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006575059101654846
+Epoch: 1129  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1129 with a loss of: 0.00028352752327919005
+
+
+Epoch: 1130  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0067966903073286055
+Epoch: 1130  | Validation Accuracy 0.0  | Validation MRR: 0.004754754754754755
+Epoch: 1130 with a loss of: 1.0526776313781739e-05
+
+
+Epoch: 1131  | Training Accuracy 0.010638297872340425  | Training MRR: 0.010638297872340425
+Epoch: 1131  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1131 with a loss of: 1.1390969157218932e-05
+
+
+Epoch: 1132  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010245694022289765
+Epoch: 1132  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 1132 with a loss of: 5.7382881641387936e-06
+
+
+Epoch: 1133  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 1133  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1133 with a loss of: 1.1913925409317016e-05
+
+
+Epoch: 1134  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012559101654846336
+Epoch: 1134  | Validation Accuracy 0.0  | Validation MRR: 0.002802802802802803
+Epoch: 1134 with a loss of: 7.654204964637756e-06
+
+
+Epoch: 1135  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008915906788247214
+Epoch: 1135  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1135 with a loss of: 3.0834227800369264e-06
+
+
+Epoch: 1136  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1136  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1136 with a loss of: 0.0018383639492094517
+
+
+Epoch: 1137  | Training Accuracy 0.0  | Training MRR: 0.003945035460992908
+Epoch: 1137  | Validation Accuracy 0.0  | Validation MRR: 0.0033783783783783786
+Epoch: 1137 with a loss of: 1.6819015145301818e-05
+
+
+Epoch: 1138  | Training Accuracy 0.0  | Training MRR: 0.0019208037825059101
+Epoch: 1138  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1138 with a loss of: 4.0521472692489624e-06
+
+
+Epoch: 1139  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1139  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1139 with a loss of: 3.670230507850647e-06
+
+
+Epoch: 1140  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0060790273556231
+Epoch: 1140  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1140 with a loss of: 3.885924816131591e-06
+
+
+Epoch: 1141  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00816869300911854
+Epoch: 1141  | Validation Accuracy 0.0  | Validation MRR: 0.0037537537537537533
+Epoch: 1141 with a loss of: 3.4646689891815184e-06
+
+
+Epoch: 1142  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1142  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1142 with a loss of: 6.0014426708221436e-06
+
+
+Epoch: 1143  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006743920972644377
+Epoch: 1143  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1143 with a loss of: 2.2342801094055175e-06
+
+
+Epoch: 1144  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1144  | Validation Accuracy 0.0  | Validation MRR: 0.0015015015015015015
+Epoch: 1144 with a loss of: 4.341751337051392e-06
+
+
+Epoch: 1145  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1145  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1145 with a loss of: 1.8577277660369873e-06
+
+
+Epoch: 1146  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1146  | Validation Accuracy 0.0  | Validation MRR: 0.006006006006006006
+Epoch: 1146 with a loss of: 3.1963735818862914e-06
+
+
+Epoch: 1147  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1147  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1147 with a loss of: 2.2430717945098877e-06
+
+
+Epoch: 1148  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009530141843971631
+Epoch: 1148  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 1148 with a loss of: 1.7143040895462036e-06
+
+
+Epoch: 1149  | Training Accuracy 0.0  | Training MRR: 0.0017730496453900709
+Epoch: 1149  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1149 with a loss of: 1.3260617852210998e-05
+
+
+Epoch: 1150  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007978723404255319
+Epoch: 1150  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1150 with a loss of: 0.002841402366757393
+
+
+Epoch: 1151  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1151  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1151 with a loss of: 0.00011869139969348907
+
+
+Epoch: 1152  | Training Accuracy 0.010638297872340425  | Training MRR: 0.012588652482269504
+Epoch: 1152  | Validation Accuracy 0.0  | Validation MRR: 0.001001001001001001
+Epoch: 1152 with a loss of: 1.3703927397727966e-05
+
+
+Epoch: 1153  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1153  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1153 with a loss of: 1.849636435508728e-05
+
+
+Epoch: 1154  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006870567375886525
+Epoch: 1154  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1154 with a loss of: 4.734843969345093e-06
+
+
+Epoch: 1155  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007269503546099291
+Epoch: 1155  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1155 with a loss of: 1.4166906476020813e-05
+
+
+Epoch: 1156  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009329618372171564
+Epoch: 1156  | Validation Accuracy 0.0  | Validation MRR: 0.0018018018018018018
+Epoch: 1156 with a loss of: 2.915114164352417e-06
+
+
+Epoch: 1157  | Training Accuracy 0.005319148936170213  | Training MRR: 0.0062056737588652485
+Epoch: 1157  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1157 with a loss of: 2.5244057178497314e-06
+
+
+Epoch: 1158  | Training Accuracy 0.0  | Training MRR: 0.0
+Epoch: 1158  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1158 with a loss of: 7.234781980514527e-05
+
+
+Epoch: 1159  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1159  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1159 with a loss of: 6.9456547498703004e-06
+
+
+Epoch: 1160  | Training Accuracy 0.005319148936170213  | Training MRR: 0.00997340425531915
+Epoch: 1160  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1160 with a loss of: 3.4040957689285277e-06
+
+
+Epoch: 1161  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005984042553191489
+Epoch: 1161  | Validation Accuracy 0.0  | Validation MRR: 0.003003003003003003
+Epoch: 1161 with a loss of: 8.830755949020386e-05
+
+
+Epoch: 1162  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006575059101654846
+Epoch: 1162  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1162 with a loss of: 0.0018893184512853622
+
+
+Epoch: 1163  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1163  | Validation Accuracy 0.0  | Validation MRR: 0.002002002002002002
+Epoch: 1163 with a loss of: 0.001626911461353302
+
+
+Epoch: 1164  | Training Accuracy 0.005319148936170213  | Training MRR: 0.006648936170212766
+Epoch: 1164  | Validation Accuracy 0.009009009009009009  | Validation MRR: 0.009009009009009009
+Epoch: 1164 with a loss of: 0.0010691449791193008
+
+
+Epoch: 1165  | Training Accuracy 0.005319148936170213  | Training MRR: 0.007408814589665653
+Epoch: 1165  | Validation Accuracy 0.0  | Validation MRR: 0.0045045045045045045
+Epoch: 1165 with a loss of: 9.895339608192445e-06
+
+
+Epoch: 1166  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1166  | Validation Accuracy 0.0  | Validation MRR: 0.0022522522522522522
+Epoch: 1166 with a loss of: 6.038770079612732e-06
+
+
+Epoch: 1167  | Training Accuracy 0.005319148936170213  | Training MRR: 0.005319148936170213
+Epoch: 1167  | Validation Accuracy 0.0  | Validation MRR: 0.0022880022880022877
+Epoch: 1167 with a loss of: 4.7704577445983885e-06
+
+
+Epoch: 1168  | Training Accuracy 0.005319148936170213  | Training MRR: 0.008865248226950355
+Epoch: 1168  | Validation Accuracy 0.0  | Validation MRR: 0.001287001287001287
+Epoch: 1168 with a loss of: 4.2084604501724245e-06
+
+
+Epoch: 1169  | Training Accuracy 0.005319148936170213  | Training MRR: 0.009707446808510638
+Epoch: 1169  | Validation Accuracy 0.0  | Validation MRR: 0.0011261261261261261
+Epoch: 1169 with a loss of: 0.006545405230717734
+
+
+Epoch: 1170  | Training Accuracy 0.005319148936170213  | Training MRR: 0.010511651469098276
+Epoch: 1170  | Validation Accuracy 0.0  | Validation MRR: 0.0
+Epoch: 1170 with a loss of: 0.001500785406678915
+
+
+
