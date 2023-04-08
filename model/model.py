@@ -15,7 +15,7 @@ from utils.helper import *
 from torch.nn.functional import normalize
 
 class DataLoader(Dataset):
-    def __init__ (self, filepath="../dataset/dataset_subset800.csv", save_name = "saved_data_title_and_body_concat800.pkl"):
+    def __init__ (self, filepath="../dataset/dataset_subset10000.csv", save_name = "saved_data_title10000.pkl"):
         super().__init__()
             
         # Each data point is a pair of embeddings 
@@ -62,8 +62,9 @@ class DataLoader(Dataset):
             if row["q1_id"] not in self.seen_id:
                 self.seen_id.add(row["q1_id"])
                 
-                q1_concat = row["q1_title"] + " " + row["q1_body"] 
-                encoded_q1 = torch.Tensor(encode_sentence(q1_concat))
+                # q1_concat = row["q1_title"] + " " + row["q1_body"] 
+                # encoded_q1 = torch.Tensor(encode_sentence(q1_concat))
+                encoded_q1 = torch.Tensor(encode_sentence(row["q1_title"]))
                 self.unique_embeddings_id.append(int(row["q1_id"]))
                 self.unique_embeddings.append(encoded_q1) # gonna be fed into the KNN algorithm 
                                                           # i need to know which question the KNN predicts
@@ -71,8 +72,9 @@ class DataLoader(Dataset):
             if row["q2_id"] not in self.seen_id:
                 self.seen_id.add(row["q2_id"])
                 
-                q2_concat = row["q2_title"] + " " + row["q2_body"] 
-                encoded_q2 = torch.Tensor(encode_sentence(q2_concat))
+                # q2_concat = row["q2_title"] + " " + row["q2_body"] 
+                # encoded_q2 = torch.Tensor(encode_sentence(q2_concat))
+                encoded_q2 = torch.Tensor(encode_sentence(row["q2_title"]))
                 self.unique_embeddings_id.append(int(row["q2_id"]))
                 self.unique_embeddings.append(encoded_q2)
                 
@@ -149,7 +151,7 @@ class FineTunedModel(nn.Module):
         a = normalize(a, dim=0)
         return a 
     
-    def forward(self, q1, q2):
+    def forward(self, q1, q2):  
         
         q1 = self.ff(q1)
         q2 = self.ff(q2)
