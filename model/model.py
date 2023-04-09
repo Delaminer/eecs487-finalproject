@@ -13,6 +13,7 @@ import csv
 import pickle
 from utils.helper import *
 from torch.nn.functional import normalize
+import random
 
 class DataLoader(Dataset):
     def __init__ (self, filepath="../dataset/dataset_subset10000.csv", save_name = "saved_data_title10000.pkl"):
@@ -162,7 +163,7 @@ class FineTunedModel(nn.Module):
 from sklearn.feature_extraction.text import TfidfVectorizer
 from collections import defaultdict
 class SpecialDataLoader(Dataset):
-    def __init__ (self, filepath="../dataset/dataset.csv", save_name = "../dataset/tfidf.pkl"):
+    def __init__ (self, filepath="../dataset/dataset.csv", save_name = "../dataset/tfidf.pkl", testing_split=0):
         super().__init__()
         save_model = False
         self.data = []
@@ -189,9 +190,15 @@ class SpecialDataLoader(Dataset):
                 
         # self.vectorizer = 
         self.corpus = [] # For TF-IDF, map corpus_id to 
+        self.training_corpus = [] # For TF-IDF, map corpus_id to 
         self.id_to_corpus = dict() # map doc_id to corresponding corpus_id
         self.corpus_to_id = dict() # map corpus_id to corresponding doc_id
         self.duplicate = defaultdict(lambda: []) # map doc_id to a duplicate doc_id (very similar questions)
+        self.is_doc_testing = {} # Map doc_id to True if in the testing section
+
+        training_count = 0
+        testing_count = 0
+
         # only loading the titles for now 
         for index, row in df.iterrows():
             cur_data = {}
@@ -210,9 +217,20 @@ class SpecialDataLoader(Dataset):
                     self.id_to_corpus[id] = len(self.corpus) # Map the id to the entry's index in self.corpus
                     self.corpus_to_id[len(self.corpus)] = id # Map the index in self.corpus to the id
                     self.corpus.append(entry)
-        
+                    # Assign this to testing or training dataset
+                    is_testing = random.random() < testing_split
+                    self.is_doc_testing[id] = is_testing
+                    if is_testing:
+                        testing_count += 1
+                    else:
+                        self.training_corpus.append(entry)
+                        training_count += 1
+        emp_testing_split = testing_count / (testing_count + training_count)
+        print(f"There are {training_count} training and {testing_count} testing examples. Testing ratio = {emp_testing_split} vs {testing_split}")
+
         self.vectorizer = TfidfVectorizer()
-        self.matrix = self.vectorizer.fit_transform(self.corpus)
+        self.vectorizer.fit(self.training_corpus)
+        self.matrix = self.vectorizer.transform(self.corpus)
         print("Performed tf-idf")
         if save_model:
             try:
@@ -232,3 +250,4 @@ class SpecialDataLoader(Dataset):
     
     def __getitem__(self, idx):
         return self.matrix[idx]
+
