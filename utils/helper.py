@@ -15,7 +15,7 @@ BERT_URL = "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4"
 PREPROCESS_URL = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
 preprocessor = hub.KerasLayer(PREPROCESS_URL)
 bert_model =  hub.KerasLayer(BERT_URL)
-# questions = get_question_dict()
+questions = get_question_dict()
 
 def get_probability(a, b):
     cos_sim = np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))

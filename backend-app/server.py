@@ -29,7 +29,7 @@ def ask_question():
     question = data['title']
     dup_questions = get_nearest_questions(question, n=5)
     print(f"Got question, {question}, see [{dup_questions[0][0]}] {dup_questions[0][1]}")
-    questions_formatted = [{"id": id, "title": question, "body": "unkown"} for id, question in dup_questions]
+    questions_formatted = [{"id": id, "title": question, "body": "This is a test string, imagine this is a real answer"} for id, question in dup_questions]
     return jsonify({'dup': dup_questions[0][1], "dup_id": dup_questions[0][0], "results": questions_formatted})
 
 if __name__ == '__main__':

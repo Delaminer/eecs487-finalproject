@@ -16,7 +16,7 @@ export default function SearchPage() {
   // ]
   return (
     <div className='absolute top-0 left-0 right-0 bottom-0 bg-[#fcfaf3] '> 
-      <div className='flex-col mt-[1em]  mx-[4em] '>
+      <div className='flex-col mt-[1em]  xs:mx-[4em] mx-[1em] '>
         
         <div className='text-left text-[0.5em] font-bold	'>
 
@@ -35,7 +35,7 @@ export default function SearchPage() {
           {/* Need two more divs below, one for title and one for questions  */}
 
           <QuestionPrompt
-            onAskQuestion={({
+            data={data} isLoading={isLoading} onAskQuestion={({
               title,
               body,
             }) => {
@@ -45,16 +45,7 @@ export default function SearchPage() {
 
             }
           />
-          {
-            data && (
-              isLoading ? (
-                "Loading, please wait"
-              ) : (
-                <SearchResults data={data.results} />
-              )
-            )
-
-          }
+          
         </div>
       </div>
 

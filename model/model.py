@@ -13,9 +13,132 @@ import csv
 import pickle
 from utils.helper import *
 from torch.nn.functional import normalize
+from transformers import BertTokenizer, AutoTokenizer, BertForPreTraining, BertModel, AdamW
+from transformers import BertForSequenceClassification
+import torch
 
+class NormalLoader(Dataset):
+    def __init__ (self, filepath="../dataset/dataset_subset800.csv", save_name = "saved_data800.pkl"):
+        super().__init__()
+            
+        # Each data point is a pair of embeddings 
+        # If the data point is labeled as a dup,
+        # then Q1 is the duplicate, and Q2 is the original
+        # Else if the data point is labeled as a non-dup, 
+        # then Q1 is the duplicate, and Q2 is the random-sampled question
+        
+        # data is a csv file in the following format
+        # Q1 title, Q1 body, Q1 id, Q2 title, Q2 body, Q2 id, dup. label
+        self.data = []
+        self.unique_titles = []
+        self.unique_titles_ids = []
+        self.seen_id = set()
+        
+        tokenizer = AutoTokenizer.from_pretrained("bert-base-uncased")
+        # model = BertModel.from_pretrained("bert-base-uncased", return_dict=True)
+        # helper function for calculating the inptu and attention_mask 
+        def ff(sentence):
+                
+            encoding = tokenizer([sentence], return_tensors='pt', padding=True, truncation=True)
+            input_ids = encoding['input_ids']
+            attention_mask = encoding['attention_mask']
+            return input_ids, attention_mask
+            # return model(input_ids, attention_mask=attention_mask).pooler_output[0]
+            
+        df = pd.read_csv(filepath) 
+        
+        if os.path.isfile(save_name):
+            print("Found saved data")
+            try:
+                with open(save_name, "rb") as f:
+                    self.data = pickle.load(f)
+                    print("Successfully load pickle files")
+                with open("unique_embeddings_"+ save_name, "rb") as f:
+                    self.unique_embeddings = pickle.load(f)
+                    print("Successfully load unique_titles")
+                with open("unique_embeddings_id_"+ save_name, "rb") as f:
+                    self.unique_embeddings_id = pickle.load(f)
+                    print("Successfully load titles_id")
+                return 
+            except Exception as e:
+                print("Some errros happened when loading pickle files")
+                print(e)
+        # load the data if it was saved before 
+        for index, row in df.iterrows():
+            
+            # for now we are just doing title
+            # BUT possibly can try body and stuff in the future
+            
+            # if this id is not seen before, we add the data point 
+            if row["q1_id"] not in self.seen_id:
+                self.seen_id.add(row["q1_id"])
+                
+                # q1_concat = row["q1_title"] + " " + row["q1_body"] 
+                # encoded_q1 = torch.Tensor(encode_sentence(q1_concat))
+                self.unique_titles_ids.append(int(row["q1_id"]))
+                self.unique_titles.append(row["q1_title"]) # gonna be fed into the KNN algorithm 
+                                                          # i need to know which question the KNN predicts
+                
+            if row["q2_id"] not in self.seen_id:
+                self.seen_id.add(row["q2_id"])
+                
+                # q2_concat = row["q2_title"] + " " + row["q2_body"] 
+                # encoded_q2 = torch.Tensor(encode_sentence(q2_concat))
+                self.unique_titles_ids.append(int(row["q2_id"]))
+                self.unique_titles.append(row["q2_title"])
+                
+                
+            # NOTE about the above code ^^^
+            # Since we add unique_title and its id at the same order
+            # When we call knn, we are able to retrive its real id by 
+            # looking at the indexes returned by knn, and then index those 
+            # indexes using self.titles_id.
+                
+            in1, atten1 = ff(row["q1_title"])
+            in2, atten2 = ff(row["q2_title"])
+            cur_data = {}
+            print("Currently processing row", index)
+            cur_data["q1_title"] = row["q1_title"]
+            cur_data["q1_id"] = int(row["q1_id"])
+            cur_data["input1"] = in1
+            cur_data["atten1"] = atten1
+            cur_data["input2"] = in2
+            cur_data["atten2"] = atten2
+            cur_data["q2_title"] = row["q2_title"]
+            cur_data["q2_id"] = int(row["q2_id"])
+            # we need to reformat label to be -1 if it's 0, because CosineEmbeddingLoss 
+            # expects y to either be 1 or -1 
+            cur_data["label"] = 1 if int(row["duplicate_label"]) == 1 else -1
+            
+            self.data.append(cur_data)
+        try:
+            print("Pickling data...")
+            
+            with open(save_name, "wb") as f:
+                pickle.dump(self.data, f)
+                print("Successfully wrote data")
+            with open("unique_titles_"+ save_name, "wb") as f:
+                pickle.dump(self.unique_titles, f)
+                print("Successfully wrote unique_titles")
+            with open("unique_titles_id_"+ save_name, "wb") as f:
+                pickle.dump(self.unique_titles_ids, f)
+                print("Successfully wrote unique_titles_id")
+                
+        except Exception as e:
+            print("Some errors happened in pickling data")
+            print(e)
+            
+        print("NormalLoader done processing.")
+        print("Keep in mind the data processed is in order, so you might want to shuffle them.")
+        
+    def __len__(self):
+        return len(self.data)
+    
+    def __getitem__(self, idx):
+        return self.data[idx]
+    
 class DataLoader(Dataset):
-    def __init__ (self, filepath="../dataset/dataset_subset10000.csv", save_name = "saved_data_title10000.pkl"):
+    def __init__ (self, filepath="../dataset/dataset_subset800.csv", save_name = "saved_data400.pkl"):
         super().__init__()
             
         # Each data point is a pair of embeddings 
@@ -41,11 +164,11 @@ class DataLoader(Dataset):
                 with open(save_name, "rb") as f:
                     self.data = pickle.load(f)
                     print("Successfully load pickle files")
-                with open("unique_embeddings_"+ save_name, "rb") as f:
-                    self.unique_embeddings = pickle.load(f)
+                with open("unique_titles_"+ save_name, "rb") as f:
+                    self.unique_titles = pickle.load(f)
                     print("Successfully load unique_titles")
-                with open("unique_embeddings_id_"+ save_name, "rb") as f:
-                    self.unique_embeddings_id = pickle.load(f)
+                with open("unique_titles_id_"+ save_name, "rb") as f:
+                    self.unique_titles_ids = pickle.load(f)
                     print("Successfully load titles_id")
                 return 
             except Exception as e:
@@ -122,7 +245,6 @@ class DataLoader(Dataset):
     
     def __getitem__(self, idx):
         return self.data[idx]
-    
 # this is the model we use to finetune 
 class FineTunedModel(nn.Module):
     def __init__(self, new_dimension=64, dropout=0.5):
