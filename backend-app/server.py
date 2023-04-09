@@ -2,6 +2,10 @@ from flask import Flask, request, jsonify
 from flask_cors import CORS
 import json
 
+import sys
+sys.path.append("..") # need this to import form sibling directory 
+from utils.helper import get_answer_for_question
+
 app = Flask(__name__)
 CORS(app)  # enable CORS for all routes
 
@@ -29,7 +33,7 @@ def ask_question():
     question = data['title']
     dup_questions = get_nearest_questions(question, n=5)
     print(f"Got question, {question}, see [{dup_questions[0][0]}] {dup_questions[0][1]}")
-    questions_formatted = [{"id": id, "title": question, "body": "unkown"} for id, question in dup_questions]
+    questions_formatted = [{"id": id, "title": question, "body": get_answer_for_question(id)["question_body"], "answer_id": get_answer_for_question(id)["answer_id"], "answer_body": get_answer_for_question(id)["answer"]} for id, question in dup_questions]
     return jsonify({'dup': dup_questions[0][1], "dup_id": dup_questions[0][0], "results": questions_formatted})
 
 if __name__ == '__main__':
