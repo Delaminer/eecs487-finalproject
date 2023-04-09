@@ -170,3 +170,46 @@ def get_question_dict():
       #       answers[id] = value
 
       return questions
+
+def get_accepted_answers():
+      tree = ElementTree()
+      tree.parse("..//data//Posts.xml")
+      root = tree.getroot()
+      posts = root.iter("row")
+
+      answers = {}
+      # first preprocess the data and split them into questions and answers
+      for post in posts:
+            if int(post.attrib["PostTypeId"]) == 2:
+                  answers[int(post.attrib["Id"])] = post.attrib["Body"]
+
+      for id, value in answers.items():
+            answers[id] = bs(value, "lxml").text
+
+
+      return answers
+
+
+# def get_question_answer_pairs(questions, answers):
+#       question_answers = []
+#       # first preprocess the data and split them into questions and answers
+
+#       for id, value in questions.items():
+#             if value["accepted"] != -1 and int(value["accepted"]) in answers.keys():
+#                   answer = answers[int(value["accepted"])]
+#                   this_question_answer = [id, value["title"], value["body"], value["accepted"], answer]
+#                   question_answers.append(this_question_answer)     
+
+#       return question_answers
+
+def get_question_answer_dict(questions, answers):
+      question_answers = {}
+      # first preprocess the data and split them into questions and answers
+
+      for id, value in questions.items():
+            if value["accepted"] != -1 and int(value["accepted"]) in answers.keys():
+                  answer = answers[int(value["accepted"])]
+                  this_question_answer = {"question_body": value["body"],"answer_id": value["accepted"], "answer": answer}
+                  question_answers[id] = this_question_answer
+
+      return question_answers
