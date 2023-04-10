@@ -7,7 +7,7 @@ export default function SearchResultEntry({ title, body, answer_body, id }) {
     console.log(link);
     answer_body = answer_body == null ? 
                     "There isn't an acceptable answer for this question, try clicking on the link to see the actual question"  
-                    : answer_body  
+                    : answer_body     
     return (
         <div className='bg-white border-2 border-solid text-left p-2'>
                 
@@ -36,6 +36,6 @@ export default function SearchResultEntry({ title, body, answer_body, id }) {
                         </div>
                     )
                 }
-        </div>
+                </div>
     )
 }

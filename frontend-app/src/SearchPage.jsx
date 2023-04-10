@@ -31,7 +31,7 @@ export default function SearchPage() {
             // Send API request, and wait to hear back for duplicate questions.
           }}
         /> */}
-        <div className=' h-fit mt-[1em] mb-[2em]  '>
+        <div className=' h-fit mt-[1em] pb-[2em]  '>
           {/* Need two more divs below, one for title and one for questions  */}
 
           <QuestionPrompt
@@ -46,6 +46,18 @@ export default function SearchPage() {
             }
           />
           
+
+              {
+                  data && (
+                  isLoading ? (
+                      "Loading, please wait"
+                  ) : (
+                      <SearchResults data={data.results} />
+                      // "hello world"
+                  )
+                  )
+
+              }
         </div>
       </div>
 

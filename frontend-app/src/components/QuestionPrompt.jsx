@@ -35,20 +35,7 @@ export default function QuestionPrompt({ onAskQuestion, data, isLoading }) {
                         className='break-words text-[0.8em] p-[0.5em] rounded-lg w-full border-solid border-gray-400 border-2 '
                     />
                 </div>
-                <div>
 
-                    {
-                        data && (
-                        isLoading ? (
-                            "Loading, please wait"
-                        ) : (
-                            <SearchResults data={data.results} />
-                            // "hello world"
-                        )
-                        )
-
-                    }
-                </div>
                 <div className=' text-xl flex flex-col items-start h-full'>
 
                     <label className='font-bold'>

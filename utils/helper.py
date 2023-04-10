@@ -1,21 +1,30 @@
-from annoy import AnnoyIndex
+# from annoy import AnnoyIndex
 from nltk import sent_tokenize
 import torch
 import numpy as np
-import tensorflow_hub as hub
-import tensorflow as tf
-import tensorflow_text as text
+# import tensorflow_hub as hub
+# import tensorflow as tf
+# import tensorflow_text as text
 from utils.preprocess_functions import get_question_dict_no_answer, get_accepted_answers, get_question_answer_dict
-import torch.nn as nn
-m = nn.Sigmoid()
+# import torch.nn as nn
+# m = nn.Sigmoid()
 
 # Load the Preprocessor and Bert models, this is gonna take a while
 # we are loading the version that automatically lowercase the words for us
-BERT_URL = "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4"
-PREPROCESS_URL = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
-preprocessor = hub.KerasLayer(PREPROCESS_URL)
-bert_model =  hub.KerasLayer(BERT_URL)
+# BERT_URL = "https://tfhub.dev/tensorflow/bert_en_uncased_L-12_H-768_A-12/4"
+# PREPROCESS_URL = "https://tfhub.dev/tensorflow/bert_en_uncased_preprocess/3"
+# preprocessor = hub.KerasLayer(PREPROCESS_URL)
+# bert_model =  hub.KerasLayer(BERT_URL)
+# preprocessor.save("preprocessor")
+# bert_model.save("bert_model")
+# import pickle
 
+# with open("preprocessor.pkl", "wb") as f:
+#     pickle.dump(preprocessor, f)
+#     print("Successfully wrote")
+# with open("bert_model.pkl", "wb") as f:
+#     pickle.dump(bert_model, f)
+#     print("Successfully wrote")
 # questions = get_question_dict_no_answer()
 # answers = get_accepted_answers()
 # question_answers = get_question_answer_dict(questions, answers)
