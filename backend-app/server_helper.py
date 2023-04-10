@@ -30,29 +30,16 @@ def get_answer_for_question(qid):
 
 
 class TFIDFDataset():
-    def __init__ (self, filepath="../dataset/dataset.csv", save_name = "../dataset/tfidf.pkl", testing_split=0):
+    def __init__ (self, filepath="dataset.csv", testing_split=0):
         save_model = False
         self.data = []
         self.unique_embeddings = []
         self.unique_embeddings_id = []
         self.seen_id = set()
-        df = pd.read_csv(filepath)         
-        if save_model and os.path.isfile(save_name):
-            print("Found saved data")
-            try:
-                with open(save_name, "rb") as f:
-                    self.data = pickle.load(f)
-                    print("Successfully load pickle files")
-                with open("unique_embeddings_"+ save_name, "rb") as f:
-                    self.unique_embeddings = pickle.load(f)
-                    print("Successfully load unique_titles")
-                with open("unique_embeddings_id_"+ save_name, "rb") as f:
-                    self.unique_embeddings_id = pickle.load(f)
-                    print("Successfully load titles_id")
-                return 
-            except Exception as e:
-                print("Some errros happened when loading pickle files")
-                print(e)
+        url = "https://raw.githubusercontent.com/Delaminer/eecs487-finalproject/main/dataset/dataset.csv"
+        print("Reading from URL")
+        df = pd.read_csv(url)
+        print("Done reading from URL")
                 
         # self.vectorizer = 
         self.corpus = [] # For TF-IDF, map corpus_id to 
@@ -97,18 +84,7 @@ class TFIDFDataset():
         self.vectorizer = TfidfVectorizer()
         self.vectorizer.fit(self.training_corpus)
         self.matrix = self.vectorizer.transform(self.corpus)
-        print("Performed tf-idf")
-        if save_model:
-            try:
-                print("Pickling data...")
-                with open(save_name, "wb") as f:
-                    pickle.dump(self.data, f)
-                    print("Successfully wrote data")    
-            except Exception as e:
-                print("Some errors happened in pickling data")
-                print(e)
-            
-        print("Special dataloader done processing.")
+        print("Special tfidf dataloader done processing.")
         print("Keep in mind the data processed is in order, so you might want to shuffle them.")
         
     def __len__(self):

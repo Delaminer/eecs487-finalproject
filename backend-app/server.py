@@ -7,7 +7,7 @@ from sklearn.metrics.pairwise import cosine_similarity
 app = Flask(__name__)
 CORS(app)  # enable CORS for all routes
 
-dataloader = TFIDFDataset(filepath="../dataset/dataset.csv", save_name="../dataset/")
+dataloader = TFIDFDataset()
 
 def get_nearest_questions(text, n=5):
     row = dataloader.vectorizer.transform([text])
