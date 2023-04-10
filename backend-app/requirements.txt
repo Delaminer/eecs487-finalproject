@@ -4,3 +4,4 @@ boto3
 numpy
 pandas
 scikit-learn
+gunicorn
