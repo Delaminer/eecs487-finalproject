@@ -33,7 +33,20 @@ def ask_question():
     question = data['title']
     dup_questions = get_nearest_questions(question, n=5)
     print(f"Got question, {question}, see [{dup_questions[0][0]}] {dup_questions[0][1]}")
-    questions_formatted = [{"id": id, "title": question, "body": get_answer_for_question(id)["question_body"], "answer_id": get_answer_for_question(id)["answer_id"], "answer_body": get_answer_for_question(id)["answer"]} for id, question in dup_questions]
+    # questions_formatted = [{"id": id, \
+    #                         "title": question, \
+    #                         "body": get_answer_for_question(id)["question_body"],\
+    #                         "answer_id": get_answer_for_question(id)["answer_id"], \
+    #                         "answer_body": get_answer_for_question(id)["answer"]} for id, question in dup_questions]
+    
+    questions_formatted = []
+    for id, question in dup_questions:
+        cur_answer = get_answer_for_question(id) 
+        body = cur_answer["question_body"] if cur_answer != None else None
+        answer_id = cur_answer["answer_id"] if cur_answer != None else None
+        answer_body = cur_answer["answer"] if cur_answer != None else None
+        questions_formatted.append({"id": id, "title": question, "body": body, "answer_id": answer_id, "answer_body": answer_body})
+    
     return jsonify({'dup': dup_questions[0][1], "dup_id": dup_questions[0][0], "results": questions_formatted})
 
 if __name__ == '__main__':

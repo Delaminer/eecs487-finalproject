@@ -13,13 +13,7 @@ import csv
 import pickle
 from utils.helper import *
 from torch.nn.functional import normalize
-<<<<<<< HEAD
-from transformers import BertTokenizer, AutoTokenizer, BertForPreTraining, BertModel, AdamW
-from transformers import BertForSequenceClassification
-import torch
-=======
 import random
->>>>>>> 6b0b3cc97e6a27d6c3e87a272ea26ca575d1f0b6
 
 class NormalLoader(Dataset):
     def __init__ (self, filepath="../dataset/dataset_subset800.csv", save_name = "saved_data800.pkl"):

@@ -9,7 +9,7 @@ export default function SearchResults ({ data }) {
             <></>
         );
     }
-
+    console.log(data);
     return (
         <div className='xxs:text-[0.8em] border-2 border-gray-400 border-solid mb-[1em] rounded'>
             

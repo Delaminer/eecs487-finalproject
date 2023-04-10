@@ -5,7 +5,7 @@ import SearchResults from './SearchResults';
 export default function QuestionPrompt({ onAskQuestion, data, isLoading }) {
     const [questionTitle, setQuestionTitle] = useState('');
     const [questionBody, setQuestionBody] = useState('');
-
+    console.log("WWWW", data);
     function handleSubmit(event) {
         event.preventDefault();
         onAskQuestion({
@@ -87,7 +87,7 @@ export default function QuestionPrompt({ onAskQuestion, data, isLoading }) {
             </div>
             <div className='justify-start items-start flex p-[0.5em] text-xl'>
 
-                <button onClick={handleSubmit}  type='submit' className=' rounded-sm shadow-xl bg-[#ae3737] text-white' >
+                <button onClick={handleSubmit}  type='submit' className='transition  rounded-sm shadow-xl bg-[#ae3737] text-white' >
                     {/* <img src='search-icon.png' className='prompt-submit-icon'
                         onClick={handleSubmit}
                     /> */}
