@@ -1,19 +1,14 @@
 from flask import Flask, request, jsonify
 from flask_cors import CORS
 import json
-
-import sys
-sys.path.append("..") # need this to import form sibling directory 
-from utils.helper import get_answer_for_question
+from server_helper import get_answer_for_question, TFIDFDataset
+from sklearn.metrics.pairwise import cosine_similarity
 
 app = Flask(__name__)
 CORS(app)  # enable CORS for all routes
 
-import sys 
-sys.path.append('../model')
-from model import SpecialDataLoader
-from sklearn.metrics.pairwise import cosine_similarity
-dataloader = SpecialDataLoader(filepath="../dataset/dataset.csv", save_name="../dataset/")
+dataloader = TFIDFDataset(filepath="../dataset/dataset.csv", save_name="../dataset/")
+
 def get_nearest_questions(text, n=5):
     row = dataloader.vectorizer.transform([text])
     cos_similarities = cosine_similarity(row, dataloader.matrix)
@@ -22,10 +17,6 @@ def get_nearest_questions(text, n=5):
     top_responses = [(dataloader.corpus_to_id[c], dataloader.corpus[c]) for c in top_corpus]
     return top_responses
 
-
-# @app.route('/questions', methods=['GET'])
-# def get_questions():
-#     return jsonify(questions)
 
 @app.route('/ask', methods=['POST'])
 def ask_question():
@@ -51,4 +42,4 @@ def ask_question():
 
 if __name__ == '__main__':
     print("Starting server!")
-    app.run(debug=True, port=5000)
+    app.run(debug=False)

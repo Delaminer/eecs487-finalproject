@@ -1,2 +1,7 @@
 flask
 flask_cors
+sklearn
+boto3
+numpy
+pandas
+scikit-learn
