@@ -4,7 +4,7 @@ import useApiRequest from './useApiRequest';
 export default function useAskQuestion() {
 
   const { apiRequest, isLoading, error, data } = useApiRequest({
-    url: 'http://localhost:5000/ask',
+    url: 'https://eecs487-final-backend.herokuapp.com/ask',
     method: 'POST',
   })
   //   fetch('http://localhost:4389/ask', {
