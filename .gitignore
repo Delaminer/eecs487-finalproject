@@ -9,6 +9,7 @@ save/
 
 *.pyc
 
+glove-wiki-**
 
 # temporary
 model/save\\hd768**
