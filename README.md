@@ -31,6 +31,7 @@ The most important file that runs the training of the model is model_training.ip
 
 ```playground```:
 This folder contains just codes for us to play around, nothing really important here
+
 ```utils```:
 The utils folder contains important python codes with helper functions to help us run the preprocessing of data, such as cleaning up the HTML tags/symbols from the raw data
 
