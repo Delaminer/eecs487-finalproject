@@ -6,7 +6,7 @@ data/
 old_data/
 model/save/
 save/
-
+.env
 *.pyc
 
 

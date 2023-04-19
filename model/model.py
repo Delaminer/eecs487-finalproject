@@ -136,7 +136,7 @@ class NormalLoader(Dataset):
         return self.data[idx]
     
 class DataLoader(Dataset):
-    def __init__ (self, filepath="../dataset/dataset_subset800.csv", save_name = "saved_data400.pkl"):
+    def __init__ (self, filepath="../dataset/dataset_subset800.csv", save_name = "saved_data800.pkl"):
         super().__init__()
             
         # Each data point is a pair of embeddings 

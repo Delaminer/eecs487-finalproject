@@ -38,10 +38,11 @@ from utils.preprocess_functions import get_question_dict_no_answer, get_accepted
 import pickle
 import boto3
 import boto3.session
-
-ACCESS_KEY = "AKIATB4NJKW5HENP6TE7"
-SECRET_KEY = "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"
-
+from dotenv import load_dotenv
+import os
+load_dotenv()
+ACCESS_KEY = os.environ.get("ACCESS_KEY")
+SECRET_KEY = os.environ.get("SECRET_KEY")
 s3client = boto3.client('s3', 
                         aws_access_key_id = ACCESS_KEY, 
                         aws_secret_access_key = SECRET_KEY
