@@ -17,6 +17,10 @@ def get_nearest_questions(text, n=5):
     top_responses = [(dataloader.corpus_to_id[c], dataloader.corpus[c]) for c in top_corpus]
     return top_responses
 
+@app.route('/', methods=['GET'])
+def default_page():
+    return "Welcome to the backend."
+
 
 @app.route('/ask', methods=['POST'])
 def ask_question():
